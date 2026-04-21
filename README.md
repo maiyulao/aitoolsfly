@@ -8,4 +8,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
+
+### Ai Frameworks
+- [Meoo](./ai-frameworks/ai-tool-75263.md) — 2026-04-15
 <!-- LE_AUTOPOST_INDEX_END -->
