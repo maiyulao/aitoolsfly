@@ -80,6 +80,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Loom](./ai-office-tools/loom-ai-video-messaging.md) — 2026-01-21
 - [Typeless](./ai-office-tools/typeless-ai-voice-typing.md) — 2026-01-15
 - [ChartGen](./ai-office-tools/chartgen-ai-chart-generator.md) — 2026-01-06
+- [KeLing PPT](./ai-office-tools/keling-ppt.md) — 2025-12-26
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
