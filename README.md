@@ -53,6 +53,9 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Whacka](./ai-frameworks/whacka-ai-nocode-app-builder.md) — 2026-04-03
 - [Volcengine Coding Plan](./ai-frameworks/volcengine-coding-plan.md) — 2026-03-30
 
+### Ai Image Background Removers
+- [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
+
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
 - [Omma](./ai-image-tools/omma-ai-3d-creation.md) — 2026-03-27
