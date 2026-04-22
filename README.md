@@ -75,6 +75,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [APIMart](./ai-frameworks/apimart-unified-ai-api-platform.md) — 2025-11-24
 - [InsCode](./ai-frameworks/inscode-ai-code-generator.md) — 2025-11-21
 - [EBCloud AI Compute](./ai-frameworks/ebcloud-ai-compute.md) — 2025-11-13
+- [DMXAPI](./ai-frameworks/dmxapi-unified-ai-gateway.md) — 2025-10-30
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
