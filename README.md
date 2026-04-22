@@ -148,4 +148,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [SheYanTong](./ai-writing-tools/sheyantong-ai-academic-writing.md) — 2025-12-22
 - [GetDraft](./ai-writing-tools/getdraft.md) — 2025-11-28
 - [FeelFish](./ai-writing-tools/feelfish-ai-novel-writer.md) — 2025-11-21
+- [Luobi AI Writing](./ai-writing-tools/luobi-ai-writing.md) — 2025-11-17
 <!-- LE_AUTOPOST_INDEX_END -->
