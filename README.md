@@ -66,6 +66,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [ChartinAI](./ai-office-tools/chartinai.md) — 2026-01-26
 - [MetaLaw](./ai-office-tools/metalaw-ai-legal-research.md) — 2026-01-23
 - [Loom](./ai-office-tools/loom-ai-video-messaging.md) — 2026-01-21
+- [Typeless](./ai-office-tools/typeless-ai-voice-typing.md) — 2026-01-15
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
