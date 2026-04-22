@@ -108,6 +108,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Miaoyan AI Voice Input](./ai-office-tools/miaoyan-ai-voice-input.md) — 2025-12-14
 - [Feixiang Teacher](./ai-office-tools/feixiang-teacher.md) — 2025-12-02
 - [AI Interview Helper](./ai-office-tools/ai-interview-helper.md) — 2025-11-28
+- [LiPin AI](./ai-office-tools/lipin-ai.md) — 2025-11-18
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
