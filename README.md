@@ -32,6 +32,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Douge AI Voiceover](./ai-audio-tools/douge-ai-voiceover.md) — 2026-04-10
 - [LiteSight](./ai-audio-tools/litesight-ai-video-transcription.md) — 2026-03-24
 - [TurboScribe](./ai-audio-tools/turboscribe-ai-transcription.md) — 2026-01-21
+- [Multi-Dimensional Vision](./ai-audio-tools/multi-dimensional-vision.md) — 2026-01-06
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
