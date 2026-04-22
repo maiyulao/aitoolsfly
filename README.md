@@ -62,6 +62,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [LuxReal](./ai-image-tools/luxreal-ai-3d-video-creation.md) — 2026-01-19
 - [Neural4D](./ai-image-tools/neural4d.md) — 2026-01-16
 - [Miaohui AI](./ai-image-tools/miaohui-ai.md) — 2026-01-13
+- [Wuli AI](./ai-image-tools/wuli-ai.md) — 2026-01-13
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
