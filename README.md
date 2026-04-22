@@ -15,6 +15,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [724Claw](./ai-agent/724claw-ai-desktop-assistant.md) — 2026-03-25
 - [Accio Work](./ai-agent/accio-work.md) — 2026-03-25
 - [DuMate](./ai-agent/dumate-baidu-ai-agent.md) — 2026-03-23
+- [RedClaw](./ai-agent/redclaw-ai-agent.md) — 2026-03-18
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
