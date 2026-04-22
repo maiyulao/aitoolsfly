@@ -87,6 +87,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Diagrimo](./ai-office-tools/diagrimo-ai-diagram-generator.md) — 2025-12-23
 - [Bimiantong](./ai-office-tools/bimiantong-ai-interview-assistant.md) — 2025-12-22
 - [Owl AI Web Monitor](./ai-office-tools/owl-ai-web-monitor.md) — 2025-12-19
+- [Miaoyan AI Voice Input](./ai-office-tools/miaoyan-ai-voice-input.md) — 2025-12-14
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
