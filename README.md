@@ -89,6 +89,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [AniShort](./ai-video-tools/anishort.md) — 2026-03-13
 - [A2E](./ai-video-tools/a2e-ai-video-generator.md) — 2026-02-25
 - [Xianchou AI](./ai-video-tools/xianchou-ai.md) — 2026-01-15
+- [NextCut AI](./ai-video-tools/nextcut-ai.md) — 2026-01-10
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
