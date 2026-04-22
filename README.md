@@ -63,6 +63,9 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [ChartinAI](./ai-office-tools/chartinai.md) — 2026-01-26
 - [MetaLaw](./ai-office-tools/metalaw-ai-legal-research.md) — 2026-01-23
 
+### Ai Programming Tools
+- [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
+
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
 - [Yike AI](./ai-video-tools/yike-ai.md) — 2026-04-13
