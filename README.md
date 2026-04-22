@@ -19,6 +19,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Loomy](./ai-agent/loomy-ai-desktop-assistant.md) — 2026-03-17
 - [Wukong AI](./ai-agent/wukong-ai-enterprise-platform.md) — 2026-03-17
 - [AstronClaw](./ai-agent/astronclaw.md) — 2026-03-12
+- [WinClaw](./ai-agent/winclaw-ai-agent-platform.md) — 2026-03-12
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
