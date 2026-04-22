@@ -81,6 +81,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [EBCloud AI Compute](./ai-frameworks/ebcloud-ai-compute.md) — 2025-11-13
 - [DMXAPI](./ai-frameworks/dmxapi-unified-ai-gateway.md) — 2025-10-30
 - [FastGPT](./ai-frameworks/fastgpt.md) — 2025-10-24
+- [TokenPony](./ai-frameworks/tokenpony-ai-api-aggregator.md) — 2025-10-20
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
