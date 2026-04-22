@@ -31,6 +31,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Tago](./ai-agent/tago-ai-ecommerce-agent.md) — 2025-12-08
 - [FlowMuse AI](./ai-agent/flowmuse-ai.md) — 2025-12-06
 - [NeoDomain](./ai-agent/neodomain-ai-creative-agent.md) — 2025-12-02
+- [AlphaShop](./ai-agent/alphashop-cross-border-ecommerce-agent.md) — 2025-11-26
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
