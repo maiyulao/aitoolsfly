@@ -94,6 +94,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [imgAK](./ai-image-tools/imgak-ai-image-processing.md) — 2026-01-05
 - [Miaohua AI](./ai-image-tools/miaohua-ai.md) — 2025-12-24
 - [Style3D](./ai-image-tools/style3d-ai-fashion-design.md) — 2025-11-24
+- [Marble](./ai-image-tools/marble-world-labs.md) — 2025-11-14
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
