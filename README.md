@@ -48,6 +48,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Multi-Dimensional Vision](./ai-audio-tools/multi-dimensional-vision.md) — 2026-01-06
 - [YinChao](./ai-audio-tools/yinchao-ai-music-generator.md) — 2025-11-11
 - [AudioMyst](./ai-audio-tools/audiomyst.md) — 2025-10-28
+- [Tunee](./ai-audio-tools/tunee-ai-music-agent.md) — 2025-10-20
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
