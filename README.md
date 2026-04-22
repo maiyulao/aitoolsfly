@@ -27,6 +27,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 ### Ai Design Tools
 - [Miora](./ai-design-tools/miora-ai-design-collaboration.md) — 2026-03-30
 - [Ribbi](./ai-design-tools/ribbi-ai-design-agent.md) — 2026-03-25
+- [Stitch](./ai-design-tools/stitch-google-labs.md) — 2026-03-23
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
