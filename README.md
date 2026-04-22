@@ -14,6 +14,9 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
 - [SingClaw](./ai-agents/ai-tool-75154.md) — 2026-04-14
 
+### Ai Audio Tools
+- [Douge AI Voiceover](./ai-audio-tools/douge-ai-voiceover.md) — 2026-04-10
+
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
 
