@@ -61,6 +61,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
 - [ChartinAI](./ai-office-tools/chartinai.md) — 2026-01-26
+- [MetaLaw](./ai-office-tools/metalaw-ai-legal-research.md) — 2026-01-23
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
