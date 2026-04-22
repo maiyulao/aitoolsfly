@@ -22,6 +22,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [WinClaw](./ai-agent/winclaw-ai-agent-platform.md) — 2026-03-12
 - [OpenClaw](./ai-agent/openclaw-ai-assistant.md) — 2026-01-27
 - [WorkAny](./ai-agent/workany-open-source-desktop-ai-agent.md) — 2026-01-26
+- [Atoms](./ai-agent/atoms-ai-agent-team.md) — 2026-01-13
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
