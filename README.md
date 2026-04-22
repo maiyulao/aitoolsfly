@@ -125,6 +125,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Quark AI PPT](./ai-office-tools/quark-ai-ppt.md) — 2025-11-12
 - [51mee](./ai-office-tools/51mee-ai-recruitment-management.md) — 2025-11-10
 - [AskTable](./ai-office-tools/asktable-ai-data-agent.md) — 2025-11-07
+- [Mian Duo Duo](./ai-office-tools/mian-duo-duo-ai-interview-simulator.md) — 2025-10-23
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
