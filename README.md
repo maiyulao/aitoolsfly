@@ -165,4 +165,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [FeelFish](./ai-writing-tools/feelfish-ai-novel-writer.md) — 2025-11-21
 - [Luobi AI Writing](./ai-writing-tools/luobi-ai-writing.md) — 2025-11-17
 - [Loomi](./ai-writing-tools/loomi-ai-writing-tool.md) — 2025-11-12
+- [Quantum Adventure](./ai-writing-tools/quantum-adventure-ai-novel-writer.md) — 2025-10-29
 <!-- LE_AUTOPOST_INDEX_END -->
