@@ -82,4 +82,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
 - [Chuangfei AI Writing](./ai-writing-tools/chuangfei-ai-writing.md) — 2026-03-31
+- [Cailiaoxing AI](./ai-writing-tools/cailiaoxing-ai.md) — 2026-01-20
 <!-- LE_AUTOPOST_INDEX_END -->
