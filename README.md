@@ -33,6 +33,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [NeoDomain](./ai-agent/neodomain-ai-creative-agent.md) — 2025-12-02
 - [AlphaShop](./ai-agent/alphashop-cross-border-ecommerce-agent.md) — 2025-11-26
 - [OiiOii](./ai-agent/oiioii-ai-animation-agent.md) — 2025-11-14
+- [Teamo](./ai-agent/teamo-ai-agent-collaboration.md) — 2025-10-24
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
