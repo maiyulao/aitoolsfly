@@ -35,6 +35,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [OiiOii](./ai-agent/oiioii-ai-animation-agent.md) — 2025-11-14
 - [Teamo](./ai-agent/teamo-ai-agent-collaboration.md) — 2025-10-24
 - [Kuxuan AI](./ai-agent/kuxuan-ai.md) — 2025-10-24
+- [Moon Statistics AI](./ai-agent/moon-statistics-ai.md) — 2025-10-21
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
