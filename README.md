@@ -6,6 +6,9 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 <!-- LE_AUTOPOST_INDEX_BEGIN -->
 ## 文章索引（自动维护）
 
+### Ai Agent
+- [TuriX](./ai-agent/turix-computer-use-agent.md) — 2026-04-14
+
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
 - [SingClaw](./ai-agents/ai-tool-75154.md) — 2026-04-14
