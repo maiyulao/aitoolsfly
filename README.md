@@ -75,6 +75,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 
 ### Ai Image Generators
 - [MakeManga](./ai-image-generators/makemanga-ai-comic-generator.md) — 2025-11-25
+- [Morisot](./ai-image-generators/morisot-ai-image-generator.md) — 2025-11-25
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
