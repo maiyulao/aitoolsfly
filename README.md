@@ -73,6 +73,9 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
 
+### Ai Image Generators
+- [MakeManga](./ai-image-generators/makemanga-ai-comic-generator.md) — 2025-11-25
+
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
 - [Omma](./ai-image-tools/omma-ai-3d-creation.md) — 2026-03-27
