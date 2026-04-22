@@ -33,6 +33,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
+- [SpeedAI](./ai-content-detection-and-optimization-tools/speedai-ai-content-detection-optimization.md) — 2026-01-23
 
 ### Ai Design Tools
 - [Miora](./ai-design-tools/miora-ai-design-collaboration.md) — 2026-03-30
