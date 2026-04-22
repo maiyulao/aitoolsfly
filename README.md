@@ -52,6 +52,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Yike AI](./ai-video-tools/yike-ai.md) — 2026-04-13
 - [VibeKnow](./ai-video-tools/vibeknow.md) — 2026-04-02
 - [Pexo](./ai-video-tools/pexo-ai-video-agent.md) — 2026-03-23
+- [LibTV](./ai-video-tools/libtv-ai-video-generator.md) — 2026-03-18
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
