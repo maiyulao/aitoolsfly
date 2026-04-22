@@ -66,6 +66,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Neural4D](./ai-image-tools/neural4d.md) — 2026-01-16
 - [Miaohui AI](./ai-image-tools/miaohui-ai.md) — 2026-01-13
 - [Wuli AI](./ai-image-tools/wuli-ai.md) — 2026-01-13
+- [Chaoji Haomai](./ai-image-tools/chaoji-haomai.md) — 2026-01-09
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
