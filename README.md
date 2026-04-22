@@ -175,4 +175,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Loomi](./ai-writing-tools/loomi-ai-writing-tool.md) — 2025-11-12
 - [Quantum Adventure](./ai-writing-tools/quantum-adventure-ai-novel-writer.md) — 2025-10-29
 - [Rubriq](./ai-writing-tools/rubriq-ai-academic-writing.md) — 2025-10-22
+- [Qianye AI Novel Writer](./ai-writing-tools/qianye-ai-novel-writer.md) — 2025-10-20
 <!-- LE_AUTOPOST_INDEX_END -->
