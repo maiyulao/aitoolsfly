@@ -61,6 +61,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Volcengine Coding Plan](./ai-frameworks/volcengine-coding-plan.md) — 2026-03-30
 - [Lingguang](./ai-frameworks/lingguang-ai-platform.md) — 2025-12-15
 - [SophNet](./ai-frameworks/sophnet-deepseek-api-platform.md) — 2025-12-11
+- [MornAI](./ai-frameworks/mornai-gpu-cloud-platform.md) — 2025-12-10
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
