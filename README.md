@@ -136,4 +136,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Chuangfei AI Writing](./ai-writing-tools/chuangfei-ai-writing.md) — 2026-03-31
 - [Cailiaoxing AI](./ai-writing-tools/cailiaoxing-ai.md) — 2026-01-20
 - [SheYanTong](./ai-writing-tools/sheyantong-ai-academic-writing.md) — 2025-12-22
+- [GetDraft](./ai-writing-tools/getdraft.md) — 2025-11-28
 <!-- LE_AUTOPOST_INDEX_END -->
