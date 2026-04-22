@@ -9,6 +9,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 ### Ai Agent
 - [TuriX](./ai-agent/turix-computer-use-agent.md) — 2026-04-14
 - [Panofy](./ai-agent/panofy-ai-agent-platform.md) — 2026-04-13
+- [ColaOS](./ai-agent/colaos.md) — 2026-04-02
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
