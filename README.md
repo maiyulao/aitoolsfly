@@ -23,6 +23,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 ### Ai Frameworks
 - [Meoo](./ai-frameworks/ai-tool-75263.md) — 2026-04-15
 - [gapp.so](./ai-frameworks/gapp-so-ai-app-builder.md) — 2026-04-13
+- [Aippy](./ai-frameworks/aippy-ai-gaming-community.md) — 2026-04-08
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
