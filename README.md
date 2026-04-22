@@ -83,6 +83,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [ChartGen](./ai-office-tools/chartgen-ai-chart-generator.md) — 2026-01-06
 - [KeLing PPT](./ai-office-tools/keling-ppt.md) — 2025-12-26
 - [Diagrimo](./ai-office-tools/diagrimo-ai-diagram-generator.md) — 2025-12-23
+- [Bimiantong](./ai-office-tools/bimiantong-ai-interview-assistant.md) — 2025-12-22
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
