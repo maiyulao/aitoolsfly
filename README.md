@@ -92,6 +92,9 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [InfCode](./ai-programming-tools/infcode-enterprise-ai-coding-assistant.md) — 2025-12-30
 - [Zcode](./ai-programming-tools/zcode-ai-ide.md) — 2025-12-26
 
+### Ai Prompt Tools
+- [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
+
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
 - [Yike AI](./ai-video-tools/yike-ai.md) — 2026-04-13
