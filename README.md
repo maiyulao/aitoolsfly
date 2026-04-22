@@ -60,6 +60,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Pexo](./ai-video-tools/pexo-ai-video-agent.md) — 2026-03-23
 - [LibTV](./ai-video-tools/libtv-ai-video-generator.md) — 2026-03-18
 - [MuseArt AI](./ai-video-tools/museart-ai.md) — 2026-03-16
+- [AniShort](./ai-video-tools/anishort.md) — 2026-03-13
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
