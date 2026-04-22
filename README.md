@@ -66,6 +66,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [SophNet](./ai-frameworks/sophnet-deepseek-api-platform.md) — 2025-12-11
 - [MornAI](./ai-frameworks/mornai-gpu-cloud-platform.md) — 2025-12-10
 - [LLaMA-Factory Online](./ai-frameworks/llama-factory-online.md) — 2025-12-09
+- [Lab4AI](./ai-frameworks/lab4ai.md) — 2025-12-03
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
