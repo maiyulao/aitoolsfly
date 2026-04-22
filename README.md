@@ -58,6 +58,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [AirBrush](./ai-image-tools/airbrush-ai-photo-video-editor.md) — 2026-02-02
 - [Jiaodian AI](./ai-image-tools/jiaodian-ai.md) — 2026-01-29
 - [Vision Factory](./ai-image-tools/vision-factory-ai.md) — 2026-01-23
+- [LuxReal](./ai-image-tools/luxreal-ai-3d-video-creation.md) — 2026-01-19
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
