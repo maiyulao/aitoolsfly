@@ -19,6 +19,9 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 ### Ai Audio Tools
 - [Douge AI Voiceover](./ai-audio-tools/douge-ai-voiceover.md) — 2026-04-10
 
+### Ai Design Tools
+- [Miora](./ai-design-tools/miora-ai-design-collaboration.md) — 2026-03-30
+
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
 
