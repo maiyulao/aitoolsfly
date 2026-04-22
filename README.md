@@ -26,6 +26,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [AnyGen](./ai-agent/anygen-ai-office-agent.md) — 2026-01-04
 - [01Agent](./ai-agent/01agent-ai-content-creator.md) — 2025-12-29
 - [Yihua](./ai-agent/yihua-digital-human-agent-platform.md) — 2025-12-26
+- [Jiaotu AI](./ai-agent/jiaotu-ai.md) — 2025-12-15
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
