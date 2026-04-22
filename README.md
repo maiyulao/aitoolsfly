@@ -56,6 +56,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Ribbi](./ai-design-tools/ribbi-ai-design-agent.md) — 2026-03-25
 - [Stitch](./ai-design-tools/stitch-google-labs.md) — 2026-03-23
 - [Ardot](./ai-design-tools/ardot-ai-design-tool.md) — 2026-03-19
+- [UXbot](./ai-design-tools/uxbot-ai-ui-prototype-generator.md) — 2025-11-05
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
