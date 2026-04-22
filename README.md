@@ -19,6 +19,9 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 ### Ai Frameworks
 - [Meoo](./ai-frameworks/ai-tool-75263.md) — 2026-04-15
 
+### Ai Office Tools
+- [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
+
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
 
