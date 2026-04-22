@@ -72,6 +72,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Wuli AI](./ai-image-tools/wuli-ai.md) — 2026-01-13
 - [Chaoji Haomai](./ai-image-tools/chaoji-haomai.md) — 2026-01-09
 - [imgAK](./ai-image-tools/imgak-ai-image-processing.md) — 2026-01-05
+- [Miaohua AI](./ai-image-tools/miaohua-ai.md) — 2025-12-24
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
