@@ -99,6 +99,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
+- [Explinks Prompt Marketplace](./ai-prompt-tools/explinks-prompt-marketplace.md) — 2025-12-12
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
