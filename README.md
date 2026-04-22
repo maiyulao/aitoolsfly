@@ -127,6 +127,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Mofa Nebula](./ai-video-tools/mofa-nebula.md) — 2025-12-18
 - [KomikoAI](./ai-video-tools/komiko-ai.md) — 2025-12-10
 - [Fogsight](./ai-video-tools/fogsight-ai-animation-tool.md) — 2025-12-09
+- [Huasheng AI](./ai-video-tools/huasheng-ai.md) — 2025-12-02
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
