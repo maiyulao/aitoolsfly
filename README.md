@@ -63,6 +63,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [LibTV](./ai-video-tools/libtv-ai-video-generator.md) — 2026-03-18
 - [MuseArt AI](./ai-video-tools/museart-ai.md) — 2026-03-16
 - [AniShort](./ai-video-tools/anishort.md) — 2026-03-13
+- [A2E](./ai-video-tools/a2e-ai-video-generator.md) — 2026-02-25
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
