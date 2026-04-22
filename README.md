@@ -79,6 +79,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
 - [YouWare](./ai-programming-tools/youware-ai-programming-platform.md) — 2026-01-21
 - [Kilo Code](./ai-programming-tools/kilo-code.md) — 2026-01-19
+- [OpenCode](./ai-programming-tools/opencode-ai-programming-tool.md) — 2026-01-09
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
