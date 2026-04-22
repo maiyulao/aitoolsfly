@@ -52,6 +52,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
 - [Omma](./ai-image-tools/omma-ai-3d-creation.md) — 2026-03-27
 - [AirBrush](./ai-image-tools/airbrush-ai-photo-video-editor.md) — 2026-02-02
+- [Jiaodian AI](./ai-image-tools/jiaodian-ai.md) — 2026-01-29
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
