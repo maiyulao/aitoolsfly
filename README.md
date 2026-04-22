@@ -153,4 +153,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [GetDraft](./ai-writing-tools/getdraft.md) — 2025-11-28
 - [FeelFish](./ai-writing-tools/feelfish-ai-novel-writer.md) — 2025-11-21
 - [Luobi AI Writing](./ai-writing-tools/luobi-ai-writing.md) — 2025-11-17
+- [Loomi](./ai-writing-tools/loomi-ai-writing-tool.md) — 2025-11-12
 <!-- LE_AUTOPOST_INDEX_END -->
