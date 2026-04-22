@@ -88,6 +88,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Kilo Code](./ai-programming-tools/kilo-code.md) — 2026-01-19
 - [OpenCode](./ai-programming-tools/opencode-ai-programming-tool.md) — 2026-01-09
 - [InfCode](./ai-programming-tools/infcode-enterprise-ai-coding-assistant.md) — 2025-12-30
+- [Zcode](./ai-programming-tools/zcode-ai-ide.md) — 2025-12-26
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
