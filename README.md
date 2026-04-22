@@ -18,4 +18,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
+
+### Ai Writing Tools
+- [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
 <!-- LE_AUTOPOST_INDEX_END -->
