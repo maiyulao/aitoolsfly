@@ -28,6 +28,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Yihua](./ai-agent/yihua-digital-human-agent-platform.md) — 2025-12-26
 - [Jiaotu AI](./ai-agent/jiaotu-ai.md) — 2025-12-15
 - [Mixboard](./ai-agent/mixboard-google-labs.md) — 2025-12-11
+- [Tago](./ai-agent/tago-ai-ecommerce-agent.md) — 2025-12-08
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
