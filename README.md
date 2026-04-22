@@ -130,6 +130,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [AskTable](./ai-office-tools/asktable-ai-data-agent.md) — 2025-11-07
 - [Mian Duo Duo](./ai-office-tools/mian-duo-duo-ai-interview-simulator.md) — 2025-10-23
 - [iTerms](./ai-office-tools/iterms-ai-legal-assistant.md) — 2025-10-22
+- [Transor](./ai-office-tools/transor-immersive-ai-translation.md) — 2025-10-17
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
