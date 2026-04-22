@@ -93,6 +93,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Xianchou AI](./ai-video-tools/xianchou-ai.md) — 2026-01-15
 - [NextCut AI](./ai-video-tools/nextcut-ai.md) — 2026-01-10
 - [MochiAni](./ai-video-tools/mochiani-ai-animation-tool.md) — 2026-01-07
+- [Yunmu TS](./ai-video-tools/yunmu-ts-ai-video-translation.md) — 2026-01-07
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
