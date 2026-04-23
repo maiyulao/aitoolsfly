@@ -187,6 +187,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [iFlow CLI](./ai-programming-tools/iflow-cli.md) — 2025-10-15
 - [CodeFlicker](./ai-programming-tools/codeflicker.md) — 2025-10-14
 - [Trae](./ai-programming-tools/trae-ai-ide.md) — 2025-09-12
+- [Warp Code](./ai-programming-tools/warp-code.md) — 2025-09-05
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
