@@ -256,4 +256,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Muset](./ai-writing-tools/muset-ai-writing-tool.md) — 2025-09-09
 - [PaperXie AI](./ai-writing-tools/paperxie-ai-academic-writing.md) — 2025-08-29
 - [YouMind](./ai-writing-tools/youmind-ai-writing-assistant.md) — 2025-08-29
+- [VIP AI Research Assistant](./ai-writing-tools/vip-ai-research-assistant.md) — 2025-08-25
 <!-- LE_AUTOPOST_INDEX_END -->
