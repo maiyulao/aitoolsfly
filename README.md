@@ -96,6 +96,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [FastGPT](./ai-frameworks/fastgpt.md) — 2025-10-24
 - [TokenPony](./ai-frameworks/tokenpony-ai-api-aggregator.md) — 2025-10-20
 - [Dakou](./ai-frameworks/dakou-ai-agent-platform.md) — 2025-10-16
+- [n8n](./ai-frameworks/n8n-workflow-automation.md) — 2025-09-15
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
