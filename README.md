@@ -209,4 +209,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Rubriq](./ai-writing-tools/rubriq-ai-academic-writing.md) — 2025-10-22
 - [Qianye AI Novel Writer](./ai-writing-tools/qianye-ai-novel-writer.md) — 2025-10-20
 - [HuaWen BiGan](./ai-writing-tools/huawen-bigan-ai-document-writer.md) — 2025-09-20
+- [Mowen AI](./ai-writing-tools/mowen-ai-note-tool.md) — 2025-09-16
 <!-- LE_AUTOPOST_INDEX_END -->
