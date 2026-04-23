@@ -68,6 +68,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
 - [Qwen AI](./ai-chatbots/qwen-ai.md) — 2025-09-12
 - [LongCat](./ai-chatbots/longcat-ai-chatbot.md) — 2025-09-01
+- [Seele AI](./ai-chatbots/seele-ai.md) — 2025-08-11
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
