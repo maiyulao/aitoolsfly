@@ -120,6 +120,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Style3D](./ai-image-tools/style3d-ai-fashion-design.md) — 2025-11-24
 - [Marble](./ai-image-tools/marble-world-labs.md) — 2025-11-14
 - [Zaodian AI](./ai-image-tools/zaodian-ai.md) — 2025-09-24
+- [LiblibAI High-Res Upscaler](./ai-image-tools/liblibai-high-res-upscaler.md) — 2025-09-15
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
