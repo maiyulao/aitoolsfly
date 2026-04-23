@@ -142,6 +142,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Zcode](./ai-programming-tools/zcode-ai-ide.md) — 2025-12-26
 - [Google Antigravity](./ai-programming-tools/google-antigravity.md) — 2025-11-19
 - [CatPaw](./ai-programming-tools/catpaw-ai-ide.md) — 2025-11-07
+- [iFlow CLI](./ai-programming-tools/iflow-cli.md) — 2025-10-15
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
