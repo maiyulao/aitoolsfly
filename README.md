@@ -174,6 +174,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Zaoci](./ai-video-tools/zaoci-ai-video-community.md) — 2025-11-14
 - [TapNow](./ai-video-tools/tapnow-ai-visual-content-creator.md) — 2025-11-12
 - [ReelsAgent](./ai-video-tools/reelsagent-ai-marketing-video-generator.md) — 2025-10-23
+- [HitPaw](./ai-video-tools/hitpaw-ai-multimedia-suite.md) — 2025-10-10
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
