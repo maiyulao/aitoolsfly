@@ -140,6 +140,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [iTerms](./ai-office-tools/iterms-ai-legal-assistant.md) — 2025-10-22
 - [Transor](./ai-office-tools/transor-immersive-ai-translation.md) — 2025-10-17
 - [Job Ark](./ai-office-tools/job-ark.md) — 2025-10-10
+- [FindMe](./ai-office-tools/findme-local-ai-knowledge-assistant.md) — 2025-09-28
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
