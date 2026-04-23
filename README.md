@@ -178,6 +178,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [NiuMian](./ai-office-tools/niumian-ai-interview-coach.md) — 2025-09-11
 - [Miantuan AI](./ai-office-tools/miantuan-ai-interview-assistant.md) — 2025-09-11
 - [Wulv AI Lawyer](./ai-office-tools/wulv-ai-lawyer.md) — 2025-09-08
+- [MindShow](./ai-office-tools/mindshow-ai-ppt-generator.md) — 2025-09-02
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
