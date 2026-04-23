@@ -57,6 +57,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Zeabur](./ai-agent/zeabur.md) — 2025-07-26
 - [BrowserOS](./ai-agent/browseros-ai-agent-browser.md) — 2025-07-26
 - [MyShell](./ai-agent/myshell-ai-agent-platform.md) — 2025-07-25
+- [FinGenius](./ai-agent/fingenius-ai-financial-agent.md) — 2025-07-18
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
