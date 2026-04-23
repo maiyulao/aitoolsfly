@@ -253,6 +253,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [CodeBuddy IDE](./ai-programming-tools/codebuddy-ide.md) — 2025-07-22
 - [JoyCode](./ai-programming-tools/joycode-ai-ide.md) — 2025-07-22
 - [Zread](./ai-programming-tools/zread-ai-source-code-analyzer.md) — 2025-07-21
+- [Kiro](./ai-programming-tools/kiro-ai-ide.md) — 2025-07-15
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
