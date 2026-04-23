@@ -280,4 +280,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [YouMind](./ai-writing-tools/youmind-ai-writing-assistant.md) — 2025-08-29
 - [VIP AI Research Assistant](./ai-writing-tools/vip-ai-research-assistant.md) — 2025-08-25
 - [Zhangqiao Research AI](./ai-writing-tools/zhangqiao-research-ai.md) — 2025-08-12
+- [iFlyDocs AI](./ai-writing-tools/iflydocs-ai-writing-assistant.md) — 2025-08-05
 <!-- LE_AUTOPOST_INDEX_END -->
