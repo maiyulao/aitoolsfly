@@ -44,6 +44,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Tbox](./ai-agent/tbox-ai-agent.md) — 2025-09-11
 - [Manus](./ai-agent/manus-ai-agent.md) — 2025-09-05
 - [Lovart](./ai-agent/lovart-ai-design-agent.md) — 2025-09-02
+- [TabTab](./ai-agent/tabtab-ai-data-agent.md) — 2025-08-27
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
