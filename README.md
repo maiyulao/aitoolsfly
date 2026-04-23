@@ -230,6 +230,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [SekoTalk](./ai-video-tools/sekotalk-ai-lip-sync.md) — 2025-09-20
 - [LiblibAI](./ai-video-tools/liblibai.md) — 2025-09-18
 - [Kuaishou Kling AI](./ai-video-tools/kuaishou-kling-ai.md) — 2025-09-10
+- [Duiyou AI Video](./ai-video-tools/duiyou-ai-video.md) — 2025-08-31
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
