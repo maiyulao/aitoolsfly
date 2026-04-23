@@ -162,6 +162,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Huiwa AI 3D](./ai-image-tools/huiwa-ai-3d.md) — 2025-08-31
 - [Duiyou AI Object Remover](./ai-image-tools/duiyou-ai-object-remover.md) — 2025-07-31
 - [Duiyou AI Upscaler](./ai-image-tools/duiyou-ai-upscaler.md) — 2025-07-31
+- [Duiyou AI Product Background](./ai-image-tools/duiyou-ai-product-background.md) — 2025-07-31
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
