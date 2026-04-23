@@ -199,6 +199,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [AiTuBiao](./ai-office-tools/aitubiao-ai-data-visualization.md) — 2025-08-14
 - [Shortcut](./ai-office-tools/shortcut-ai-excel-agent.md) — 2025-08-11
 - [VoxDeck](./ai-office-tools/voxdeck-ai-presentation-generator.md) — 2025-08-08
+- [Belin Doc](./ai-office-tools/belin-doc-ai-document-translator.md) — 2025-08-07
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
