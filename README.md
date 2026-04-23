@@ -249,6 +249,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 ### Ai Search Engines
 - [Pagentia](./ai-search-engines/pagentia-ai-patent-platform.md) — 2025-08-28
 - [Perplexity AI](./ai-search-engines/perplexity-ai.md) — 2025-08-27
+- [Bohrium](./ai-search-engines/bohrium-ai-academic-search.md) — 2025-07-26
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
