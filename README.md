@@ -134,6 +134,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Trickle AI](./ai-frameworks/trickle-ai.md) — 2025-07-30
 - [Refly](./ai-frameworks/refly-vibe-workflow-platform.md) — 2025-07-29
 - [OpenRouter](./ai-frameworks/openrouter.md) — 2025-07-29
+- [Google AI Studio](./ai-frameworks/google-ai-studio.md) — 2025-07-27
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
