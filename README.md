@@ -130,6 +130,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Shengsuan Cloud](./ai-frameworks/shengsuan-cloud.md) — 2025-08-22
 - [Chunkr](./ai-frameworks/chunkr-lumina-ai.md) — 2025-08-06
 - [WaveSpeedAI](./ai-frameworks/wavespeed-ai.md) — 2025-07-31
+- [Trickle AI](./ai-frameworks/trickle-ai.md) — 2025-07-30
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
