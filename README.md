@@ -190,6 +190,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [ReelsAgent](./ai-video-tools/reelsagent-ai-marketing-video-generator.md) — 2025-10-23
 - [HitPaw](./ai-video-tools/hitpaw-ai-multimedia-suite.md) — 2025-10-10
 - [Animon AI](./ai-video-tools/animon-ai.md) — 2025-09-26
+- [Tongyi Lingmou](./ai-video-tools/tongyi-lingmou.md) — 2025-09-22
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
