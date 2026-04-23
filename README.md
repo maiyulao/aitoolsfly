@@ -190,6 +190,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [MindShow](./ai-office-tools/mindshow-ai-ppt-generator.md) — 2025-09-02
 - [Pi AI PPT](./ai-office-tools/pi-ai-ppt.md) — 2025-09-01
 - [Kezign AI](./ai-office-tools/kezign-ai.md) — 2025-08-21
+- [Kuse](./ai-office-tools/kuse-ai-productivity-workspace.md) — 2025-08-18
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
