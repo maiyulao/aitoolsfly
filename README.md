@@ -135,6 +135,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
 - [LiblibAI Background Remover](./ai-image-background-removers/liblibai-background-remover.md) — 2025-09-15
 - [Photon AI Cutout](./ai-image-background-removers/photon-ai-cutout.md) — 2025-07-31
+- [Huiwa AI Background Remover](./ai-image-background-removers/huiwa-ai-background-remover.md) — 2025-07-31
 
 ### Ai Image Generators
 - [MakeManga](./ai-image-generators/makemanga-ai-comic-generator.md) — 2025-11-25
