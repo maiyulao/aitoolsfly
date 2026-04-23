@@ -38,6 +38,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Moon Statistics AI](./ai-agent/moon-statistics-ai.md) — 2025-10-21
 - [Opera Neon](./ai-agent/opera-neon.md) — 2025-10-02
 - [AiPy](./ai-agent/aipy-open-source-ai-agent.md) — 2025-09-28
+- [Deep Innovation by Hundun](./ai-agent/deep-innovation-hundun.md) — 2025-09-17
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
