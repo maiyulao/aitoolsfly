@@ -115,6 +115,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [CREAO](./ai-frameworks/creao-ai-app-builder.md) — 2025-09-10
 - [LongCat Open Platform](./ai-frameworks/longcat-open-platform.md) — 2025-09-09
 - [X-All in one](./ai-frameworks/x-all-in-one-ai-api-platform.md) — 2025-09-03
+- [Shengsuan Cloud](./ai-frameworks/shengsuan-cloud.md) — 2025-08-22
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
