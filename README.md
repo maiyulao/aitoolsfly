@@ -131,6 +131,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Chunkr](./ai-frameworks/chunkr-lumina-ai.md) — 2025-08-06
 - [WaveSpeedAI](./ai-frameworks/wavespeed-ai.md) — 2025-07-31
 - [Trickle AI](./ai-frameworks/trickle-ai.md) — 2025-07-30
+- [Refly](./ai-frameworks/refly-vibe-workflow-platform.md) — 2025-07-29
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
