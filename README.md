@@ -59,6 +59,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [SpeedAI](./ai-content-detection-and-optimization-tools/speedai-ai-content-detection-optimization.md) — 2026-01-23
 - [PaperFake AI Humanizer](./ai-content-detection-and-optimization-tools/paperfake-ai-humanizer.md) — 2025-12-11
 - [Yanbi AI Humanizer](./ai-content-detection-and-optimization-tools/yanbi-ai-humanizer.md) — 2025-12-10
+- [GaoyiAI Humanizer](./ai-content-detection-and-optimization-tools/gaoyiai-humanizer.md) — 2025-09-28
 
 ### Ai Design Tools
 - [Miora](./ai-design-tools/miora-ai-design-collaboration.md) — 2026-03-30
