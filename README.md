@@ -84,6 +84,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Ardot](./ai-design-tools/ardot-ai-design-tool.md) — 2026-03-19
 - [UXbot](./ai-design-tools/uxbot-ai-ui-prototype-generator.md) — 2025-11-05
 - [Calicat](./ai-design-tools/calicat-ai-design-collaboration.md) — 2025-09-24
+- [GemDesign](./ai-design-tools/gemdesign-ai-prototype-tool.md) — 2025-08-28
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
