@@ -279,6 +279,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Keevx](./ai-video-tools/keevx-ai-digital-human-video-creator.md) — 2025-08-19
 - [Boba AI](./ai-video-tools/boba-ai-anime-video-generator.md) — 2025-08-08
 - [Higgsfield](./ai-video-tools/higgsfield-ai-video-generator.md) — 2025-08-05
+- [HeyGen](./ai-video-tools/heygen-ai-video-generator.md) — 2025-07-26
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
