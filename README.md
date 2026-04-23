@@ -104,6 +104,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Dakou](./ai-frameworks/dakou-ai-agent-platform.md) — 2025-10-16
 - [n8n](./ai-frameworks/n8n-workflow-automation.md) — 2025-09-15
 - [Miaoda](./ai-frameworks/miaoda-ai-app-builder.md) — 2025-09-12
+- [CREAO](./ai-frameworks/creao-ai-app-builder.md) — 2025-09-10
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
