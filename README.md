@@ -211,6 +211,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [VoxDeck](./ai-office-tools/voxdeck-ai-presentation-generator.md) — 2025-08-08
 - [Belin Doc](./ai-office-tools/belin-doc-ai-document-translator.md) — 2025-08-07
 - [DINQ](./ai-office-tools/dinq-ai-talent-discovery.md) — 2025-08-02
+- [Duiyou AI Image Translator](./ai-office-tools/duiyou-ai-image-translator.md) — 2025-07-31
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
