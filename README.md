@@ -292,4 +292,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [VIP AI Research Assistant](./ai-writing-tools/vip-ai-research-assistant.md) — 2025-08-25
 - [Zhangqiao Research AI](./ai-writing-tools/zhangqiao-research-ai.md) — 2025-08-12
 - [iFlyDocs AI](./ai-writing-tools/iflydocs-ai-writing-assistant.md) — 2025-08-05
+
+### Websites To Learn Ai
+- [Duiyou AI Design Academy](./websites-to-learn-ai/duiyou-ai-design-academy.md) — 2025-07-31
 <!-- LE_AUTOPOST_INDEX_END -->
