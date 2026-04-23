@@ -40,6 +40,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [AiPy](./ai-agent/aipy-open-source-ai-agent.md) — 2025-09-28
 - [Deep Innovation by Hundun](./ai-agent/deep-innovation-hundun.md) — 2025-09-17
 - [GenFlow](./ai-agent/genflow-multimodal-ai-agent.md) — 2025-09-14
+- [Genspark](./ai-agent/genspark-ai-agent-workspace.md) — 2025-09-13
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
