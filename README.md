@@ -188,6 +188,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Wulv AI Lawyer](./ai-office-tools/wulv-ai-lawyer.md) — 2025-09-08
 - [MindShow](./ai-office-tools/mindshow-ai-ppt-generator.md) — 2025-09-02
 - [Pi AI PPT](./ai-office-tools/pi-ai-ppt.md) — 2025-09-01
+- [Kezign AI](./ai-office-tools/kezign-ai.md) — 2025-08-21
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
