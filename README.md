@@ -94,6 +94,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
 - [OmniBox](./ai-document-tools/omnibox-ai-content-parser.md) — 2025-10-11
+- [iGenFlow](./ai-document-tools/igenflow-ai-documentation-tool.md) — 2025-08-13
 
 ### Ai Frameworks
 - [Meoo](./ai-frameworks/ai-tool-75263.md) — 2026-04-15
