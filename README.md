@@ -55,6 +55,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Seko](./ai-agent/seko-ai-video-agent.md) — 2025-07-28
 - [CodeFlying](./ai-agent/codeflying.md) — 2025-07-27
 - [Zeabur](./ai-agent/zeabur.md) — 2025-07-26
+- [BrowserOS](./ai-agent/browseros-ai-agent-browser.md) — 2025-07-26
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
