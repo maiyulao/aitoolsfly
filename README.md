@@ -150,6 +150,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [AiHaoJi](./ai-office-tools/aihaoji-ai-transcription-summarizer.md) — 2025-09-25
 - [Telehire AI](./ai-office-tools/telehire-ai.md) — 2025-09-23
 - [Tomoro](./ai-office-tools/tomoro-ai-data-analysis.md) — 2025-09-23
+- [Doclingo](./ai-office-tools/doclingo.md) — 2025-09-22
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
