@@ -51,6 +51,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Ruci AI](./ai-agent/ruci-ai-marketing-agent.md) — 2025-08-17
 - [Seele AI](./ai-agent/seele-ai-3d-game-generator.md) — 2025-08-11
 - [Agnes AI](./ai-agent/agnes-ai.md) — 2025-08-07
+- [SciMaster](./ai-agent/scimaster-ai-research-agent.md) — 2025-08-04
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
