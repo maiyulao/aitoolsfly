@@ -50,6 +50,9 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [AudioMyst](./ai-audio-tools/audiomyst.md) — 2025-10-28
 - [Tunee](./ai-audio-tools/tunee-ai-music-agent.md) — 2025-10-20
 
+### Ai Chatbots
+- [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
+
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
 - [SpeedAI](./ai-content-detection-and-optimization-tools/speedai-ai-content-detection-optimization.md) — 2026-01-23
