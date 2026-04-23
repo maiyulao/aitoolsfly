@@ -129,6 +129,9 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
 
+### Ai Models
+- [Nano Banana](./ai-models/nano-banana-google-image-model.md) — 2025-09-14
+
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
 - [ChartinAI](./ai-office-tools/chartinai.md) — 2026-01-26
