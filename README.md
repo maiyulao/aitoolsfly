@@ -245,6 +245,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Lovable](./ai-programming-tools/lovable-ai-fullstack-developer.md) — 2025-07-25
 - [CodeBuddy IDE](./ai-programming-tools/codebuddy-ide.md) — 2025-07-22
 - [JoyCode](./ai-programming-tools/joycode-ai-ide.md) — 2025-07-22
+- [Zread](./ai-programming-tools/zread-ai-source-code-analyzer.md) — 2025-07-21
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
