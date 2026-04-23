@@ -239,6 +239,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Trae](./ai-programming-tools/trae-ai-ide.md) — 2025-09-12
 - [Warp Code](./ai-programming-tools/warp-code.md) — 2025-09-05
 - [Qoder](./ai-programming-tools/qoder-ai-agentic-programming.md) — 2025-08-21
+- [Lovable](./ai-programming-tools/lovable-ai-fullstack-developer.md) — 2025-07-25
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
