@@ -178,6 +178,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Duiyou AI Product Background](./ai-image-tools/duiyou-ai-product-background.md) — 2025-07-31
 - [Tripo AI](./ai-image-tools/tripo-ai.md) — 2025-07-22
 - [Photon AI](./ai-image-tools/photon-ai.md) — 2025-07-22
+- [Fast3D](./ai-image-tools/fast3d-ai-3d-model-generator.md) — 2025-07-18
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
