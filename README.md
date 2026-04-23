@@ -47,6 +47,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [TabTab](./ai-agent/tabtab-ai-data-agent.md) — 2025-08-27
 - [Bloom](./ai-agent/bloom-powerdrill-ai-agent.md) — 2025-08-25
 - [HaiSnap](./ai-agent/haisnap-ai-agent-platform.md) — 2025-08-21
+- [Gaoding AI Community](./ai-agent/gaoding-ai-community.md) — 2025-08-19
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
