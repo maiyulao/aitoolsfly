@@ -193,6 +193,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Tongyi Lingmou](./ai-video-tools/tongyi-lingmou.md) — 2025-09-22
 - [Pollo AI](./ai-video-tools/pollo-ai.md) — 2025-09-21
 - [SekoTalk](./ai-video-tools/sekotalk-ai-lip-sync.md) — 2025-09-20
+- [LiblibAI](./ai-video-tools/liblibai.md) — 2025-09-18
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
