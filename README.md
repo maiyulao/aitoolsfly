@@ -167,6 +167,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Tomoro](./ai-office-tools/tomoro-ai-data-analysis.md) — 2025-09-23
 - [Doclingo](./ai-office-tools/doclingo.md) — 2025-09-22
 - [LovTalent](./ai-office-tools/lovtalent-ai-career-agent.md) — 2025-09-16
+- [NiuMian](./ai-office-tools/niumian-ai-interview-coach.md) — 2025-09-11
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
