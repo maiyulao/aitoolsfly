@@ -53,6 +53,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Agnes AI](./ai-agent/agnes-ai.md) — 2025-08-07
 - [SciMaster](./ai-agent/scimaster-ai-research-agent.md) — 2025-08-04
 - [Seko](./ai-agent/seko-ai-video-agent.md) — 2025-07-28
+- [CodeFlying](./ai-agent/codeflying.md) — 2025-07-27
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
