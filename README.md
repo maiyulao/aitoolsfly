@@ -310,4 +310,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 
 ### Websites To Learn Ai
 - [Duiyou AI Design Academy](./websites-to-learn-ai/duiyou-ai-design-academy.md) — 2025-07-31
+- [Xue8Nav](./websites-to-learn-ai/xue8nav-ai-learning-directory.md) — 2025-07-22
 <!-- LE_AUTOPOST_INDEX_END -->
