@@ -193,6 +193,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Kezign AI](./ai-office-tools/kezign-ai.md) — 2025-08-21
 - [Kuse](./ai-office-tools/kuse-ai-productivity-workspace.md) — 2025-08-18
 - [HiStella](./ai-office-tools/histella-ai-text-workspace.md) — 2025-08-14
+- [AiTuBiao](./ai-office-tools/aitubiao-ai-data-visualization.md) — 2025-08-14
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
