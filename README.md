@@ -144,6 +144,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Job Ark](./ai-office-tools/job-ark.md) — 2025-10-10
 - [FindMe](./ai-office-tools/findme-local-ai-knowledge-assistant.md) — 2025-09-28
 - [ChatExcel](./ai-office-tools/chatexcel-ai-spreadsheet-analysis.md) — 2025-09-26
+- [AiHaoJi](./ai-office-tools/aihaoji-ai-transcription-summarizer.md) — 2025-09-25
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
