@@ -43,6 +43,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Genspark](./ai-agent/genspark-ai-agent-workspace.md) — 2025-09-13
 - [Tbox](./ai-agent/tbox-ai-agent.md) — 2025-09-11
 - [Manus](./ai-agent/manus-ai-agent.md) — 2025-09-05
+- [Lovart](./ai-agent/lovart-ai-design-agent.md) — 2025-09-02
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
