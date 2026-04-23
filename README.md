@@ -75,6 +75,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Zhuque AI Detection](./ai-content-detection-and-optimization-tools/zhuque-ai-detection.md) — 2025-09-12
 - [Aibiye AI Humanizer](./ai-content-detection-and-optimization-tools/aibiye-ai-humanizer.md) — 2025-09-11
 - [MaoMaoChong AI Humanizer](./ai-content-detection-and-optimization-tools/maomaochong-ai-humanizer.md) — 2025-09-02
+- [iBiling AI Humanizer](./ai-content-detection-and-optimization-tools/ibiling-ai-humanizer.md) — 2025-09-01
 
 ### Ai Design Tools
 - [Miora](./ai-design-tools/miora-ai-design-collaboration.md) — 2026-03-30
