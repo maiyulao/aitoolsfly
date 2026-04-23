@@ -226,6 +226,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
 - [Explinks Prompt Marketplace](./ai-prompt-tools/explinks-prompt-marketplace.md) — 2025-12-12
 - [PromptPilot](./ai-prompt-tools/promptpilot.md) — 2025-09-07
+- [Google Cloud Prompt Gallery](./ai-prompt-tools/google-cloud-prompt-gallery.md) — 2025-08-02
 
 ### Ai Search Engines
 - [Pagentia](./ai-search-engines/pagentia-ai-patent-platform.md) — 2025-08-28
