@@ -205,4 +205,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Quantum Adventure](./ai-writing-tools/quantum-adventure-ai-novel-writer.md) — 2025-10-29
 - [Rubriq](./ai-writing-tools/rubriq-ai-academic-writing.md) — 2025-10-22
 - [Qianye AI Novel Writer](./ai-writing-tools/qianye-ai-novel-writer.md) — 2025-10-20
+- [HuaWen BiGan](./ai-writing-tools/huawen-bigan-ai-document-writer.md) — 2025-09-20
 <!-- LE_AUTOPOST_INDEX_END -->
