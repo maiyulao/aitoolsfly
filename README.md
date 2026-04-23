@@ -106,6 +106,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [LogoSC AI Design](./ai-design-tools/logosc-ai-design.md) — 2025-08-03
 - [Xingliu AI](./ai-design-tools/xingliu-ai.md) — 2025-08-02
 - [Duiyou AI](./ai-design-tools/duiyou-ai.md) — 2025-07-31
+- [Holopix AI](./ai-design-tools/holopix-ai.md) — 2025-07-14
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
