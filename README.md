@@ -237,6 +237,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Fluig AI](./ai-office-tools/fluig-ai-diagram-generator.md) — 2025-07-16
 - [Gank Interview](./ai-office-tools/gank-interview.md) — 2025-07-16
 - [Wolai](./ai-office-tools/wolai-ai-knowledge-base.md) — 2025-07-14
+- [UPCV](./ai-office-tools/upcv-ai-resume-builder.md) — 2025-07-11
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
