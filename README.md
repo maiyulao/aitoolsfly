@@ -203,6 +203,9 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Explinks Prompt Marketplace](./ai-prompt-tools/explinks-prompt-marketplace.md) — 2025-12-12
 - [PromptPilot](./ai-prompt-tools/promptpilot.md) — 2025-09-07
 
+### Ai Search Engines
+- [Pagentia](./ai-search-engines/pagentia-ai-patent-platform.md) — 2025-08-28
+
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
 - [Yike AI](./ai-video-tools/yike-ai.md) — 2026-04-13
