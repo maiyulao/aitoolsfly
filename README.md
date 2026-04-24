@@ -300,6 +300,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Shenbi Resume](./ai-office-tools/shenbi-resume.md) — 2024-10-30
 - [ZhiDe Resume](./ai-office-tools/zhide-resume.md) — 2024-10-30
 - [Tencent TransMart](./ai-office-tools/tencent-transmart.md) — 2024-10-29
+- [ima.copilot](./ai-office-tools/ima-copilot.md) — 2024-10-26
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
