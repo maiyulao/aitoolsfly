@@ -121,6 +121,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [58pic](./ai-design-tools/58pic-ai-design-platform.md) — 2024-11-11
 - [Alipay AI Design](./ai-design-tools/alipay-ai-design.md) — 2024-11-09
 - [LogoAI](./ai-design-tools/logoai-ai-logo-maker.md) — 2024-11-01
+- [Douhui AI](./ai-design-tools/douhui-ai.md) — 2024-10-22
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
