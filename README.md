@@ -115,6 +115,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [OmniBox](./ai-document-tools/omnibox-ai-content-parser.md) — 2025-10-11
 - [iGenFlow](./ai-document-tools/igenflow-ai-documentation-tool.md) — 2025-08-13
 - [Wisfile](./ai-document-tools/wisfile-ai-file-organizer.md) — 2025-07-09
+- [Little Green Whale](./ai-document-tools/little-green-whale-ai-research.md) — 2025-06-16
 
 ### Ai Frameworks
 - [Meoo](./ai-frameworks/ai-tool-75263.md) — 2026-04-15
