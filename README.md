@@ -336,6 +336,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Zhipu Qingying](./ai-video-tools/zhipu-qingying-ai-video-generator.md) — 2025-07-05
 - [Admuse AI](./ai-video-tools/admuse-ai-live-commerce.md) — 2025-05-07
 - [Tencent Hunyuan Video](./ai-video-tools/tencent-hunyuan-video.md) — 2025-03-27
+- [JoyPix](./ai-video-tools/joypix-ai-digital-human.md) — 2025-03-18
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
