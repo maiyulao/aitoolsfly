@@ -168,6 +168,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [SiliconFlow](./ai-frameworks/siliconflow.md) — 2024-12-26
 - [Infinigence](./ai-frameworks/infinigence-ai-platform.md) — 2024-12-18
 - [Zhipu Qingliu](./ai-frameworks/zhipu-qingliu.md) — 2024-11-13
+- [SkyAgents](./ai-frameworks/skyagents.md) — 2024-10-21
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
