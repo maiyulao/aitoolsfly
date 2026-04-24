@@ -417,6 +417,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Decohere](./ai-video-tools/decohere-ai-video-generator.md) — 2024-10-14
 - [Video Studio](./ai-video-tools/video-studio-ai.md) — 2024-09-24
 - [Flow Studio](./ai-video-tools/flow-studio-ai-video-generator.md) — 2024-09-09
+- [iFLYTEK Virtual Human](./ai-video-tools/iflytek-virtual-human.md) — 2024-09-07
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
