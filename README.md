@@ -380,6 +380,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [JoyPix](./ai-video-tools/joypix-ai-digital-human.md) — 2025-03-18
 - [SoundView](./ai-video-tools/soundview-ai-video-localization.md) — 2024-12-26
 - [Huiwa AI Video](./ai-video-tools/huiwa-ai-video.md) — 2024-12-09
+- [Etna](./ai-video-tools/etna-ai-video-generator.md) — 2024-10-27
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
