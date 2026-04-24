@@ -289,6 +289,9 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Gaoding PPT](./ai-office-tools/gaoding-ppt.md) — 2024-11-25
 - [Baidu FreeBoard](./ai-office-tools/baidu-freeboard.md) — 2024-11-13
 
+### Ai Presentation Tools
+- [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
+
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
 - [YouWare](./ai-programming-tools/youware-ai-programming-platform.md) — 2026-01-21
