@@ -117,6 +117,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Yanque AI](./ai-design-tools/yanque-ai-logo-generator.md) — 2025-06-20
 - [Bihun AI](./ai-design-tools/bihun-ai.md) — 2024-12-04
 - [58pic](./ai-design-tools/58pic-ai-design-platform.md) — 2024-11-11
+- [Alipay AI Design](./ai-design-tools/alipay-ai-design.md) — 2024-11-09
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
