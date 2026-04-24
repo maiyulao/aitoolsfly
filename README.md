@@ -223,6 +223,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Meitu AI Image Upscaler](./ai-image-tools/meitu-ai-image-upscaler.md) — 2024-11-25
 - [Meitu AI Product Photography](./ai-image-tools/meitu-ai-product-photography.md) — 2024-11-25
 - [Wanxiang Yingzao](./ai-image-tools/wanxiang-yingzao.md) — 2024-11-17
+- [Huiwa AI Eraser](./ai-image-tools/huiwa-ai-eraser.md) — 2024-11-06
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
