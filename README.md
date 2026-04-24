@@ -355,6 +355,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Lingxi Suxie](./ai-writing-tools/lingxi-suxie.md) — 2025-07-12
 - [Qinyan Academic](./ai-writing-tools/qinyan-academic.md) — 2025-07-09
 - [Bimuyu AI](./ai-writing-tools/bimuyu-ai-academic-writer.md) — 2025-06-16
+- [Gaoding AI Copywriter](./ai-writing-tools/gaoding-ai-copywriter.md) — 2025-04-06
 
 ### Websites To Learn Ai
 - [Duiyou AI Design Academy](./websites-to-learn-ai/duiyou-ai-design-academy.md) — 2025-07-31
