@@ -412,6 +412,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Gaoyi AI Thesis](./ai-writing-tools/gaoyi-ai-thesis.md) — 2024-11-30
 - [Cosmos AI](./ai-writing-tools/cosmos-ai-writing-assistant.md) — 2024-10-30
 - [Koala AI Writing](./ai-writing-tools/koala-ai-writing.md) — 2024-10-27
+- [Wen Zhuangyuan](./ai-writing-tools/wen-zhuangyuan.md) — 2024-10-27
 
 ### Websites To Learn Ai
 - [Duiyou AI Design Academy](./websites-to-learn-ai/duiyou-ai-design-academy.md) — 2025-07-31
