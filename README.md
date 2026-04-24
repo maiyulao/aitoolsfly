@@ -108,6 +108,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Duiyou AI](./ai-design-tools/duiyou-ai.md) — 2025-07-31
 - [Holopix AI](./ai-design-tools/holopix-ai.md) — 2025-07-14
 - [Meijian AI](./ai-design-tools/meijian-ai.md) — 2025-06-20
+- [Yanque AI](./ai-design-tools/yanque-ai-logo-generator.md) — 2025-06-20
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
