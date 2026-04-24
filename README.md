@@ -265,6 +265,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Zread](./ai-programming-tools/zread-ai-source-code-analyzer.md) — 2025-07-21
 - [Kiro](./ai-programming-tools/kiro-ai-ide.md) — 2025-07-15
 - [Claude Code](./ai-programming-tools/claude-code.md) — 2025-07-01
+- [Huawei Cloud CodeArts Snap](./ai-programming-tools/huawei-cloud-codearts-snap.md) — 2025-06-26
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
