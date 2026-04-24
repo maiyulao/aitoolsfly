@@ -381,6 +381,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [SoundView](./ai-video-tools/soundview-ai-video-localization.md) — 2024-12-26
 - [Huiwa AI Video](./ai-video-tools/huiwa-ai-video.md) — 2024-12-09
 - [Etna](./ai-video-tools/etna-ai-video-generator.md) — 2024-10-27
+- [VMagic](./ai-video-tools/vmagic-ai-video-processing.md) — 2024-10-27
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
