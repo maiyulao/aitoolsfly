@@ -309,6 +309,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Boba AI](./ai-video-tools/boba-ai-anime-video-generator.md) — 2025-08-08
 - [Higgsfield](./ai-video-tools/higgsfield-ai-video-generator.md) — 2025-08-05
 - [HeyGen](./ai-video-tools/heygen-ai-video-generator.md) — 2025-07-26
+- [Zhipu Qingying](./ai-video-tools/zhipu-qingying-ai-video-generator.md) — 2025-07-05
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
