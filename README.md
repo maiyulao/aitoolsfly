@@ -158,6 +158,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Gitee AI](./ai-frameworks/gitee-ai.md) — 2025-04-14
 - [Modelers Community](./ai-frameworks/modelers-community.md) — 2024-12-30
 - [SiliconFlow](./ai-frameworks/siliconflow.md) — 2024-12-26
+- [Infinigence](./ai-frameworks/infinigence-ai-platform.md) — 2024-12-18
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
