@@ -246,6 +246,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [UPCV](./ai-office-tools/upcv-ai-resume-builder.md) — 2025-07-11
 - [WonderCV](./ai-office-tools/wondercv-ai-resume-builder.md) — 2025-07-08
 - [Lingxi Translate](./ai-office-tools/lingxi-translate.md) — 2025-07-08
+- [Kimi PPT Assistant](./ai-office-tools/kimi-ppt-assistant.md) — 2025-06-19
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
