@@ -153,6 +153,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Google AI Studio](./ai-frameworks/google-ai-studio.md) — 2025-07-27
 - [PPIO Cloud](./ai-frameworks/ppio-cloud.md) — 2025-05-29
 - [Aliyun Bailian](./ai-frameworks/aliyun-bailian.md) — 2025-04-29
+- [Gitee AI](./ai-frameworks/gitee-ai.md) — 2025-04-14
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
