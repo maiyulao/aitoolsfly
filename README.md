@@ -400,6 +400,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Artink AI](./ai-video-tools/artink-ai.md) — 2024-10-23
 - [Flyworks AI](./ai-video-tools/flyworks-ai-digital-human.md) — 2024-10-16
 - [LensGo](./ai-video-tools/lensgo-ai-video-generator.md) — 2024-10-14
+- [Decohere](./ai-video-tools/decohere-ai-video-generator.md) — 2024-10-14
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
