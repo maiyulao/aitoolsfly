@@ -89,6 +89,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [DeepSeek](./ai-chatbots/deepseek.md) — 2025-04-18
 - [WenXiaobai](./ai-chatbots/wenxiaobai-ai-assistant.md) — 2025-01-20
 - [Baidu AI Assistant](./ai-chatbots/baidu-ai-assistant.md) — 2024-10-20
+- [Saylo](./ai-chatbots/saylo-ai-roleplay.md) — 2024-09-21
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
