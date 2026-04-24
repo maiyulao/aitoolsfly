@@ -461,6 +461,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
 - [Aiyou Art](./best-ai-image-tools/aiyou-art.md) — 2024-09-02
+- [Vmake AI](./best-ai-image-tools/vmake-ai.md) — 2024-09-01
 
 ### Websites To Learn Ai
 - [Duiyou AI Design Academy](./websites-to-learn-ai/duiyou-ai-design-academy.md) — 2025-07-31
