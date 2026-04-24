@@ -380,6 +380,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Bimuyu AI](./ai-writing-tools/bimuyu-ai-academic-writer.md) — 2025-06-16
 - [Gaoding AI Copywriter](./ai-writing-tools/gaoding-ai-copywriter.md) — 2025-04-06
 - [Songguo AI Writing](./ai-writing-tools/songguo-ai-writing.md) — 2025-02-05
+- [Gaoyi AI Thesis](./ai-writing-tools/gaoyi-ai-thesis.md) — 2024-11-30
 
 ### Websites To Learn Ai
 - [Duiyou AI Design Academy](./websites-to-learn-ai/duiyou-ai-design-academy.md) — 2025-07-31
