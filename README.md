@@ -59,6 +59,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [MyShell](./ai-agent/myshell-ai-agent-platform.md) — 2025-07-25
 - [FinGenius](./ai-agent/fingenius-ai-financial-agent.md) — 2025-07-18
 - [CrePal](./ai-agent/crepal-ai-video-agent.md) — 2025-07-16
+- [iFlytek Xingchen Agent](./ai-agent/iflytek-xingchen-agent.md) — 2025-04-30
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
