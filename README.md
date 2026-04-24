@@ -242,6 +242,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Wolai](./ai-office-tools/wolai-ai-knowledge-base.md) — 2025-07-14
 - [UPCV](./ai-office-tools/upcv-ai-resume-builder.md) — 2025-07-11
 - [WonderCV](./ai-office-tools/wondercv-ai-resume-builder.md) — 2025-07-08
+- [Lingxi Translate](./ai-office-tools/lingxi-translate.md) — 2025-07-08
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
