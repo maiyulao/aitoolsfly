@@ -246,6 +246,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Qianlu AI](./ai-image-tools/qianlu-ai.md) — 2024-10-16
 - [BeeCut AI Watermark Remover](./ai-image-tools/beecut-ai-watermark-remover.md) — 2024-09-14
 - [HitPaw Watermark Remover](./ai-image-tools/hitpaw-watermark-remover.md) — 2024-09-14
+- [Photoroom](./ai-image-tools/photoroom-18077.md) — 2024-08-29
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
