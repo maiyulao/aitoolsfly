@@ -229,6 +229,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Wanxiang Yingzao](./ai-image-tools/wanxiang-yingzao.md) — 2024-11-17
 - [Huiwa AI Eraser](./ai-image-tools/huiwa-ai-eraser.md) — 2024-11-06
 - [TuShengSheng](./ai-image-tools/tushengsheng-ai-ecommerce-photography.md) — 2024-10-30
+- [Meijian AI Commercial Photography](./ai-image-tools/meijian-ai-commercial-photography.md) — 2024-10-21
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
