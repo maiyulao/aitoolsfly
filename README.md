@@ -217,6 +217,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Hitems](./ai-image-tools/hitems-ai-creative-objects.md) — 2025-01-14
 - [Meitu AI Eraser](./ai-image-tools/meitu-ai-eraser.md) — 2024-11-25
 - [Meitu AI Image Upscaler](./ai-image-tools/meitu-ai-image-upscaler.md) — 2024-11-25
+- [Meitu AI Product Photography](./ai-image-tools/meitu-ai-product-photography.md) — 2024-11-25
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
