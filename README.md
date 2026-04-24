@@ -200,6 +200,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [insMind](./ai-image-tools/insmind-ai-image-editor.md) — 2025-06-18
 - [Tencent AdMuse](./ai-image-tools/tencent-admuse.md) — 2025-05-07
 - [Gaoding AI Object Remover](./ai-image-tools/gaoding-ai-object-remover.md) — 2025-04-06
+- [Gaoding AI Product Photography](./ai-image-tools/gaoding-ai-product-photography.md) — 2025-04-06
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
