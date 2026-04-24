@@ -432,6 +432,9 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Koala AI Writing](./ai-writing-tools/koala-ai-writing.md) — 2024-10-27
 - [Wen Zhuangyuan](./ai-writing-tools/wen-zhuangyuan.md) — 2024-10-27
 
+### Best Ai Image Tools
+- [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
+
 ### Websites To Learn Ai
 - [Duiyou AI Design Academy](./websites-to-learn-ai/duiyou-ai-design-academy.md) — 2025-07-31
 - [Xue8Nav](./websites-to-learn-ai/xue8nav-ai-learning-directory.md) — 2025-07-22
