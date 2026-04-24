@@ -329,6 +329,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Bohrium](./ai-search-engines/bohrium-ai-academic-search.md) — 2025-07-26
 - [Nano AI](./ai-search-engines/nano-ai.md) — 2025-07-19
 - [WisPaper](./ai-search-engines/wispaper-ai-academic-search.md) — 2025-07-11
+- [Baidu AI Exploration Edition](./ai-search-engines/baidu-ai-exploration-edition.md) — 2024-11-09
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
