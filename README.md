@@ -244,6 +244,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Nano Banana](./ai-models/nano-banana-google-image-model.md) — 2025-09-14
 - [Cherry Studio](./ai-models/cherry-studio.md) — 2025-07-17
 - [Aivinla](./ai-models/aivinla-ai-computing-platform.md) — 2025-05-17
+- [Doubao LLM](./ai-models/doubao-llm.md) — 2024-09-24
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
