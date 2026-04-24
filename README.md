@@ -414,4 +414,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Xue8Nav](./websites-to-learn-ai/xue8nav-ai-learning-directory.md) — 2025-07-22
 - [AI ShareNet](./websites-to-learn-ai/ai-sharenet.md) — 2025-07-11
 - [Day of AI](./websites-to-learn-ai/day-of-ai.md) — 2024-12-30
+- [Tencent Coding](./websites-to-learn-ai/tencent-coding.md) — 2024-10-29
 <!-- LE_AUTOPOST_INDEX_END -->
