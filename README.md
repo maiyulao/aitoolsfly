@@ -74,6 +74,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [AudioMyst](./ai-audio-tools/audiomyst.md) — 2025-10-28
 - [Tunee](./ai-audio-tools/tunee-ai-music-agent.md) — 2025-10-20
 - [Producer.ai](./ai-audio-tools/producer-ai.md) — 2025-08-05
+- [Baidu ListenNote](./ai-audio-tools/baidu-listennote.md) — 2024-11-05
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
