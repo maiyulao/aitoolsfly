@@ -296,6 +296,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
+- [Seewo AI Whiteboard](./ai-presentation-tools/seewo-ai-whiteboard.md) — 2024-11-04
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
