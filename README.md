@@ -286,6 +286,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Cappt AI](./ai-office-tools/cappt-ai-ppt-generator.md) — 2025-03-12
 - [AiBiao](./ai-office-tools/aibiao-ai-chart-generator.md) — 2025-02-06
 - [Gaoding PPT](./ai-office-tools/gaoding-ppt.md) — 2024-11-25
+- [Baidu FreeBoard](./ai-office-tools/baidu-freeboard.md) — 2024-11-13
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
