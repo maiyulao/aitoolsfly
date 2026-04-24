@@ -269,6 +269,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [PicDoc](./ai-office-tools/picdoc-ai-text-to-chart.md) — 2025-06-05
 - [Feishu Base AI](./ai-office-tools/feishu-base-ai.md) — 2025-03-25
 - [Cappt AI](./ai-office-tools/cappt-ai-ppt-generator.md) — 2025-03-12
+- [AiBiao](./ai-office-tools/aibiao-ai-chart-generator.md) — 2025-02-06
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
