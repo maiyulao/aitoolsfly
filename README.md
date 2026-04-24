@@ -156,6 +156,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [PPIO Cloud](./ai-frameworks/ppio-cloud.md) — 2025-05-29
 - [Aliyun Bailian](./ai-frameworks/aliyun-bailian.md) — 2025-04-29
 - [Gitee AI](./ai-frameworks/gitee-ai.md) — 2025-04-14
+- [Modelers Community](./ai-frameworks/modelers-community.md) — 2024-12-30
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
