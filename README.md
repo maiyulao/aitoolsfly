@@ -430,6 +430,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Flow Studio](./ai-video-tools/flow-studio-ai-video-generator.md) — 2024-09-09
 - [iFLYTEK Virtual Human](./ai-video-tools/iflytek-virtual-human.md) — 2024-09-07
 - [Humva](./ai-video-tools/humva-ai-digital-human-generator.md) — 2024-08-28
+- [Filmora](./ai-video-tools/filmora-ai-video-editor.md) — 2024-08-25
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
