@@ -434,6 +434,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Koala AI Writing](./ai-writing-tools/koala-ai-writing.md) — 2024-10-27
 - [Wen Zhuangyuan](./ai-writing-tools/wen-zhuangyuan.md) — 2024-10-27
 - [Wordvice AI](./ai-writing-tools/wordvice-ai.md) — 2024-10-14
+- [Youdao AI Writing](./ai-writing-tools/youdao-ai-writing.md) — 2024-10-08
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
