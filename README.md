@@ -184,6 +184,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Fast3D](./ai-image-tools/fast3d-ai-3d-model-generator.md) — 2025-07-18
 - [Zaohaowu](./ai-image-tools/zaohaowu-ai-3d-generator.md) — 2025-07-12
 - [Kira](./ai-image-tools/kira-ai-image-generator.md) — 2025-07-08
+- [Huiwa AI Image Upscaler](./ai-image-tools/huiwa-ai-image-upscaler.md) — 2025-07-08
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
