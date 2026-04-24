@@ -432,6 +432,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Humva](./ai-video-tools/humva-ai-digital-human-generator.md) — 2024-08-28
 - [Filmora](./ai-video-tools/filmora-ai-video-editor.md) — 2024-08-25
 - [Opus Clip](./ai-video-tools/opus-clip-ai-video-repurposing.md) — 2024-08-25
+- [Descript](./ai-video-tools/descript-ai-video-editor.md) — 2024-08-25
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
