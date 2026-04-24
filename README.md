@@ -343,6 +343,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Claude Code](./ai-programming-tools/claude-code.md) — 2025-07-01
 - [Huawei Cloud CodeArts Snap](./ai-programming-tools/huawei-cloud-codearts-snap.md) — 2025-06-26
 - [Windsurf](./ai-programming-tools/windsurf-ai-ide.md) — 2024-11-15
+- [Twinny](./ai-programming-tools/twinny-ai-vscode-extension.md) — 2024-09-26
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
