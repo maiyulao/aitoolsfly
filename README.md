@@ -296,6 +296,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Gaoding PPT](./ai-office-tools/gaoding-ppt.md) — 2024-11-25
 - [Baidu FreeBoard](./ai-office-tools/baidu-freeboard.md) — 2024-11-13
 - [EdrawMax AI](./ai-office-tools/edrawmax-ai.md) — 2024-10-30
+- [Lanzidian AI Career](./ai-office-tools/lanzidian-ai-career.md) — 2024-10-30
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
