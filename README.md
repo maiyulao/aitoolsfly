@@ -351,6 +351,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Google Cloud Prompt Gallery](./ai-prompt-tools/google-cloud-prompt-gallery.md) — 2025-08-02
 - [AI Prompt Generator](./ai-prompt-tools/ai-prompt-generator.md) — 2024-10-08
 - [AI Short](./ai-prompt-tools/ai-short-prompt-library.md) — 2024-10-08
+- [LangGPT](./ai-prompt-tools/langgpt.md) — 2024-10-08
 
 ### Ai Search Engines
 - [Pagentia](./ai-search-engines/pagentia-ai-patent-platform.md) — 2025-08-28
