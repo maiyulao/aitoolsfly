@@ -137,6 +137,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Wisfile](./ai-document-tools/wisfile-ai-file-organizer.md) — 2025-07-09
 - [Little Green Whale](./ai-document-tools/little-green-whale-ai-research.md) — 2025-06-16
 - [Doc2X](./ai-document-tools/doc2x-ai-document-converter.md) — 2024-11-14
+- [Kyou AI](./ai-document-tools/kyou-ai-exam-generator.md) — 2024-09-06
 
 ### Ai Frameworks
 - [Meoo](./ai-frameworks/ai-tool-75263.md) — 2026-04-15
