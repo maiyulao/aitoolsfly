@@ -240,6 +240,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Meijian AI Commercial Photography](./ai-image-tools/meijian-ai-commercial-photography.md) — 2024-10-21
 - [Qianlu AI](./ai-image-tools/qianlu-ai.md) — 2024-10-16
 - [BeeCut AI Watermark Remover](./ai-image-tools/beecut-ai-watermark-remover.md) — 2024-09-14
+- [HitPaw Watermark Remover](./ai-image-tools/hitpaw-watermark-remover.md) — 2024-09-14
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
