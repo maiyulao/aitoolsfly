@@ -327,6 +327,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Zhangqiao Research AI](./ai-writing-tools/zhangqiao-research-ai.md) — 2025-08-12
 - [iFlyDocs AI](./ai-writing-tools/iflydocs-ai-writing-assistant.md) — 2025-08-05
 - [Lingxi Suxie](./ai-writing-tools/lingxi-suxie.md) — 2025-07-12
+- [Qinyan Academic](./ai-writing-tools/qinyan-academic.md) — 2025-07-09
 
 ### Websites To Learn Ai
 - [Duiyou AI Design Academy](./websites-to-learn-ai/duiyou-ai-design-academy.md) — 2025-07-31
