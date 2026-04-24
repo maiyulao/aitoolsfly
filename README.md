@@ -308,6 +308,9 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Seewo AI Whiteboard](./ai-presentation-tools/seewo-ai-whiteboard.md) — 2024-11-04
 - [10sPPT](./ai-presentation-tools/10sppt-ai-presentation-generator.md) — 2024-10-24
 
+### Ai Productivity Tools
+- [XiaoYi AI](./ai-productivity-tools/xiaoyi-ai.md) — 2024-10-22
+
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
 - [YouWare](./ai-programming-tools/youware-ai-programming-platform.md) — 2026-01-21
