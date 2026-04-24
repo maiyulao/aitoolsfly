@@ -78,6 +78,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Yinjian AI](./ai-audio-tools/yinjian-ai-audio-editor.md) — 2024-11-04
 - [Lyrics Into Song AI](./ai-audio-tools/lyrics-into-song-ai.md) — 2024-09-24
 - [NotebookLM](./ai-audio-tools/notebooklm.md) — 2024-09-19
+- [iFlyRec](./ai-audio-tools/iflyrec-ai-transcription.md) — 2024-09-04
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
