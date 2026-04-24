@@ -81,6 +81,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Seele AI](./ai-chatbots/seele-ai.md) — 2025-08-11
 - [Z.ai](./ai-chatbots/z-ai.md) — 2025-07-19
 - [InternLM](./ai-chatbots/internlm.md) — 2025-06-04
+- [Kimi AI](./ai-chatbots/kimi-ai.md) — 2025-05-10
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
