@@ -87,6 +87,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Kimi AI](./ai-chatbots/kimi-ai.md) — 2025-05-10
 - [DeepSeek](./ai-chatbots/deepseek.md) — 2025-04-18
 - [WenXiaobai](./ai-chatbots/wenxiaobai-ai-assistant.md) — 2025-01-20
+- [Baidu AI Assistant](./ai-chatbots/baidu-ai-assistant.md) — 2024-10-20
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
