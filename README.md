@@ -330,6 +330,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [DeepTranslate](./ai-office-tools/deeptranslate-ai-translator.md) — 2024-09-10
 - [Tongyi Xiaomi](./ai-office-tools/tongyi-xiaomi.md) — 2024-09-06
 - [WPS Lingxi](./ai-office-tools/wps-lingxi.md) — 2024-08-25
+- [Fazhi AI](./ai-office-tools/fazhi-ai-legal-assistant.md) — 2024-08-23
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
