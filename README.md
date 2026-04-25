@@ -520,6 +520,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Hedra](./ai-video-tools/hedra-ai-video-generation.md) — 2024-06-20
 - [Noisee AI](./ai-video-tools/noisee-ai.md) — 2024-06-20
 - [Luma Dream Machine](./ai-video-tools/luma-dream-machine.md) — 2024-06-13
+- [MOKI](./ai-video-tools/moki-ai-video-creator.md) — 2024-06-12
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
