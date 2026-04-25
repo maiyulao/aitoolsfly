@@ -163,6 +163,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Pictographic](./ai-design-tools/pictographic-ai-illustration-generator.md) — 2024-05-22
 - [Wegic](./ai-design-tools/wegic-ai-website-builder.md) — 2024-05-20
 - [Dzine](./ai-design-tools/dzine-ai-image-editor.md) — 2024-05-11
+- [Ilus AI](./ai-design-tools/ilus-ai.md) — 2024-05-09
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
