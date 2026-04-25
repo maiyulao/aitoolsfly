@@ -512,6 +512,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Xunjie AI Writing](./ai-writing-tools/xunjie-ai-writing.md) — 2024-08-18
 - [Wensi Assistant](./ai-writing-tools/wensi-assistant.md) — 2024-08-16
 - [iFlytek Writing](./ai-writing-tools/iflytek-writing.md) — 2024-08-06
+- [InkFox AI](./ai-writing-tools/inkfox-ai.md) — 2024-08-05
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
