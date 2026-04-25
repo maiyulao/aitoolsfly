@@ -161,6 +161,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Figma AI](./ai-design-tools/figma-ai.md) — 2024-06-27
 - [Chuangkit AI](./ai-design-tools/chuangkit-ai.md) — 2024-05-24
 - [Pictographic](./ai-design-tools/pictographic-ai-illustration-generator.md) — 2024-05-22
+- [Wegic](./ai-design-tools/wegic-ai-website-builder.md) — 2024-05-20
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
