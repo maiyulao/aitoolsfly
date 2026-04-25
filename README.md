@@ -111,6 +111,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [MaoMaoChong AI Humanizer](./ai-content-detection-and-optimization-tools/maomaochong-ai-humanizer.md) — 2025-09-02
 - [iBiling AI Humanizer](./ai-content-detection-and-optimization-tools/ibiling-ai-humanizer.md) — 2025-09-01
 - [Wacuowang](./ai-content-detection-and-optimization-tools/wacuowang-ai-content-proofreading.md) — 2025-04-07
+- [Tuanxiang AI](./ai-content-detection-and-optimization-tools/tuanxiang-ai-content-detection.md) — 2024-08-20
 
 ### Ai Design Tools
 - [Miora](./ai-design-tools/miora-ai-design-collaboration.md) — 2026-03-30
