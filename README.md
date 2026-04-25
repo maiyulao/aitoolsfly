@@ -540,6 +540,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [66AI Paper](./ai-writing-tools/66ai-paper.md) — 2024-07-29
 - [Kubao AI Assistant](./ai-writing-tools/kubao-ai-assistant.md) — 2024-07-25
 - [XiaoIn AI](./ai-writing-tools/xiaoin-ai-writing-assistant.md) — 2024-07-22
+- [MidReal](./ai-writing-tools/midreal-ai-interactive-fiction.md) — 2024-07-14
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
