@@ -420,6 +420,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Dexa AI](./ai-search-engines/dexa-ai.md) — 2024-08-07
 - [XAnswer](./ai-search-engines/xanswer-ai-search-engine.md) — 2024-08-05
 - [Ask Xiaoyuzhou](./ai-search-engines/ask-xiaoyuzhou.md) — 2024-07-31
+- [SearchGPT](./ai-search-engines/searchgpt.md) — 2024-07-25
 
 ### AI Tools
 - [Yiqijian](./ai-tools/yiqijian-ai-video-creator.md) — 2024-08-18
