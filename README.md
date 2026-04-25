@@ -522,6 +522,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Faceswapper](./best-ai-image-tools/faceswapper-ai-face-swap.md) — 2024-08-20
 - [IconGen](./best-ai-image-tools/icongen-ai-icon-generator.md) — 2024-08-14
 - [PicTech AI](./best-ai-image-tools/pictech-ai.md) — 2024-08-07
+- [DeepSwapper](./best-ai-image-tools/deepswapper.md) — 2024-08-04
 
 ### Websites To Learn Ai
 - [Duiyou AI Design Academy](./websites-to-learn-ai/duiyou-ai-design-academy.md) — 2025-07-31
