@@ -86,6 +86,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [LOVO AI](./ai-audio-tools/lovo-ai-text-to-speech-14893.md) — 2024-08-01
 - [LOVO AI](./ai-audio-tools/lovo-ai-text-to-speech.md) — 2024-08-01
 - [TTSMaker](./ai-audio-tools/ttsmaker-ai-text-to-speech.md) — 2024-08-01
+- [TextToSpeech](./ai-audio-tools/texttospeech-ai-voice-generator.md) — 2024-08-01
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
