@@ -98,6 +98,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [CueMe](./ai-chatbots/cueme-ai-assistant.md) — 2024-09-12
 - [Zaomeng Ciyuan](./ai-chatbots/zaomeng-ciyuan.md) — 2024-08-23
 - [Me.bot](./ai-chatbots/me-bot-personalized-ai-companion.md) — 2024-08-16
+- [Museland](./ai-chatbots/museland-ai-roleplay.md) — 2024-08-05
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
