@@ -138,6 +138,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Yiketu](./ai-design-tools/yiketu-ai-graphic-design.md) — 2024-10-18
 - [Jiandan Design](./ai-design-tools/jiandan-design.md) — 2024-08-25
 - [Jiangzi AI](./ai-design-tools/jiangzi-ai.md) — 2024-08-14
+- [Canva Magic Studio](./ai-design-tools/canva-magic-studio.md) — 2024-08-10
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
