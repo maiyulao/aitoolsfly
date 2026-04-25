@@ -338,6 +338,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Fazhi AI](./ai-office-tools/fazhi-ai-legal-assistant.md) — 2024-08-23
 - [Napkin](./ai-office-tools/napkin-ai-visuals.md) — 2024-08-21
 - [Immersive Translate](./ai-office-tools/immersive-translate.md) — 2024-08-19
+- [Arctic Nine Chapters](./ai-office-tools/arctic-nine-chapters.md) — 2024-08-18
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
