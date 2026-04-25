@@ -448,6 +448,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 ### AI Tools
 - [Yiqijian](./ai-tools/yiqijian-ai-video-creator.md) — 2024-08-18
 - [Xinpianchang Trans](./ai-tools/xinpianchang-trans.md) — 2024-07-21
+- [Zego AI Digital Human](./ai-tools/zego-ai-digital-human.md) — 2024-06-15
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
