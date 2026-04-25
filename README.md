@@ -337,6 +337,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [WPS Lingxi](./ai-office-tools/wps-lingxi.md) — 2024-08-25
 - [Fazhi AI](./ai-office-tools/fazhi-ai-legal-assistant.md) — 2024-08-23
 - [Napkin](./ai-office-tools/napkin-ai-visuals.md) — 2024-08-21
+- [Immersive Translate](./ai-office-tools/immersive-translate.md) — 2024-08-19
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
