@@ -359,6 +359,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Baidu GBI](./ai-office-tools/baidu-gbi.md) — 2024-08-16
 - [Toby](./ai-office-tools/toby-ai-real-time-translation.md) — 2024-08-16
 - [YOO Resume](./ai-office-tools/yoo-resume.md) — 2024-08-04
+- [CloudYoo AI](./ai-office-tools/cloudyoo-ai.md) — 2024-07-25
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
