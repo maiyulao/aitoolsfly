@@ -405,6 +405,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Lianqi AI](./ai-search-engines/lianqi-ai.md) — 2024-08-13
 - [Quark AI](./ai-search-engines/quark-ai.md) — 2024-08-07
 - [AlphaSense](./ai-search-engines/alphasense-ai-market-intelligence.md) — 2024-08-07
+- [CuspAI](./ai-search-engines/cuspai-materials-science-ai-search.md) — 2024-08-07
 
 ### AI Tools
 - [Yiqijian](./ai-tools/yiqijian-ai-video-creator.md) — 2024-08-18
