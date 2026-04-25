@@ -204,6 +204,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Morisot](./ai-image-generators/morisot-ai-image-generator.md) — 2025-11-25
 - [Qingcheng Aidraw](./ai-image-generators/qingcheng-aidraw.md) — 2025-09-04
 - [Youchuan AI](./ai-image-generators/youchuan-ai.md) — 2024-12-11
+- [Ibihun AI](./ai-image-generators/ibihun-ai.md) — 2024-08-12
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
