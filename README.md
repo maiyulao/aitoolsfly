@@ -295,6 +295,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [WeShop](./ai-image-tools/weshop-ai-product-photography.md) — 2024-06-22
 - [Kling AI](./ai-image-tools/kling-ai.md) — 2024-05-25
 - [Cliclic AI](./ai-image-tools/cliclic-ai.md) — 2024-05-21
+- [PhotoStudio AI](./ai-image-tools/photostudio-ai.md) — 2024-05-13
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
