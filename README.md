@@ -431,6 +431,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Windsurf](./ai-programming-tools/windsurf-ai-ide.md) — 2024-11-15
 - [Twinny](./ai-programming-tools/twinny-ai-vscode-extension.md) — 2024-09-26
 - [CodeRider](./ai-programming-tools/coderider-gitlab-ai.md) — 2024-05-29
+- [Project IDX](./ai-programming-tools/project-idx.md) — 2024-05-18
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
