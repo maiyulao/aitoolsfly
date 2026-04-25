@@ -435,6 +435,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Filmora](./ai-video-tools/filmora-ai-video-editor.md) — 2024-08-25
 - [Opus Clip](./ai-video-tools/opus-clip-ai-video-repurposing.md) — 2024-08-25
 - [Descript](./ai-video-tools/descript-ai-video-editor.md) — 2024-08-25
+- [Jimeng AI](./ai-video-tools/jimeng-ai.md) — 2024-08-23
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
