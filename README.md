@@ -409,6 +409,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [AlphaSense](./ai-search-engines/alphasense-ai-market-intelligence.md) — 2024-08-07
 - [CuspAI](./ai-search-engines/cuspai-materials-science-ai-search.md) — 2024-08-07
 - [Dexa AI](./ai-search-engines/dexa-ai.md) — 2024-08-07
+- [XAnswer](./ai-search-engines/xanswer-ai-search-engine.md) — 2024-08-05
 
 ### AI Tools
 - [Yiqijian](./ai-tools/yiqijian-ai-video-creator.md) — 2024-08-18
