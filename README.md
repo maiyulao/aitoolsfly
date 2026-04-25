@@ -511,6 +511,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Xunguang](./ai-video-tools/xunguang-ai-video-creation.md) — 2024-07-09
 - [Vimi](./ai-video-tools/vimi-sensetime-ai-video.md) — 2024-07-04
 - [Bairimeng AI](./ai-video-tools/bairimeng-ai-video-generator.md) — 2024-06-25
+- [Duix](./ai-video-tools/duix-ai-digital-human.md) — 2024-06-25
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
