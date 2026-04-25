@@ -265,6 +265,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [PicMa Studio](./ai-image-tools/picma-studio.md) — 2024-08-23
 - [Chuangziyou](./ai-image-tools/chuangziyou-ai-product-photography.md) — 2024-08-23
 - [Abei AI](./ai-image-tools/abei-ai.md) — 2024-08-23
+- [Mejorar Imagen](./ai-image-tools/mejorar-imagen-ai-upscaler.md) — 2024-08-02
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
