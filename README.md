@@ -389,6 +389,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [WisPaper](./ai-search-engines/wispaper-ai-academic-search.md) — 2025-07-11
 - [Baidu AI Exploration Edition](./ai-search-engines/baidu-ai-exploration-edition.md) — 2024-11-09
 - [Felo](./ai-search-engines/felo-ai-search.md) — 2024-08-28
+- [Glean](./ai-search-engines/glean-ai-enterprise-search.md) — 2024-08-18
 
 ### AI Tools
 - [Yiqijian](./ai-tools/yiqijian-ai-video-creator.md) — 2024-08-18
