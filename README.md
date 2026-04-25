@@ -91,6 +91,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Haimian Music](./ai-audio-tools/haimian-music.md) — 2024-06-12
 - [Voicenotes](./ai-audio-tools/voicenotes-ai-voice-memo.md) — 2024-05-25
 - [Wondercraft AI](./ai-audio-tools/wondercraft-ai.md) — 2024-05-21
+- [Supertone Shift](./ai-audio-tools/supertone-shift.md) — 2024-05-07
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
