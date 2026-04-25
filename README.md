@@ -438,6 +438,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [CodeRider](./ai-programming-tools/coderider-gitlab-ai.md) — 2024-05-29
 - [Project IDX](./ai-programming-tools/project-idx.md) — 2024-05-18
 - [CodeRabbit](./ai-programming-tools/coderabbit-ai-code-review.md) — 2024-05-15
+- [C Know AI](./ai-programming-tools/c-know-ai.md) — 2024-04-30
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
