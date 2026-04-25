@@ -388,6 +388,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Yuandian Think Tank](./ai-office-tools/yuandian-think-tank.md) — 2024-06-18
 - [Qimi](./ai-office-tools/qimi-ai-game-ad-platform.md) — 2024-06-12
 - [Hoarder](./ai-office-tools/hoarder-ai-bookmark-manager.md) — 2024-06-03
+- [Kaopu AI](./ai-office-tools/kaopu-ai.md) — 2024-05-21
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
