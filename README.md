@@ -362,6 +362,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [YOO Resume](./ai-office-tools/yoo-resume.md) — 2024-08-04
 - [CloudYoo AI](./ai-office-tools/cloudyoo-ai.md) — 2024-07-25
 - [BoardMix AI Whiteboard](./ai-office-tools/boardmix-ai-whiteboard.md) — 2024-07-25
+- [SmartChoose](./ai-office-tools/smartchoose-ai-digital-employee.md) — 2024-07-21
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
