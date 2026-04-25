@@ -158,6 +158,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Baotu AI Asset Library](./ai-design-tools/baotu-ai-asset-library.md) — 2024-06-29
 - [Figma AI](./ai-design-tools/figma-ai.md) — 2024-06-27
 - [Chuangkit AI](./ai-design-tools/chuangkit-ai.md) — 2024-05-24
+- [Pictographic](./ai-design-tools/pictographic-ai-illustration-generator.md) — 2024-05-22
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
