@@ -250,6 +250,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [BeeCut AI Watermark Remover](./ai-image-tools/beecut-ai-watermark-remover.md) — 2024-09-14
 - [HitPaw Watermark Remover](./ai-image-tools/hitpaw-watermark-remover.md) — 2024-09-14
 - [Photoroom](./ai-image-tools/photoroom-18077.md) — 2024-08-29
+- [PicMa Studio](./ai-image-tools/picma-studio.md) — 2024-08-23
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
