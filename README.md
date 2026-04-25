@@ -186,6 +186,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Zhipu Qingliu](./ai-frameworks/zhipu-qingliu.md) — 2024-11-13
 - [SkyAgents](./ai-frameworks/skyagents.md) — 2024-10-21
 - [Gumloop](./ai-frameworks/gumloop.md) — 2024-09-21
+- [Ant Tbox](./ai-frameworks/ant-tbox.md) — 2024-08-16
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
