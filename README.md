@@ -95,6 +95,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Baidu AI Assistant](./ai-chatbots/baidu-ai-assistant.md) — 2024-10-20
 - [Saylo](./ai-chatbots/saylo-ai-roleplay.md) — 2024-09-21
 - [CueMe](./ai-chatbots/cueme-ai-assistant.md) — 2024-09-12
+- [Zaomeng Ciyuan](./ai-chatbots/zaomeng-ciyuan.md) — 2024-08-23
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
