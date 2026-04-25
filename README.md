@@ -111,6 +111,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Wanderboat](./ai-chatbots/wanderboat-ai-travel-assistant.md) — 2024-07-15
 - [Cici](./ai-chatbots/cici-ai-assistant.md) — 2024-06-24
 - [Feely](./ai-chatbots/feely-ai-companion.md) — 2024-06-08
+- [Tencent Yuanbao](./ai-chatbots/tencent-yuanbao.md) — 2024-05-30
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
