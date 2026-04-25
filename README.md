@@ -459,6 +459,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Pixfun](./ai-video-tools/pixfun-ai-video-generator.md) — 2024-08-18
 - [Tavus](./ai-video-tools/tavus-ai-video-generation.md) — 2024-08-17
 - [YoYo AI](./ai-video-tools/yoyo-ai-anime-video-generator.md) — 2024-08-15
+- [Jurilu AI](./ai-video-tools/jurilu-ai-anime-video-creator.md) — 2024-08-14
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
