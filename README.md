@@ -546,6 +546,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [MOKI](./ai-video-tools/moki-ai-video-creator.md) — 2024-06-12
 - [Kling AI](./ai-video-tools/kling-ai-13186.md) — 2024-05-25
 - [Vivago.ai](./ai-video-tools/vivago-ai.md) — 2024-05-21
+- [KreadoAI](./ai-video-tools/kreadoai.md) — 2024-05-16
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
