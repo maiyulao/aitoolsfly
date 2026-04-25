@@ -438,6 +438,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [AMiner](./ai-search-engines/aminer-ai-academic-search.md) — 2024-07-18
 - [iFlow](./ai-search-engines/iflow-ai-search.md) — 2024-07-10
 - [Adot](./ai-search-engines/adot-web3-ai-search.md) — 2024-06-30
+- [Zhihu Zhida](./ai-search-engines/zhihu-zhida.md) — 2024-06-29
 
 ### AI Tools
 - [Yiqijian](./ai-tools/yiqijian-ai-video-creator.md) — 2024-08-18
