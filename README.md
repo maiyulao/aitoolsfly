@@ -151,6 +151,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Canva Magic Studio](./ai-design-tools/canva-magic-studio.md) — 2024-08-10
 - [Bige Design](./ai-design-tools/bige-design.md) — 2024-07-11
 - [Baotu AI Asset Library](./ai-design-tools/baotu-ai-asset-library.md) — 2024-06-29
+- [Figma AI](./ai-design-tools/figma-ai.md) — 2024-06-27
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
