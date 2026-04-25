@@ -396,6 +396,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Baidu AI Exploration Edition](./ai-search-engines/baidu-ai-exploration-edition.md) — 2024-11-09
 - [Felo](./ai-search-engines/felo-ai-search.md) — 2024-08-28
 - [Glean](./ai-search-engines/glean-ai-enterprise-search.md) — 2024-08-18
+- [Qdrant](./ai-search-engines/qdrant-vector-database.md) — 2024-08-15
 
 ### AI Tools
 - [Yiqijian](./ai-tools/yiqijian-ai-video-creator.md) — 2024-08-18
