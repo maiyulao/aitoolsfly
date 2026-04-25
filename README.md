@@ -557,6 +557,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Kubao AI Assistant](./ai-writing-tools/kubao-ai-assistant.md) — 2024-07-25
 - [XiaoIn AI](./ai-writing-tools/xiaoin-ai-writing-assistant.md) — 2024-07-22
 - [MidReal](./ai-writing-tools/midreal-ai-interactive-fiction.md) — 2024-07-14
+- [Quark AI Creator](./ai-writing-tools/quark-ai-creator.md) — 2024-06-23
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
