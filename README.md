@@ -399,6 +399,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Kaopu AI](./ai-office-tools/kaopu-ai.md) — 2024-05-21
 - [Mapify](./ai-office-tools/mapify-ai-mind-mapping.md) — 2024-05-21
 - [Tongda AI](./ai-office-tools/tongda-ai.md) — 2024-05-21
+- [Vika](./ai-office-tools/vika-intelligent-multidimensional-tables.md) — 2024-05-06
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
