@@ -390,6 +390,9 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Baidu AI Exploration Edition](./ai-search-engines/baidu-ai-exploration-edition.md) — 2024-11-09
 - [Felo](./ai-search-engines/felo-ai-search.md) — 2024-08-28
 
+### AI Tools
+- [Yiqijian](./ai-tools/yiqijian-ai-video-creator.md) — 2024-08-18
+
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
 - [Yike AI](./ai-video-tools/yike-ai.md) — 2026-04-13
