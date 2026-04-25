@@ -443,6 +443,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Descript](./ai-video-tools/descript-ai-video-editor.md) — 2024-08-25
 - [Jimeng AI](./ai-video-tools/jimeng-ai.md) — 2024-08-23
 - [Hotshot](./ai-video-tools/hotshot-ai-video-generator.md) — 2024-08-20
+- [SkyReels](./ai-video-tools/skyreels-ai-short-drama-creator.md) — 2024-08-19
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
