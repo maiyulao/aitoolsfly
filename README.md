@@ -480,6 +480,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Magicam](./ai-tools/magicam-ai-realtime-face-swap.md) — 2024-05-25
 - [GoEnhance](./ai-tools/goenhance-ai-video-enhancer.md) — 2024-05-08
 - [InVideo AI](./ai-tools/invideo-ai.md) — 2024-05-08
+- [TeamCut](./ai-tools/teamcut-ai-video-editor.md) — 2024-05-07
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
