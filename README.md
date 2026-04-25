@@ -450,6 +450,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Hotshot](./ai-video-tools/hotshot-ai-video-generator.md) — 2024-08-20
 - [SkyReels](./ai-video-tools/skyreels-ai-short-drama-creator.md) — 2024-08-19
 - [Pixfun](./ai-video-tools/pixfun-ai-video-generator.md) — 2024-08-18
+- [Tavus](./ai-video-tools/tavus-ai-video-generation.md) — 2024-08-17
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
