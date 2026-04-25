@@ -202,6 +202,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Ant Tbox](./ai-frameworks/ant-tbox.md) — 2024-08-16
 - [BigModel GLM](./ai-frameworks/bigmodel-glm.md) — 2024-08-09
 - [Wordware](./ai-frameworks/wordware-ai-agent-platform.md) — 2024-08-08
+- [Yanxi AI Agent Platform](./ai-frameworks/yanxi-ai-agent-platform.md) — 2024-07-01
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
