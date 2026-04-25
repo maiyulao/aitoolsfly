@@ -89,6 +89,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [TextToSpeech](./ai-audio-tools/texttospeech-ai-voice-generator.md) — 2024-08-01
 - [Langlang Voice](./ai-audio-tools/langlang-voice.md) — 2024-07-25
 - [Haimian Music](./ai-audio-tools/haimian-music.md) — 2024-06-12
+- [Voicenotes](./ai-audio-tools/voicenotes-ai-voice-memo.md) — 2024-05-25
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
