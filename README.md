@@ -286,6 +286,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Abei AI](./ai-image-tools/abei-ai.md) — 2024-08-23
 - [Mejorar Imagen](./ai-image-tools/mejorar-imagen-ai-upscaler.md) — 2024-08-02
 - [WeShop](./ai-image-tools/weshop-ai-product-photography.md) — 2024-06-22
+- [Kling AI](./ai-image-tools/kling-ai.md) — 2024-05-25
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
