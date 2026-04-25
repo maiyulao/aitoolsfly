@@ -341,6 +341,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Immersive Translate](./ai-office-tools/immersive-translate.md) — 2024-08-19
 - [Arctic Nine Chapters](./ai-office-tools/arctic-nine-chapters.md) — 2024-08-18
 - [Baidu GBI](./ai-office-tools/baidu-gbi.md) — 2024-08-16
+- [Toby](./ai-office-tools/toby-ai-real-time-translation.md) — 2024-08-16
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
