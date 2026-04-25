@@ -505,6 +505,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Vmake AI](./best-ai-image-tools/vmake-ai.md) — 2024-09-01
 - [Kacha AI](./best-ai-image-tools/kacha-ai.md) — 2024-08-29
 - [Faceswapper](./best-ai-image-tools/faceswapper-ai-face-swap.md) — 2024-08-20
+- [IconGen](./best-ai-image-tools/icongen-ai-icon-generator.md) — 2024-08-14
 
 ### Websites To Learn Ai
 - [Duiyou AI Design Academy](./websites-to-learn-ai/duiyou-ai-design-academy.md) — 2025-07-31
