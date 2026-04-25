@@ -489,6 +489,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Xiaoyu AI Writing](./ai-writing-tools/xiaoyu-ai-writing.md) — 2024-09-02
 - [CreatifyOne](./ai-writing-tools/creatifyone-ai-scriptwriter.md) — 2024-08-18
 - [Xunjie AI Writing](./ai-writing-tools/xunjie-ai-writing.md) — 2024-08-18
+- [Wensi Assistant](./ai-writing-tools/wensi-assistant.md) — 2024-08-16
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
