@@ -478,6 +478,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Showrunner](./ai-tools/showrunner-ai-animated-series-generator.md) — 2024-06-04
 - [Magicam](./ai-tools/magicam-ai-realtime-face-swap.md) — 2024-05-25
 - [GoEnhance](./ai-tools/goenhance-ai-video-enhancer.md) — 2024-05-08
+- [InVideo AI](./ai-tools/invideo-ai.md) — 2024-05-08
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
