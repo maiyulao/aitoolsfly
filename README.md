@@ -476,6 +476,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [YoYo AI](./ai-video-tools/yoyo-ai-anime-video-generator.md) — 2024-08-15
 - [Jurilu AI](./ai-video-tools/jurilu-ai-anime-video-creator.md) — 2024-08-14
 - [Vizard.ai](./ai-video-tools/vizard-ai.md) — 2024-08-10
+- [OneStory](./ai-video-tools/onestory-ai-story-generator.md) — 2024-08-01
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
