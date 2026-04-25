@@ -229,6 +229,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Youchuan AI](./ai-image-generators/youchuan-ai.md) — 2024-12-11
 - [Ibihun AI](./ai-image-generators/ibihun-ai.md) — 2024-08-12
 - [Baotu AI Image Generator](./ai-image-generators/baotu-ai-image-generator.md) — 2024-07-30
+- [Exactly.ai](./ai-image-generators/exactly-ai.md) — 2024-05-25
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
