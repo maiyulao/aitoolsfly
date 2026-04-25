@@ -372,6 +372,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Biling AI PPT](./ai-office-tools/biling-ai-ppt.md) — 2024-07-11
 - [Wondershare Presentory](./ai-office-tools/wondershare-presentory.md) — 2024-07-02
 - [Glif](./ai-office-tools/glif-no-code-ai-app-builder.md) — 2024-07-01
+- [Bosi AI PPT](./ai-office-tools/bosi-ai-ppt.md) — 2024-06-25
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
