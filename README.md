@@ -519,6 +519,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Duix](./ai-video-tools/duix-ai-digital-human.md) — 2024-06-25
 - [Hedra](./ai-video-tools/hedra-ai-video-generation.md) — 2024-06-20
 - [Noisee AI](./ai-video-tools/noisee-ai.md) — 2024-06-20
+- [Luma Dream Machine](./ai-video-tools/luma-dream-machine.md) — 2024-06-13
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
