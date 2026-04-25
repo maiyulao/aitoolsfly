@@ -393,6 +393,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Hoarder](./ai-office-tools/hoarder-ai-bookmark-manager.md) — 2024-06-03
 - [Kaopu AI](./ai-office-tools/kaopu-ai.md) — 2024-05-21
 - [Mapify](./ai-office-tools/mapify-ai-mind-mapping.md) — 2024-05-21
+- [Tongda AI](./ai-office-tools/tongda-ai.md) — 2024-05-21
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
