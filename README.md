@@ -81,6 +81,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [iFlyRec](./ai-audio-tools/iflyrec-ai-transcription.md) — 2024-09-04
 - [Yinfeng AI](./ai-audio-tools/yinfeng-ai-music-generator.md) — 2024-09-02
 - [MemoAI](./ai-audio-tools/memoai.md) — 2024-08-28
+- [Ciniao AI Voiceover](./ai-audio-tools/ciniao-ai-voiceover.md) — 2024-08-16
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
