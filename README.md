@@ -380,6 +380,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Bosi AI PPT](./ai-office-tools/bosi-ai-ppt.md) — 2024-06-25
 - [Yuandian Think Tank](./ai-office-tools/yuandian-think-tank.md) — 2024-06-18
 - [Qimi](./ai-office-tools/qimi-ai-game-ad-platform.md) — 2024-06-12
+- [Hoarder](./ai-office-tools/hoarder-ai-bookmark-manager.md) — 2024-06-03
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
