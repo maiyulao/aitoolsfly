@@ -709,6 +709,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [WritingPal](./ai-writing-tools/writingpal.md) — 2024-03-19
 - [Wawa Writer](./ai-writing-tools/wawa-writer.md) — 2024-01-30
 - [Wuz AI Writing](./ai-writing-tools/wuz-ai-writing.md) — 2024-01-15
+- [FlowUs AI](./ai-writing-tools/flowus-ai.md) — 2024-01-09
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
