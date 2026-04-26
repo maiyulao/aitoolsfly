@@ -581,6 +581,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Mootion](./ai-tools/mootion-ai-video-creation.md) — 2024-02-19
 - [Anylang.ai](./ai-tools/anylang-ai-video-translator.md) — 2024-01-08
 - [Morph Studio](./ai-tools/morph-studio.md) — 2024-01-06
+- [Xiaowei AI Thesis Assistant](./ai-tools/xiaowei-ai-thesis-assistant.md) — 2024-01-05
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
