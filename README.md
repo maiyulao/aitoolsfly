@@ -343,6 +343,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Aivinla](./ai-models/aivinla-ai-computing-platform.md) — 2025-05-17
 - [Doubao LLM](./ai-models/doubao-llm.md) — 2024-09-24
 - [Llama 3](./ai-models/llama-3.md) — 2024-04-18
+- [Gemma](./ai-models/gemma-google-open-model.md) — 2024-02-21
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
