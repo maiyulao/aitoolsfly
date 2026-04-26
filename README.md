@@ -586,6 +586,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Baidu Xiling](./ai-video-tools/baidu-xiling.md) — 2024-05-08
 - [iFlytek TypeMovie](./ai-video-tools/iflytek-typemovie.md) — 2024-05-08
 - [Bilibili Studio](./ai-video-tools/bilibili-studio.md) — 2024-04-26
+- [Chanjing AI](./ai-video-tools/chanjing-ai-digital-human.md) — 2024-04-18
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
