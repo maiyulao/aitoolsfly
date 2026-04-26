@@ -248,6 +248,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [BetterYeah AI](./ai-frameworks/betteryeah-ai.md) — 2024-04-29
 - [Baidu AgentBuilder](./ai-frameworks/baidu-agentbuilder.md) — 2024-04-17
 - [Anakin.ai](./ai-frameworks/anakin-ai.md) — 2024-02-28
+- [Tianrang Xiaobai](./ai-frameworks/tianrang-xiaobai.md) — 2024-02-19
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
