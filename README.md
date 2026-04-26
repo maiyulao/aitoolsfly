@@ -370,6 +370,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Gemma](./ai-models/gemma-google-open-model.md) — 2024-02-21
 - [Sora](./ai-models/sora-openai.md) — 2024-02-21
 - [Jan](./ai-models/jan-ai-local-llm.md) — 2024-01-11
+- [Ollama](./ai-models/ollama.md) — 2023-12-09
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
