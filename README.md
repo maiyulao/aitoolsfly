@@ -524,6 +524,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Captions](./ai-tools/captions-ai.md) — 2024-04-19
 - [Spikes Studio](./ai-tools/spikes-studio.md) — 2024-04-17
 - [Spark Web Novel Assistant](./ai-tools/spark-web-novel-assistant.md) — 2024-04-11
+- [Google Vids](./ai-tools/google-vids.md) — 2024-04-09
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
