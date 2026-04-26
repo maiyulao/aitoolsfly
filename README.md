@@ -181,6 +181,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Doc2X](./ai-document-tools/doc2x-ai-document-converter.md) — 2024-11-14
 - [Kyou AI](./ai-document-tools/kyou-ai-exam-generator.md) — 2024-09-06
 - [BaoYue AI](./ai-document-tools/baoyue-ai.md) — 2024-06-14
+- [TXYZ AI](./ai-document-tools/txyz-ai-academic-research-assistant.md) — 2024-04-12
 
 ### Ai Frameworks
 - [Meoo](./ai-frameworks/ai-tool-75263.md) — 2026-04-15
