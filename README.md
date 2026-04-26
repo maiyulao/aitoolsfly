@@ -194,6 +194,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Kittl](./ai-design-tools/kittl-ai-graphic-design.md) — 2024-01-24
 - [Pimento](./ai-design-tools/pimento-ai-design-reference.md) — 2023-12-17
 - [Redoon AI](./ai-design-tools/redoon-ai.md) — 2023-12-15
+- [Logo Diffusion](./ai-design-tools/logo-diffusion.md) — 2023-12-13
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
