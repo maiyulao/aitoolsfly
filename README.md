@@ -565,6 +565,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [LTX Studio](./ai-tools/ltx-studio.md) — 2024-02-29
 - [Guaishou AI Digital Human](./ai-tools/guaishou-ai-digital-human.md) — 2024-02-25
 - [Typeframes](./ai-tools/typeframes-ai-video-generator.md) — 2024-02-21
+- [Mootion](./ai-tools/mootion-ai-video-creation.md) — 2024-02-19
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
