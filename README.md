@@ -176,6 +176,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Ilus AI](./ai-design-tools/ilus-ai.md) — 2024-05-09
 - [135 AI Editor](./ai-design-tools/135-ai-editor.md) — 2024-04-03
 - [Fable Prism](./ai-design-tools/fable-prism.md) — 2024-03-25
+- [Collov AI](./ai-design-tools/collov-ai.md) — 2024-03-21
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
