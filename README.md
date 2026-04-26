@@ -720,6 +720,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [FlowUs AI](./ai-writing-tools/flowus-ai.md) — 2024-01-09
 - [Guangsu Writing](./ai-writing-tools/guangsu-writing.md) — 2024-01-06
 - [Qianbi AI Paper](./ai-writing-tools/qianbi-ai-paper.md) — 2024-01-05
+- [MyMMC AI](./ai-writing-tools/mymmc-ai-academic-writer.md) — 2024-01-04
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
