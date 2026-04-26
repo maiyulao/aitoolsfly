@@ -586,6 +586,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Smodin AI Research Paper Writer](./ai-tools/smodin-ai-research-paper-writer.md) — 2024-01-05
 - [AI Lunwenjun](./ai-tools/ai-lunwenjun.md) — 2024-01-05
 - [Bigan Writer](./ai-tools/bigan-writer.md) — 2024-01-04
+- [PaperBetter AI](./ai-tools/paperbetter-ai.md) — 2024-01-04
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
