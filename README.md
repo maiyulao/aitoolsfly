@@ -464,6 +464,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [C Know AI](./ai-programming-tools/c-know-ai.md) — 2024-04-30
 - [Augment Code](./ai-programming-tools/augment-code.md) — 2024-04-25
 - [GitLab Duo Chat](./ai-programming-tools/gitlab-duo-chat.md) — 2024-04-22
+- [Plandex](./ai-programming-tools/plandex-ai-coding-engine.md) — 2024-04-08
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
