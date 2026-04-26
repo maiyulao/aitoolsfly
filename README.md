@@ -583,6 +583,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Morph Studio](./ai-tools/morph-studio.md) — 2024-01-06
 - [Xiaowei AI Thesis Assistant](./ai-tools/xiaowei-ai-thesis-assistant.md) — 2024-01-05
 - [Smodin AI Research Paper Writer](./ai-tools/smodin-ai-research-paper-writer.md) — 2024-01-05
+- [AI Lunwenjun](./ai-tools/ai-lunwenjun.md) — 2024-01-05
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
