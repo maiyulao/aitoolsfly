@@ -103,6 +103,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Deepgram](./ai-audio-tools/deepgram.md) — 2024-03-13
 - [Reecho AI](./ai-audio-tools/reecho-ai.md) — 2024-02-23
 - [Suno AI](./ai-audio-tools/suno-ai.md) — 2023-12-24
+- [Audiobox](./ai-audio-tools/audiobox-meta.md) — 2023-12-13
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
