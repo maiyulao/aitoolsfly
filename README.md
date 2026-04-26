@@ -665,6 +665,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [MidReal](./ai-writing-tools/midreal-ai-interactive-fiction.md) — 2024-07-14
 - [Quark AI Creator](./ai-writing-tools/quark-ai-creator.md) — 2024-06-23
 - [Chengpian](./ai-writing-tools/chengpian-baidu-ai-writer.md) — 2024-05-30
+- [WritingPal](./ai-writing-tools/writingpal.md) — 2024-03-19
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
