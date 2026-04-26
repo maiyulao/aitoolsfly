@@ -174,6 +174,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Dzine](./ai-design-tools/dzine-ai-image-editor.md) — 2024-05-11
 - [Ilus AI](./ai-design-tools/ilus-ai.md) — 2024-05-09
 - [135 AI Editor](./ai-design-tools/135-ai-editor.md) — 2024-04-03
+- [Fable Prism](./ai-design-tools/fable-prism.md) — 2024-03-25
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
