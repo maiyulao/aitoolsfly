@@ -210,6 +210,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Quivr](./ai-document-tools/quivr-ai-knowledge-base.md) — 2024-02-03
 - [Tencent Docs AI Assistant](./ai-document-tools/tencent-docs-ai-assistant.md) — 2024-01-26
 - [Youdao Speed Read](./ai-document-tools/youdao-speed-read.md) — 2024-01-04
+- [KnowMe AI](./ai-document-tools/knowme-ai.md) — 2023-12-16
 
 ### Ai Frameworks
 - [Meoo](./ai-frameworks/ai-tool-75263.md) — 2026-04-15
