@@ -200,6 +200,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [TXYZ AI](./ai-document-tools/txyz-ai-academic-research-assistant.md) — 2024-04-12
 - [Wanzhi](./ai-document-tools/wanzhi-ai-document-ppt-workbench.md) — 2024-03-20
 - [Acrobat AI Assistant](./ai-document-tools/acrobat-ai-assistant.md) — 2024-02-21
+- [Tencent Survey AI](./ai-document-tools/tencent-survey-ai.md) — 2024-02-21
 
 ### Ai Frameworks
 - [Meoo](./ai-frameworks/ai-tool-75263.md) — 2026-04-15
