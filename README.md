@@ -705,6 +705,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Chengpian](./ai-writing-tools/chengpian-baidu-ai-writer.md) — 2024-05-30
 - [WritingPal](./ai-writing-tools/writingpal.md) — 2024-03-19
 - [Wawa Writer](./ai-writing-tools/wawa-writer.md) — 2024-01-30
+- [Wuz AI Writing](./ai-writing-tools/wuz-ai-writing.md) — 2024-01-15
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
