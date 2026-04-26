@@ -99,6 +99,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Udio](./ai-audio-tools/udio-ai-music-generator.md) — 2024-04-10
 - [SoundBug](./ai-audio-tools/soundbug.md) — 2024-04-01
 - [Unisound AI Voice](./ai-audio-tools/unisound-ai-voice.md) — 2024-03-24
+- [Deepgram](./ai-audio-tools/deepgram.md) — 2024-03-13
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
