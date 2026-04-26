@@ -465,6 +465,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Tencent Meeting AI Assistant](./ai-office-tools/tencent-meeting-ai-assistant.md) — 2024-02-22
 - [Office Raccoon](./ai-office-tools/office-raccoon.md) — 2024-02-18
 - [BigPPT](./ai-office-tools/bigppt-ai-presentation-generator.md) — 2023-12-27
+- [XiaoHuaZhuo](./ai-office-tools/xiaohuazhuo-ai-whiteboard.md) — 2023-12-18
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
