@@ -490,6 +490,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Miku AI](./ai-search-engines/miku-ai-search-engine.md) — 2024-04-22
 - [Phind](./ai-search-engines/phind-ai-search-engine.md) — 2024-04-22
 - [ThinkAny](./ai-search-engines/thinkany-ai-search-engine.md) — 2024-04-22
+- [Searcholic](./ai-search-engines/searcholic-ai-ebook-search.md) — 2024-04-22
 
 ### AI Tools
 - [Yiqijian](./ai-tools/yiqijian-ai-video-creator.md) — 2024-08-18
