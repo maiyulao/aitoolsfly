@@ -484,6 +484,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [KaiSou AI](./ai-search-engines/kaisou-ai.md) — 2024-05-29
 - [Globe Explorer](./ai-search-engines/globe-explorer.md) — 2024-05-04
 - [Bocha AI](./ai-search-engines/bocha-ai.md) — 2024-04-22
+- [Consensus](./ai-search-engines/consensus-ai-research-search-engine.md) — 2024-04-22
 
 ### AI Tools
 - [Yiqijian](./ai-tools/yiqijian-ai-video-creator.md) — 2024-08-18
