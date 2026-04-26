@@ -440,6 +440,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Project IDX](./ai-programming-tools/project-idx.md) — 2024-05-18
 - [CodeRabbit](./ai-programming-tools/coderabbit-ai-code-review.md) — 2024-05-15
 - [C Know AI](./ai-programming-tools/c-know-ai.md) — 2024-04-30
+- [Augment Code](./ai-programming-tools/augment-code.md) — 2024-04-25
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
