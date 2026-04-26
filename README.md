@@ -94,6 +94,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Wondercraft AI](./ai-audio-tools/wondercraft-ai.md) — 2024-05-21
 - [Supertone Shift](./ai-audio-tools/supertone-shift.md) — 2024-05-07
 - [OptimizerAI](./ai-audio-tools/optimizerai.md) — 2024-04-17
+- [SkyMusic by Tiangong](./ai-audio-tools/skymusic-tiangong-ai-music-generator.md) — 2024-04-17
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
