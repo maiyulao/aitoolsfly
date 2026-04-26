@@ -179,6 +179,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Fable Prism](./ai-design-tools/fable-prism.md) — 2024-03-25
 - [Collov AI](./ai-design-tools/collov-ai.md) — 2024-03-21
 - [HiHaiBao AI Poster Generator](./ai-design-tools/hihaibao-ai-poster-generator.md) — 2024-03-21
+- [Creatie](./ai-design-tools/creatie-ai-ui-ux-design.md) — 2024-03-19
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
