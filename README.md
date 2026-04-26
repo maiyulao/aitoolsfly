@@ -404,6 +404,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Tongda AI](./ai-office-tools/tongda-ai.md) — 2024-05-21
 - [Vika](./ai-office-tools/vika-intelligent-multidimensional-tables.md) — 2024-05-06
 - [Qimiao Wen](./ai-office-tools/qimiao-wen-11524.md) — 2024-04-24
+- [Baidu AI Legal Assistant](./ai-office-tools/baidu-ai-legal-assistant.md) — 2024-04-23
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
