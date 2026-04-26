@@ -125,6 +125,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Baichuan Ying](./ai-chatbots/baichuan-ying.md) — 2024-05-22
 - [SenseChat](./ai-chatbots/sensechat-11529.md) — 2024-04-24
 - [Meta AI](./ai-chatbots/meta-ai.md) — 2024-04-18
+- [StepFun](./ai-chatbots/stepfun-ai-chatbot.md) — 2024-03-20
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
