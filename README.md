@@ -713,6 +713,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [PicTech AI](./best-ai-image-tools/pictech-ai.md) — 2024-08-07
 - [DeepSwapper](./best-ai-image-tools/deepswapper.md) — 2024-08-04
 - [IfShot AI](./best-ai-image-tools/ifshot-ai-portrait-generator.md) — 2024-07-09
+- [Leonardo.ai](./best-ai-image-tools/leonardo-ai.md) — 2024-01-22
 
 ### Websites To Learn Ai
 - [Duiyou AI Design Academy](./websites-to-learn-ai/duiyou-ai-design-academy.md) — 2025-07-31
