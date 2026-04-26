@@ -308,6 +308,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Cliclic AI](./ai-image-tools/cliclic-ai.md) — 2024-05-21
 - [PhotoStudio AI](./ai-image-tools/photostudio-ai.md) — 2024-05-13
 - [HSPhoto](./ai-image-tools/hsphoto-ai-ecommerce-imagery.md) — 2024-04-24
+- [VoxCraft](./ai-image-tools/voxcraft-ai-3d-generator.md) — 2024-04-15
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
