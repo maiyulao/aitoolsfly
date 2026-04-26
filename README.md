@@ -414,6 +414,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Yingdao AI Power](./ai-office-tools/yingdao-ai-power.md) — 2024-04-18
 - [Contract SouSou](./ai-office-tools/contract-sousou.md) — 2024-04-17
 - [ChatLaw](./ai-office-tools/chatlaw-pku-legal-ai.md) — 2024-04-17
+- [Deli Legal Search](./ai-office-tools/deli-legal-search.md) — 2024-04-17
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
