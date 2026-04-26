@@ -340,6 +340,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [HSPhoto](./ai-image-tools/hsphoto-ai-ecommerce-imagery.md) — 2024-04-24
 - [VoxCraft](./ai-image-tools/voxcraft-ai-3d-generator.md) — 2024-04-15
 - [IOPaint](./ai-image-tools/iopaint.md) — 2024-02-29
+- [Magnific AI](./ai-image-tools/magnific-ai.md) — 2024-01-11
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
