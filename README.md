@@ -529,6 +529,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Tongyi Lingma](./ai-programming-tools/tongyi-lingma.md) — 2024-01-10
 - [Solo](./ai-programming-tools/solo-ai-website-builder.md) — 2023-12-14
 - [JetBrains AI Assistant](./ai-programming-tools/jetbrains-ai-assistant.md) — 2023-12-08
+- [Code Raccoon](./ai-programming-tools/code-raccoon.md) — 2023-12-07
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
