@@ -517,6 +517,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Searcholic](./ai-search-engines/searcholic-ai-ebook-search.md) — 2024-04-22
 - [Andi Search](./ai-search-engines/andi-search.md) — 2024-04-22
 - [Songtell](./ai-search-engines/songtell-ai-music-encyclopedia.md) — 2024-04-22
+- [Reportify](./ai-search-engines/reportify-ai-investment-research.md) — 2024-03-20
 
 ### AI Tools
 - [Yiqijian](./ai-tools/yiqijian-ai-video-creator.md) — 2024-08-18
