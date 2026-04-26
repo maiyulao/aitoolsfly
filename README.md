@@ -187,6 +187,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [HiHaiBao AI Poster Generator](./ai-design-tools/hihaibao-ai-poster-generator.md) — 2024-03-21
 - [Creatie](./ai-design-tools/creatie-ai-ui-ux-design.md) — 2024-03-19
 - [Huiwa AI](./ai-design-tools/huiwa-ai.md) — 2024-03-04
+- [Kittl](./ai-design-tools/kittl-ai-graphic-design.md) — 2024-01-24
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
