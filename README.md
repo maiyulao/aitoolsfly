@@ -251,6 +251,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Pic Copilot](./ai-image-background-removers/pic-copilot-ai-background-remover.md) — 2024-11-29
 - [Xianyi AI Background Remover](./ai-image-background-removers/xianyi-ai-background-remover.md) — 2024-08-29
 - [Photoroom](./ai-image-background-removers/photoroom.md) — 2024-08-29
+- [Hishe AI](./ai-image-background-removers/hishe-ai.md) — 2024-03-01
 
 ### Ai Image Generators
 - [MakeManga](./ai-image-generators/makemanga-ai-comic-generator.md) — 2025-11-25
