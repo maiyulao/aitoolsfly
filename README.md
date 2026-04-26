@@ -462,6 +462,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Seewo AI Whiteboard](./ai-presentation-tools/seewo-ai-whiteboard.md) — 2024-11-04
 - [10sPPT](./ai-presentation-tools/10sppt-ai-presentation-generator.md) — 2024-10-24
 - [AI Inspiration PPT](./ai-presentation-tools/ai-inspiration-ppt.md) — 2024-08-06
+- [Qingzhu Office](./ai-presentation-tools/qingzhu-office.md) — 2024-01-17
 
 ### Ai Productivity Tools
 - [XiaoYi AI](./ai-productivity-tools/xiaoyi-ai.md) — 2024-10-22
