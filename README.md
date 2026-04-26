@@ -515,6 +515,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [GhostCut](./ai-tools/ghostcut-ai-video-editor.md) — 2024-05-07
 - [Mooliv](./ai-tools/mooliv-ai-video-editor.md) — 2024-05-07
 - [Captions](./ai-tools/captions-ai.md) — 2024-04-19
+- [Spikes Studio](./ai-tools/spikes-studio.md) — 2024-04-17
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
