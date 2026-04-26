@@ -580,6 +580,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Typeframes](./ai-tools/typeframes-ai-video-generator.md) — 2024-02-21
 - [Mootion](./ai-tools/mootion-ai-video-creation.md) — 2024-02-19
 - [Anylang.ai](./ai-tools/anylang-ai-video-translator.md) — 2024-01-08
+- [Morph Studio](./ai-tools/morph-studio.md) — 2024-01-06
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
