@@ -440,6 +440,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Deli Legal Search](./ai-office-tools/deli-legal-search.md) — 2024-04-17
 - [Hairui Legal](./ai-office-tools/hairui-legal.md) — 2024-04-17
 - [Zoom Workplace](./ai-office-tools/zoom-workplace.md) — 2024-03-25
+- [iSlide AIPPT](./ai-office-tools/islide-aippt.md) — 2024-02-26
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
