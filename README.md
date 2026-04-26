@@ -206,6 +206,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Cubox](./ai-document-tools/cubox-ai-reading-assistant.md) — 2024-02-05
 - [Quivr](./ai-document-tools/quivr-ai-knowledge-base.md) — 2024-02-03
 - [Tencent Docs AI Assistant](./ai-document-tools/tencent-docs-ai-assistant.md) — 2024-01-26
+- [Youdao Speed Read](./ai-document-tools/youdao-speed-read.md) — 2024-01-04
 
 ### Ai Frameworks
 - [Meoo](./ai-frameworks/ai-tool-75263.md) — 2026-04-15
