@@ -450,6 +450,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Zoom Workplace](./ai-office-tools/zoom-workplace.md) — 2024-03-25
 - [iSlide AIPPT](./ai-office-tools/islide-aippt.md) — 2024-02-26
 - [Tencent Meeting AI Assistant](./ai-office-tools/tencent-meeting-ai-assistant.md) — 2024-02-22
+- [Office Raccoon](./ai-office-tools/office-raccoon.md) — 2024-02-18
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
