@@ -250,6 +250,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Exactly.ai](./ai-image-generators/exactly-ai.md) — 2024-05-25
 - [Qiyu AI](./ai-image-generators/qiyu-ai.md) — 2024-05-21
 - [Mo Pen Ma Liang](./ai-image-generators/mo-pen-ma-liang.md) — 2024-04-12
+- [Baidu Photasy](./ai-image-generators/baidu-photasy.md) — 2024-04-10
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
