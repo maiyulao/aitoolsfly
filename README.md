@@ -259,6 +259,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Anakin.ai](./ai-frameworks/anakin-ai.md) — 2024-02-28
 - [Tianrang Xiaobai](./ai-frameworks/tianrang-xiaobai.md) — 2024-02-19
 - [MLX](./ai-frameworks/mlx-apple-machine-learning-framework.md) — 2023-12-20
+- [Coze](./ai-frameworks/coze-ai-bot-platform.md) — 2023-12-17
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
