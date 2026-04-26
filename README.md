@@ -202,6 +202,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Acrobat AI Assistant](./ai-document-tools/acrobat-ai-assistant.md) — 2024-02-21
 - [Tencent Survey AI](./ai-document-tools/tencent-survey-ai.md) — 2024-02-21
 - [Cubox](./ai-document-tools/cubox-ai-reading-assistant.md) — 2024-02-05
+- [Quivr](./ai-document-tools/quivr-ai-knowledge-base.md) — 2024-02-03
 
 ### Ai Frameworks
 - [Meoo](./ai-frameworks/ai-tool-75263.md) — 2026-04-15
