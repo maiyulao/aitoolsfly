@@ -556,6 +556,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [RecCloud](./ai-tools/reccloud-ai-audio-video-transcription.md) — 2024-03-08
 - [Haiper AI](./ai-tools/haiper-ai-video-generator.md) — 2024-03-05
 - [LTX Studio](./ai-tools/ltx-studio.md) — 2024-02-29
+- [Guaishou AI Digital Human](./ai-tools/guaishou-ai-digital-human.md) — 2024-02-25
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
