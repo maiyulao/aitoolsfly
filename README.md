@@ -605,6 +605,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Bilibili Studio](./ai-video-tools/bilibili-studio.md) — 2024-04-26
 - [Chanjing AI](./ai-video-tools/chanjing-ai-digital-human.md) — 2024-04-18
 - [Viggle AI](./ai-video-tools/viggle-ai.md) — 2024-04-14
+- [YouYan AI](./ai-video-tools/youyan-ai.md) — 2024-04-07
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
