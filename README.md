@@ -539,6 +539,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Google Vids](./ai-tools/google-vids.md) — 2024-04-09
 - [Shanjian AI](./ai-tools/shanjian-ai.md) — 2024-04-01
 - [Gatekeep AI](./ai-tools/gatekeep-ai-educational-video-generator.md) — 2024-03-25
+- [Clipfly](./ai-tools/clipfly.md) — 2024-03-14
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
