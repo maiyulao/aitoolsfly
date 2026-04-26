@@ -503,6 +503,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Devin](./ai-programming-tools/devin-ai-software-engineer.md) — 2024-03-13
 - [Tabby](./ai-programming-tools/tabby-self-hosted-ai-coding-assistant.md) — 2024-03-12
 - [Fitten Code](./ai-programming-tools/fitten-code.md) — 2024-01-15
+- [DevChat](./ai-programming-tools/devchat-ai-coding-assistant.md) — 2024-01-15
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
