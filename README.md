@@ -61,6 +61,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [CrePal](./ai-agent/crepal-ai-video-agent.md) — 2025-07-16
 - [iFlytek Xingchen Agent](./ai-agent/iflytek-xingchen-agent.md) — 2025-04-30
 - [Flowith](./ai-agent/flowith-ai-canvas.md) — 2024-04-22
+- [Coze](./ai-agent/coze.md) — 2023-12-17
 
 ### Ai Agents
 - [MaxHermes](./ai-agents/ai-tool-75430.md) — 2026-04-16
