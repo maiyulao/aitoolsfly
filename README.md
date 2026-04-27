@@ -694,6 +694,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Fanwen Miao](./ai-tools/fanwen-miao-ai-academic-writer.md) — 2024-01-04
 - [DomoAI](./ai-tools/domoai-ai-video-animation-platform.md) — 2023-12-25
 - [Capsule](./ai-tools/capsule-ai-video-editor.md) — 2023-09-21
+- [Kuaijianji](./ai-tools/kuaijianji-ai-video-editor.md) — 2023-06-27
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
