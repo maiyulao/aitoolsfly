@@ -703,6 +703,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Stable Video Diffusion](./ai-video-tools/stable-video-diffusion.md) — 2024-02-22
 - [Kai Pai](./ai-video-tools/kai-pai-ai-video.md) — 2024-01-08
 - [WinkStudio](./ai-video-tools/winkstudio.md) — 2023-12-15
+- [Pika](./ai-video-tools/pika-ai-video-generator.md) — 2023-12-04
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
