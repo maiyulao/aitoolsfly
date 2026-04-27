@@ -144,6 +144,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [MChat](./ai-chatbots/mchat-mengzi-gpt.md) — 2023-11-13
 - [Zidong Taichu](./ai-chatbots/zidong-taichu.md) — 2023-11-12
 - [Grok](./ai-chatbots/grok-ai.md) — 2023-11-06
+- [Wukong AI](./ai-chatbots/wukong-ai.md) — 2023-09-23
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
