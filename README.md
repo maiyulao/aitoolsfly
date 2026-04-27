@@ -314,6 +314,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [LiblibAI](./ai-image-generators/liblib-ai.md) — 2023-12-05
 - [Tentacle AI Art](./ai-image-generators/tentacle-ai-art.md) — 2023-10-25
 - [Civitai](./ai-image-generators/civitai.md) — 2023-10-04
+- [MiaoHua](./ai-image-generators/miaohua-ai-image-generator.md) — 2023-09-19
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
