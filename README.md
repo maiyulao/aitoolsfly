@@ -344,6 +344,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Stable Doodle](./ai-image-generators/stable-doodle.md) — 2023-07-13
 - [Tongyi Wanxiang](./ai-image-generators/tongyi-wanxiang.md) — 2023-07-07
 - [Duiyou AI Reactor](./ai-image-generators/duiyou-ai-reactor.md) — 2023-07-06
+- [WHEE](./ai-image-generators/whee-ai-image-generator.md) — 2023-06-19
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
