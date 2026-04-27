@@ -363,6 +363,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [175FUN](./ai-image-generators/175fun-ai-art-community.md) — 2023-06-04
 - [Skybox AI](./ai-image-generators/skybox-ai-blockade-labs.md) — 2023-05-23
 - [Hua Yuzhou](./ai-image-generators/hua-yuzhou-ai-art-generator.md) — 2023-05-22
+- [Meitu AI Text-to-Image](./ai-image-generators/meitu-ai-text-to-image.md) — 2023-05-17
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
