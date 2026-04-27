@@ -107,6 +107,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [KzZimu](./ai-audio-tools/kzzimu-ai-transcription.md) — 2023-12-08
 - [Dubbing AI](./ai-audio-tools/dubbing-ai.md) — 2023-11-29
 - [Stable Audio](./ai-audio-tools/stable-audio.md) — 2023-09-13
+- [ElevenLabs](./ai-audio-tools/elevenlabs-ai-voice-generator.md) — 2023-08-24
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
