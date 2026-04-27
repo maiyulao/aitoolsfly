@@ -791,4 +791,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Tencent Coding](./websites-to-learn-ai/tencent-coding.md) — 2024-10-29
 - [Microsoft Reading Coach](./websites-to-learn-ai/microsoft-reading-coach.md) — 2024-01-19
 - [Trancy](./websites-to-learn-ai/trancy-ai-language-learning.md) — 2023-12-18
+- [Generative AI for Beginners](./websites-to-learn-ai/generative-ai-for-beginners-microsoft.md) — 2023-11-27
 <!-- LE_AUTOPOST_INDEX_END -->
