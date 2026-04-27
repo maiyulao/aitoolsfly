@@ -230,6 +230,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [LogoliveryAI](./ai-design-tools/logolivery-ai.md) — 2023-06-21
 - [Framer AI](./ai-design-tools/framer-ai.md) — 2023-06-14
 - [Realibox AI](./ai-design-tools/realibox-ai.md) — 2023-06-09
+- [MasterGo AI](./ai-design-tools/mastergo-ai.md) — 2023-06-05
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
