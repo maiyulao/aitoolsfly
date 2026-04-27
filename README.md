@@ -388,6 +388,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [LLMEval3](./ai-model-benchmarks/llmeval3.md) — 2023-10-29
 - [MMBench](./ai-model-benchmarks/mmbench-multimodal-benchmark.md) — 2023-10-29
 - [HELM](./ai-model-benchmarks/helm-stanford-benchmark.md) — 2023-10-29
+- [OpenCompass](./ai-model-benchmarks/opencompass-llm-benchmark.md) — 2023-10-29
 
 ### Ai Models
 - [Nano Banana](./ai-models/nano-banana-google-image-model.md) — 2025-09-14
