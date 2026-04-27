@@ -609,6 +609,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [v0.app](./ai-programming-tools/v0-app.md) — 2023-09-18
 - [Baidu Comate](./ai-programming-tools/baidu-comate.md) — 2023-08-16
 - [iFlyCode](./ai-programming-tools/iflycode-ai-programming-assistant.md) — 2023-08-15
+- [Quest AI](./ai-programming-tools/quest-ai.md) — 2023-06-25
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
