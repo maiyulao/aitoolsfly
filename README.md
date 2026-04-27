@@ -392,6 +392,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [FlagEval](./ai-model-benchmarks/flageval-llm-benchmark-platform.md) — 2023-10-29
 - [LMArena](./ai-model-benchmarks/lmarena.md) — 2023-10-29
 - [MMLU](./ai-model-benchmarks/mmlu-benchmark.md) — 2023-10-29
+- [C-Eval](./ai-model-benchmarks/c-eval-chinese-llm-benchmark.md) — 2023-10-29
 
 ### Ai Models
 - [Nano Banana](./ai-models/nano-banana-google-image-model.md) — 2025-09-14
