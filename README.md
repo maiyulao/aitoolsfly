@@ -587,6 +587,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Panda Office AI Resource Platform](./ai-productivity-tools/panda-office-ai-resource-platform.md) — 2024-10-15
 - [Guaishou AI Knowledge Base](./ai-productivity-tools/guaishou-ai-knowledge-base.md) — 2024-07-25
 - [Einstein Copilot](./ai-productivity-tools/einstein-copilot.md) — 2024-02-28
+- [Zapier AI](./ai-productivity-tools/zapier-ai.md) — 2023-05-22
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
