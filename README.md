@@ -899,6 +899,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Leonardo.ai](./best-ai-image-tools/leonardo-ai.md) — 2024-01-22
 - [PixCake](./best-ai-image-tools/pixcake-ai-image-refiner.md) — 2023-11-28
 - [360 AI Image Tool](./best-ai-image-tools/360-ai-image-tool.md) — 2023-08-18
+- [Zhishe AI](./best-ai-image-tools/zhishe-ai.md) — 2023-05-12
 
 ### Websites To Learn Ai
 - [Duiyou AI Design Academy](./websites-to-learn-ai/duiyou-ai-design-academy.md) — 2025-07-31
