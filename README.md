@@ -629,6 +629,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [iFlyCode](./ai-programming-tools/iflycode-ai-programming-assistant.md) — 2023-08-15
 - [Quest AI](./ai-programming-tools/quest-ai.md) — 2023-06-25
 - [Amp](./ai-programming-tools/amp-by-sourcegraph.md) — 2023-05-27
+- [Boxy](./ai-programming-tools/boxy-codesandbox-ai.md) — 2023-05-27
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
