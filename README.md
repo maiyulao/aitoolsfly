@@ -489,6 +489,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [BigPPT](./ai-office-tools/bigppt-ai-presentation-generator.md) — 2023-12-27
 - [XiaoHuaZhuo](./ai-office-tools/xiaohuazhuo-ai-whiteboard.md) — 2023-12-18
 - [Zhixi AI](./ai-office-tools/zhixi-ai-mind-mapping.md) — 2023-12-08
+- [ProcessOn](./ai-office-tools/processon-ai-diagramming.md) — 2023-12-01
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
