@@ -799,6 +799,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Shenyan Dayi](./ai-writing-tools/shenyan-dayi.md) — 2023-11-27
 - [WriteWise](./ai-writing-tools/writewise-ai-novel-writer.md) — 2023-11-15
 - [Linggou AI Notes](./ai-writing-tools/linggou-ai-notes.md) — 2023-11-15
+- [Writing Frog](./ai-writing-tools/writing-frog.md) — 2023-10-11
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
