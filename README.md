@@ -297,6 +297,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [MLX](./ai-frameworks/mlx-apple-machine-learning-framework.md) — 2023-12-20
 - [Coze](./ai-frameworks/coze-ai-bot-platform.md) — 2023-12-17
 - [ChatDev](./ai-frameworks/chatdev.md) — 2023-11-16
+- [Label Studio](./ai-frameworks/label-studio.md) — 2023-08-11
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
