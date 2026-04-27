@@ -339,6 +339,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [NetEase AI Creative Workshop](./ai-image-generators/netease-ai-creative-workshop.md) — 2023-08-20
 - [Sohu AI Image Generator](./ai-image-generators/sohu-ai-image-generator.md) — 2023-08-14
 - [Stable Doodle](./ai-image-generators/stable-doodle.md) — 2023-07-13
+- [Tongyi Wanxiang](./ai-image-generators/tongyi-wanxiang.md) — 2023-07-07
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
