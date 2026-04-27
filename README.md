@@ -220,6 +220,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [FigJam AI](./ai-design-tools/figjam-ai.md) — 2023-11-08
 - [Pixso AI](./ai-design-tools/pixso-ai.md) — 2023-08-30
 - [Motiff](./ai-design-tools/motiff-ai-design-tool.md) — 2023-08-14
+- [Vectorizer.AI](./ai-design-tools/vectorizer-ai.md) — 2023-08-01
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
