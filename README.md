@@ -141,6 +141,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [ChitChop](./ai-chatbots/chitchop-ai-assistant.md) — 2023-11-29
 - [XChat](./ai-chatbots/xchat-xverse-ai.md) — 2023-11-20
 - [Microsoft Copilot](./ai-chatbots/microsoft-copilot.md) — 2023-11-16
+- [MChat](./ai-chatbots/mchat-mengzi-gpt.md) — 2023-11-13
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
