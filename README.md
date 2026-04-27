@@ -557,6 +557,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Solo](./ai-programming-tools/solo-ai-website-builder.md) — 2023-12-14
 - [JetBrains AI Assistant](./ai-programming-tools/jetbrains-ai-assistant.md) — 2023-12-08
 - [Code Raccoon](./ai-programming-tools/code-raccoon.md) — 2023-12-07
+- [CodeFuse](./ai-programming-tools/codefuse.md) — 2023-10-30
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
