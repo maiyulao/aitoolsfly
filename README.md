@@ -718,6 +718,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Kai Pai](./ai-video-tools/kai-pai-ai-video.md) — 2024-01-08
 - [WinkStudio](./ai-video-tools/winkstudio.md) — 2023-12-15
 - [Pika](./ai-video-tools/pika-ai-video-generator.md) — 2023-12-04
+- [Ji Chuang](./ai-video-tools/ji-chuang-ai-video.md) — 2023-11-15
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
