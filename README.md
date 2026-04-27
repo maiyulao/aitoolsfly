@@ -328,6 +328,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Civitai](./ai-image-generators/civitai.md) — 2023-10-04
 - [MiaoHua](./ai-image-generators/miaohua-ai-image-generator.md) — 2023-09-19
 - [NetEase AI Creative Workshop](./ai-image-generators/netease-ai-creative-workshop.md) — 2023-08-20
+- [Sohu AI Image Generator](./ai-image-generators/sohu-ai-image-generator.md) — 2023-08-14
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
