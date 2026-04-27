@@ -225,6 +225,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [PMAI](./ai-document-tools/pmai-ai-assistant-for-product-managers.md) — 2023-12-07
 - [Spark Research Assistant](./ai-document-tools/spark-research-assistant.md) — 2023-12-06
 - [PDF.ai](./ai-document-tools/pdf-ai.md) — 2023-12-02
+- [Xinghuo DocQA](./ai-document-tools/xinghuo-docqa.md) — 2023-11-15
 
 ### Ai Frameworks
 - [Meoo](./ai-frameworks/ai-tool-75263.md) — 2026-04-15
