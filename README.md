@@ -136,6 +136,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Le Chat](./ai-chatbots/le-chat-mistral-ai.md) — 2024-02-26
 - [MiniMax](./ai-chatbots/minimax-ai-chatbot-8835.md) — 2024-02-26
 - [MiniMax](./ai-chatbots/minimax-ai-chatbot.md) — 2024-02-26
+- [Baidu Super Assistant](./ai-chatbots/baidu-super-assistant.md) — 2023-12-04
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
