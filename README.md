@@ -157,6 +157,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [DingTalk Personal](./ai-chatbots/dingtalk-personal.md) — 2023-08-16
 - [Stable Chat](./ai-chatbots/stable-chat.md) — 2023-08-11
 - [ModelScopeGPT](./ai-chatbots/modelscopegpt.md) — 2023-07-07
+- [TigerBot](./ai-chatbots/tigerbot-ai-chatbot.md) — 2023-06-07
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
