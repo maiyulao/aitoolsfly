@@ -759,6 +759,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [MyMMC AI](./ai-writing-tools/mymmc-ai-academic-writer.md) — 2024-01-04
 - [XPaper AI](./ai-writing-tools/xpaper-ai.md) — 2024-01-04
 - [Xiaoyutai](./ai-writing-tools/xiaoyutai-ai-writing-assistant.md) — 2023-12-05
+- [Xunfei Huiwen](./ai-writing-tools/xunfei-huiwen-ai-writer.md) — 2023-12-03
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
