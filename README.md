@@ -149,6 +149,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [iFlytek Spark](./ai-chatbots/iflytek-spark.md) — 2023-09-05
 - [360 AI Brain](./ai-chatbots/360-ai-brain.md) — 2023-09-05
 - [Zhipu AI (ChatGLM)](./ai-chatbots/zhipu-ai-chatglm.md) — 2023-08-31
+- [Baichuan AI](./ai-chatbots/baichuan-ai.md) — 2023-08-31
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
