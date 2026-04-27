@@ -365,6 +365,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Hua Yuzhou](./ai-image-generators/hua-yuzhou-ai-art-generator.md) — 2023-05-22
 - [Meitu AI Text-to-Image](./ai-image-generators/meitu-ai-text-to-image.md) — 2023-05-17
 - [Dream Diary AI](./ai-image-generators/dream-diary-ai.md) — 2023-05-16
+- [6pen Art](./ai-image-generators/6pen-art.md) — 2023-05-14
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
