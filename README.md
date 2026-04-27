@@ -570,6 +570,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Baidu AiPan](./ai-office-tools/baidu-aipan.md) — 2023-08-10
 - [NetEase Jianwai](./ai-office-tools/netease-jianwai.md) — 2023-06-25
 - [Xiangji Translate](./ai-office-tools/xiangji-translate.md) — 2023-06-15
+- [EdrawMind](./ai-office-tools/edrawmind-ai-mind-mapping.md) — 2023-05-28
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
