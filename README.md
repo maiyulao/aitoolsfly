@@ -108,6 +108,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Dubbing AI](./ai-audio-tools/dubbing-ai.md) — 2023-11-29
 - [Stable Audio](./ai-audio-tools/stable-audio.md) — 2023-09-13
 - [ElevenLabs](./ai-audio-tools/elevenlabs-ai-voice-generator.md) — 2023-08-24
+- [NetEase Cloud Music X Studio](./ai-audio-tools/netease-cloud-music-x-studio.md) — 2023-06-15
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
