@@ -415,6 +415,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Jan](./ai-models/jan-ai-local-llm.md) — 2024-01-11
 - [Ollama](./ai-models/ollama.md) — 2023-12-09
 - [MiracleVision](./ai-models/miraclevision-ai-visual-model.md) — 2023-12-05
+- [Tencent Hunyuan](./ai-models/tencent-hunyuan.md) — 2023-09-07
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
