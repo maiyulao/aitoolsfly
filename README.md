@@ -234,6 +234,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Xinghuo DocQA](./ai-document-tools/xinghuo-docqa.md) — 2023-11-15
 - [Tongyi Zhiwen](./ai-document-tools/tongyi-zhiwen.md) — 2023-10-31
 - [Baidu Wenku AI Assistant](./ai-document-tools/baidu-wenku-ai-assistant.md) — 2023-10-13
+- [WPS AI](./ai-document-tools/wps-ai.md) — 2023-09-05
 
 ### Ai Frameworks
 - [Meoo](./ai-frameworks/ai-tool-75263.md) — 2026-04-15
