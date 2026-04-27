@@ -395,6 +395,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Pic Copilot](./ai-image-tools/pic-copilot.md) — 2023-12-01
 - [Meshy](./ai-image-tools/meshy-ai-3d-generator.md) — 2023-11-28
 - [PixCake](./ai-image-tools/pixcake-ai-image-enhancer.md) — 2023-11-28
+- [Transpic](./ai-image-tools/transpic-ai-image-illustration.md) — 2023-08-22
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
