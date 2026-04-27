@@ -385,6 +385,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
 - [AGI-Eval](./ai-model-benchmarks/agi-eval.md) — 2024-12-18
 - [H2O EvalGPT](./ai-model-benchmarks/h2o-evalgpt.md) — 2023-10-29
+- [LLMEval3](./ai-model-benchmarks/llmeval3.md) — 2023-10-29
 
 ### Ai Models
 - [Nano Banana](./ai-models/nano-banana-google-image-model.md) — 2025-09-14
