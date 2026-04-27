@@ -154,6 +154,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Luca AI](./ai-chatbots/luca-ai-modelbest.md) — 2023-08-28
 - [Doubao](./ai-chatbots/doubao-ai-assistant.md) — 2023-08-18
 - [DingTalk Personal](./ai-chatbots/dingtalk-personal.md) — 2023-08-16
+- [Stable Chat](./ai-chatbots/stable-chat.md) — 2023-08-11
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
