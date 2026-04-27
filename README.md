@@ -366,6 +366,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Krea AI](./ai-image-tools/krea-ai.md) — 2023-12-28
 - [Remini](./ai-image-tools/remini-ai-photo-enhancer.md) — 2023-12-12
 - [Xiutu AI](./ai-image-tools/xiutu-ai.md) — 2023-12-11
+- [Pic Copilot](./ai-image-tools/pic-copilot.md) — 2023-12-01
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
