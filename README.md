@@ -359,6 +359,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Xingzhe AI Art](./ai-image-generators/xingzhe-ai-art.md) — 2023-06-08
 - [Freepik AI Image Generator](./ai-image-generators/freepik-ai-image-generator.md) — 2023-06-06
 - [175FUN](./ai-image-generators/175fun-ai-art-community.md) — 2023-06-04
+- [Skybox AI](./ai-image-generators/skybox-ai-blockade-labs.md) — 2023-05-23
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
