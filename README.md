@@ -803,6 +803,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [WriteWise](./ai-writing-tools/writewise-ai-novel-writer.md) — 2023-11-15
 - [Linggou AI Notes](./ai-writing-tools/linggou-ai-notes.md) — 2023-11-15
 - [Writing Frog](./ai-writing-tools/writing-frog.md) — 2023-10-11
+- [Baidu Writer Platform](./ai-writing-tools/baidu-writer-platform.md) — 2023-09-22
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
