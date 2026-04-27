@@ -396,6 +396,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [SuperCLUE](./ai-model-benchmarks/superclue-llm-benchmark.md) — 2023-10-29
 - [Open LLM Leaderboard](./ai-model-benchmarks/open-llm-leaderboard.md) — 2023-10-29
 - [CMMLU](./ai-model-benchmarks/cmmlu-chinese-llm-benchmark.md) — 2023-10-29
+- [PubMedQA](./ai-model-benchmarks/pubmedqa.md) — 2023-10-28
 
 ### Ai Models
 - [Nano Banana](./ai-models/nano-banana-google-image-model.md) — 2025-09-14
