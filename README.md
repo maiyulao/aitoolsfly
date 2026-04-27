@@ -235,6 +235,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [MasterGo AI](./ai-design-tools/mastergo-ai.md) — 2023-06-05
 - [Modao AI](./ai-design-tools/modao-ai.md) — 2023-05-30
 - [Nolibox](./ai-design-tools/nolibox-ai-design-platform.md) — 2023-05-22
+- [Dora AI](./ai-design-tools/dora-ai.md) — 2023-05-18
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
