@@ -254,6 +254,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [WPS AI](./ai-document-tools/wps-ai.md) — 2023-09-05
 - [SmartRead](./ai-document-tools/smartread-ai-document-analyzer.md) — 2023-07-26
 - [Craft AI Assistant](./ai-document-tools/craft-ai-assistant.md) — 2023-07-12
+- [Coda AI](./ai-document-tools/coda-ai.md) — 2023-06-18
 
 ### Ai Frameworks
 - [Meoo](./ai-frameworks/ai-tool-75263.md) — 2026-04-15
