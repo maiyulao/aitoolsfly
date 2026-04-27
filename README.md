@@ -293,6 +293,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Baidu Photasy](./ai-image-generators/baidu-photasy.md) — 2024-04-10
 - [360 AI Art](./ai-image-generators/360-ai-art.md) — 2023-12-19
 - [Imagine with Meta](./ai-image-generators/imagine-with-meta.md) — 2023-12-07
+- [Visual Electric](./ai-image-generators/visual-electric.md) — 2023-12-06
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
