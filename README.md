@@ -889,6 +889,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [ZAKER AI Writer](./ai-writing-tools/zaker-ai-writer.md) — 2023-05-17
 - [Wancai AI](./ai-writing-tools/wancai-ai.md) — 2023-05-16
 - [Jenni AI](./ai-writing-tools/jenni-ai-writing-assistant.md) — 2023-05-12
+- [Cohesive](./ai-writing-tools/cohesive-ai-writing-assistant.md) — 2023-05-08
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
