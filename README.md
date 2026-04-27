@@ -542,6 +542,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [ProcessOn](./ai-office-tools/processon-ai-diagramming.md) — 2023-12-01
 - [iFlytek Zhiwen](./ai-office-tools/iflytek-zhiwen.md) — 2023-11-26
 - [Feishu AI Companion](./ai-office-tools/feishu-ai-companion.md) — 2023-11-23
+- [Baidu AiPan](./ai-office-tools/baidu-aipan.md) — 2023-08-10
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
