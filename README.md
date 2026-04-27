@@ -152,6 +152,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Zhipu AI (ChatGLM)](./ai-chatbots/zhipu-ai-chatglm.md) — 2023-08-31
 - [Baichuan AI](./ai-chatbots/baichuan-ai.md) — 2023-08-31
 - [Luca AI](./ai-chatbots/luca-ai-modelbest.md) — 2023-08-28
+- [Doubao](./ai-chatbots/doubao-ai-assistant.md) — 2023-08-18
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
