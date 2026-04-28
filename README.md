@@ -1001,4 +1001,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Trancy](./websites-to-learn-ai/trancy-ai-language-learning.md) — 2023-12-18
 - [Generative AI for Beginners](./websites-to-learn-ai/generative-ai-for-beginners-microsoft.md) — 2023-11-27
 - [ML for Beginners by Microsoft](./websites-to-learn-ai/ml-for-beginners-by-microsoft.md) — 2023-04-11
+- [AI Daxue](./websites-to-learn-ai/ai-daxue.md) — 2023-04-10
 <!-- LE_AUTOPOST_INDEX_END -->
