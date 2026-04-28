@@ -243,6 +243,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Dora AI](./ai-design-tools/dora-ai.md) — 2023-05-18
 - [Vizcom](./ai-design-tools/vizcom-ai-industrial-design-rendering.md) — 2023-05-10
 - [Ling AI](./ai-design-tools/ling-ai-jd.md) — 2023-04-30
+- [Alibaba Cloud AI Logo Designer](./ai-design-tools/alibaba-cloud-ai-logo-designer.md) — 2023-04-26
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
