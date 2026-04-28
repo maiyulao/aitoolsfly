@@ -400,6 +400,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Dream by WOMBO](./ai-image-generators/dream-by-wombo.md) — 2023-04-22
 - [Chuangkit AI Art](./ai-image-generators/chuangkit-ai-art.md) — 2023-04-20
 - [SkyPaint](./ai-image-generators/skypaint-ai-illustration-generator.md) — 2023-04-19
+- [Lucidpic](./ai-image-generators/lucidpic.md) — 2023-04-16
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
