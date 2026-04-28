@@ -921,6 +921,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Cohesive](./ai-writing-tools/cohesive-ai-writing-assistant.md) — 2023-05-08
 - [Youdao Write](./ai-writing-tools/youdao-write.md) — 2023-05-03
 - [MoZuan AI Writing](./ai-writing-tools/mozuan-ai-writing.md) — 2023-04-28
+- [Qimiao Wen](./ai-writing-tools/qimiao-wen.md) — 2023-04-24
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
