@@ -694,6 +694,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Einstein Copilot](./ai-productivity-tools/einstein-copilot.md) — 2024-02-28
 - [Zapier AI](./ai-productivity-tools/zapier-ai.md) — 2023-05-22
 - [Merlin AI](./ai-productivity-tools/merlin-ai-browser-extension.md) — 2023-04-04
+- [Raycast AI](./ai-productivity-tools/raycast-ai.md) — 2023-04-01
 
 ### Ai Programming Tools
 - [MonkeyCode](./ai-programming-tools/monkeycode-ai-programming-assistant.md) — 2026-01-21
