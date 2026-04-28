@@ -480,6 +480,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [watsonx.ai](./ai-models/watsonx-ai.md) — 2023-05-10
 - [Gradio](./ai-models/gradio.md) — 2023-05-06
 - [DeepFloyd IF](./ai-models/deepfloyd-if.md) — 2023-05-06
+- [StableVicuna](./ai-models/stablevicuna.md) — 2023-05-04
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
