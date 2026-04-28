@@ -477,6 +477,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [PaLM 2](./ai-models/palm-2.md) — 2023-05-22
 - [Cohere](./ai-models/cohere.md) — 2023-05-18
 - [watsonx.ai](./ai-models/watsonx-ai.md) — 2023-05-10
+- [Gradio](./ai-models/gradio.md) — 2023-05-06
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
