@@ -253,6 +253,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Luban](./ai-design-tools/luban-ai-design.md) — 2023-04-26
 - [AIDesign](./ai-design-tools/aidesign-tencent-logo-maker.md) — 2023-04-25
 - [Tencent Taishan](./ai-design-tools/tencent-taishan.md) — 2023-04-25
+- [Alpaca](./ai-design-tools/alpaca-ai-photoshop-plugin.md) — 2023-04-20
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
