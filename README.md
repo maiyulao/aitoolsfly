@@ -639,6 +639,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Airgram](./ai-office-tools/airgram.md) — 2023-04-20
 - [DingTalk AI Assistant](./ai-office-tools/dingtalk-ai-assistant.md) — 2023-04-18
 - [Meitu AI PPT](./ai-office-tools/meitu-ai-ppt.md) — 2023-04-18
+- [Monica](./ai-office-tools/monica-ai-assistant.md) — 2023-04-15
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
