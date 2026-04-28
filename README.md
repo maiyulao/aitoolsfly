@@ -282,6 +282,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Craft AI Assistant](./ai-document-tools/craft-ai-assistant.md) — 2023-07-12
 - [Coda AI](./ai-document-tools/coda-ai.md) — 2023-06-18
 - [Ziyu AI](./ai-document-tools/ziyu-ai.md) — 2023-05-04
+- [Humata](./ai-document-tools/humata-ai-document-analyzer.md) — 2023-04-23
 
 ### Ai Frameworks
 - [Meoo](./ai-frameworks/ai-tool-75263.md) — 2026-04-15
