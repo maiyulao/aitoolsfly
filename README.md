@@ -375,6 +375,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [6pen Art](./ai-image-generators/6pen-art.md) — 2023-05-14
 - [Wuxianhua AI](./ai-image-generators/wuxianhua-ai-illustration-generator.md) — 2023-05-09
 - [Playform](./ai-image-generators/playform-ai-art-generator.md) — 2023-05-07
+- [Wepik AI](./ai-image-generators/wepik-ai-image-generator.md) — 2023-04-28
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
