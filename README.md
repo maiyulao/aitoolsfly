@@ -176,6 +176,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Inworld AI](./ai-chatbots/inworld-ai.md) — 2023-04-17
 - [Open Assistant](./ai-chatbots/open-assistant.md) — 2023-04-16
 - [Writing Cat AI](./ai-chatbots/writing-cat-ai.md) — 2023-04-14
+- [SenseChat](./ai-chatbots/sensechat.md) — 2023-04-12
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
