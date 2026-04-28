@@ -759,6 +759,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [SkyCode](./ai-programming-tools/skycode-ai-programming-assistant.md) — 2023-04-19
 - [CodeWhisperer](./ai-programming-tools/codewhisperer.md) — 2023-04-14
 - [Debuild](./ai-programming-tools/debuild-ai-low-code-web-app-builder.md) — 2023-04-11
+- [CodeGeeX](./ai-programming-tools/codegeex-ai-coding-assistant.md) — 2023-04-01
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
