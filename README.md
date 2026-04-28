@@ -840,6 +840,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Gencraft](./ai-tools/gencraft.md) — 2023-04-11
 - [Wonder Studio](./ai-tools/wonder-studio.md) — 2023-04-10
 - [CopyDone](./ai-tools/copydone-ai-writing-tool.md) — 2023-04-06
+- [Mark Copy](./ai-tools/mark-copy.md) — 2023-04-05
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
