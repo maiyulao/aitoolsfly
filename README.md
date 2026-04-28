@@ -327,6 +327,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Label Studio](./ai-frameworks/label-studio.md) — 2023-08-11
 - [Vercel AI SDK](./ai-frameworks/vercel-ai-sdk.md) — 2023-06-24
 - [Leap](./ai-frameworks/leap-ai-integration-platform.md) — 2023-05-28
+- [MindSpore](./ai-frameworks/mindspore-ai-framework.md) — 2023-04-28
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
