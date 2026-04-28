@@ -662,6 +662,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Caiyun Translator](./ai-office-tools/caiyun-translator.md) — 2023-04-09
 - [Tencent Translator](./ai-office-tools/tencent-translator.md) — 2023-04-09
 - [Sogou Translation](./ai-office-tools/sogou-translation.md) — 2023-04-09
+- [Baidu AI Simultaneous Interpretation Assistant](./ai-office-tools/baidu-ai-simultaneous-interpretation-assistant.md) — 2023-04-09
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
