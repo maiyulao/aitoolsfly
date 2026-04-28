@@ -168,6 +168,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Pi](./ai-chatbots/pi-ai-chatbot.md) — 2023-05-05
 - [Forefront AI](./ai-chatbots/forefront-ai.md) — 2023-04-30
 - [HuggingChat](./ai-chatbots/huggingchat.md) — 2023-04-26
+- [Neeva](./ai-chatbots/neeva-ai-search.md) — 2023-04-24
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
