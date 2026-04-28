@@ -680,6 +680,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [GitMind](./ai-office-tools/gitmind-ai-mind-mapping.md) — 2023-04-01
 - [Excel Formularizer](./ai-office-tools/excel-formularizer.md) — 2023-04-01
 - [SheetGod](./ai-office-tools/sheetgod-ai-excel-formula-generator.md) — 2023-04-01
+- [Noty.ai](./ai-office-tools/noty-ai.md) — 2023-04-01
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
