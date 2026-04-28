@@ -626,6 +626,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Xmind AI](./ai-office-tools/xmind-ai.md) — 2023-04-23
 - [WPS Kuaiyi](./ai-office-tools/wps-kuaiyi-ai-translator.md) — 2023-04-21
 - [Alibaba Translate](./ai-office-tools/alibaba-translate.md) — 2023-04-21
+- [Airgram](./ai-office-tools/airgram.md) — 2023-04-20
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
