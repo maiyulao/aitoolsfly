@@ -677,6 +677,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Baidu Translate](./ai-office-tools/baidu-translate.md) — 2023-04-09
 - [Miro AI](./ai-office-tools/miro-ai.md) — 2023-04-01
 - [Ayoa Ultimate](./ai-office-tools/ayoa-ultimate.md) — 2023-04-01
+- [GitMind](./ai-office-tools/gitmind-ai-mind-mapping.md) — 2023-04-01
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
