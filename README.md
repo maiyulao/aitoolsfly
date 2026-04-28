@@ -265,6 +265,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Alpaca](./ai-design-tools/alpaca-ai-photoshop-plugin.md) — 2023-04-20
 - [BiaoXiaoZhi AI Logo Generator](./ai-design-tools/biaoxiaozhi-ai-logo-generator.md) — 2023-04-10
 - [Spline AI](./ai-design-tools/spline-ai.md) — 2023-04-03
+- [Magic Design](./ai-design-tools/magic-design.md) — 2023-03-29
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
