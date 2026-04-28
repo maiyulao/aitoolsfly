@@ -355,6 +355,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [LangChain](./ai-frameworks/langchain.md) — 2023-04-10
 - [JAX](./ai-frameworks/jax-google-ml-framework.md) — 2023-04-05
 - [NLTK](./ai-frameworks/nltk-natural-language-toolkit.md) — 2023-04-05
+- [DeepLearning4J](./ai-frameworks/deeplearning4j.md) — 2023-04-05
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
