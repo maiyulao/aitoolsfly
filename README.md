@@ -295,6 +295,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Ziyu AI](./ai-document-tools/ziyu-ai.md) — 2023-05-04
 - [Humata](./ai-document-tools/humata-ai-document-analyzer.md) — 2023-04-23
 - [Evernote AI](./ai-document-tools/evernote-ai.md) — 2023-04-18
+- [Super AI](./ai-document-tools/super-ai-document-processing.md) — 2023-04-06
 
 ### Ai Frameworks
 - [Meoo](./ai-frameworks/ai-tool-75263.md) — 2026-04-15
