@@ -496,6 +496,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [DeepFloyd IF](./ai-models/deepfloyd-if.md) — 2023-05-06
 - [StableVicuna](./ai-models/stablevicuna.md) — 2023-05-04
 - [Lamini](./ai-models/lamini-llm-customization.md) — 2023-04-30
+- [Sequence Monkey](./ai-models/sequence-monkey.md) — 2023-04-24
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
