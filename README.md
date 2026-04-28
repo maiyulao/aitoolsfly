@@ -746,6 +746,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Capsule](./ai-tools/capsule-ai-video-editor.md) — 2023-09-21
 - [Kuaijianji](./ai-tools/kuaijianji-ai-video-editor.md) — 2023-06-27
 - [Animiz Microvideo](./ai-tools/animiz-microvideo.md) — 2023-05-26
+- [Huiying Zimu](./ai-tools/huiying-zimu-ai-subtitles.md) — 2023-05-04
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
