@@ -112,6 +112,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [ACE Studio](./ai-audio-tools/ace-studio.md) — 2023-05-31
 - [Yueyin AI Voiceover](./ai-audio-tools/yueyin-ai-voiceover.md) — 2023-05-26
 - [Beatoven.ai](./ai-audio-tools/beatoven-ai.md) — 2023-05-07
+- [Tongyi Tingwu](./ai-audio-tools/tongyi-tingwu.md) — 2023-04-28
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
