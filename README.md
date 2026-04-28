@@ -417,6 +417,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Tiamat](./ai-image-generators/tiamat-ai-art-generator.md) — 2023-04-09
 - [Wujie AI](./ai-image-generators/wujie-ai.md) — 2023-04-07
 - [Photosonic](./ai-image-generators/photosonic.md) — 2023-04-05
+- [AIGC by Wondershare](./ai-image-generators/aigc-by-wondershare.md) — 2023-04-04
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
