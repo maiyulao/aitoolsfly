@@ -115,6 +115,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Tongyi Tingwu](./ai-audio-tools/tongyi-tingwu.md) — 2023-04-28
 - [BeatBot](./ai-audio-tools/beatbot-ai-music-generator.md) — 2023-04-25
 - [Moyin Studio](./ai-audio-tools/moyin-studio.md) — 2023-04-24
+- [Uberduck](./ai-audio-tools/uberduck-ai-voice-generator.md) — 2023-04-23
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
