@@ -656,6 +656,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Monica](./ai-office-tools/monica-ai-assistant.md) — 2023-04-15
 - [TreeMind](./ai-office-tools/treemind-ai-mind-mapping.md) — 2023-04-13
 - [iFlytek AI Translator](./ai-office-tools/iflytek-ai-translator.md) — 2023-04-09
+- [Bing Microsoft Translator](./ai-office-tools/bing-microsoft-translator.md) — 2023-04-09
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
