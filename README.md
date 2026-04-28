@@ -117,6 +117,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Moyin Studio](./ai-audio-tools/moyin-studio.md) — 2023-04-24
 - [Uberduck](./ai-audio-tools/uberduck-ai-voice-generator.md) — 2023-04-23
 - [Adobe Podcast](./ai-audio-tools/adobe-podcast.md) — 2023-04-16
+- [BGM Cat](./ai-audio-tools/bgm-cat.md) — 2023-04-09
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
