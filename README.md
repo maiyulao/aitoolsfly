@@ -353,6 +353,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [MindSpore](./ai-frameworks/mindspore-ai-framework.md) — 2023-04-28
 - [Lightning AI](./ai-frameworks/lightning-ai.md) — 2023-04-21
 - [LangChain](./ai-frameworks/langchain.md) — 2023-04-10
+- [JAX](./ai-frameworks/jax-google-ml-framework.md) — 2023-04-05
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
