@@ -474,6 +474,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Let's Enhance](./ai-image-tools/lets-enhance-ai-image-upscaler.md) — 2023-05-14
 - [Meitu Cloud Retouch](./ai-image-tools/meitu-cloud-retouch.md) — 2023-04-30
 - [WatermarkRemover.io](./ai-image-tools/watermarkremover-io.md) — 2023-04-16
+- [jpgHD](./ai-image-tools/jpghd-ai-photo-restoration.md) — 2023-04-16
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
