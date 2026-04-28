@@ -860,6 +860,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Pika](./ai-video-tools/pika-ai-video-generator.md) — 2023-12-04
 - [Ji Chuang](./ai-video-tools/ji-chuang-ai-video.md) — 2023-11-15
 - [Baidu Dujia AI](./ai-video-tools/baidu-dujia-ai.md) — 2023-05-31
+- [Miao Chuang](./ai-video-tools/miao-chuang-ai-video-generator.md) — 2023-04-23
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
