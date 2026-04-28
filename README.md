@@ -342,6 +342,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Pixian.AI](./ai-image-background-removers/pixian-ai.md) — 2024-01-24
 - [Wantu Cutout](./ai-image-background-removers/wantu-cutout.md) — 2023-09-02
 - [GoProd](./ai-image-background-removers/goprod-ai-image-upscaler-background-remover.md) — 2023-05-23
+- [Meitu AI Cutout](./ai-image-background-removers/meitu-ai-cutout.md) — 2023-04-26
 
 ### Ai Image Generators
 - [MakeManga](./ai-image-generators/makemanga-ai-comic-generator.md) — 2025-11-25
