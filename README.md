@@ -172,6 +172,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Neeva](./ai-chatbots/neeva-ai-search.md) — 2023-04-24
 - [MOSS](./ai-chatbots/moss-ai-chatbot.md) — 2023-04-22
 - [Tiangong AI](./ai-chatbots/tiangong-ai.md) — 2023-04-19
+- [Inworld AI](./ai-chatbots/inworld-ai.md) — 2023-04-17
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
