@@ -682,6 +682,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Qingzhu Office](./ai-presentation-tools/qingzhu-office.md) — 2024-01-17
 - [MindShow](./ai-presentation-tools/mindshow-ai-presentation-tool.md) — 2023-04-12
 - [ChatPPT](./ai-presentation-tools/chatppt.md) — 2023-04-06
+- [Auxi – AI-Powered PowerPoint Plugin](./ai-presentation-tools/auxi-ai-powerpoint-plugin.md) — 2023-04-03
 
 ### Ai Productivity Tools
 - [XiaoYi AI](./ai-productivity-tools/xiaoyi-ai.md) — 2024-10-22
