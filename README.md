@@ -658,6 +658,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [iFlytek AI Translator](./ai-office-tools/iflytek-ai-translator.md) — 2023-04-09
 - [Bing Microsoft Translator](./ai-office-tools/bing-microsoft-translator.md) — 2023-04-09
 - [DeepL Translator](./ai-office-tools/deepl-translator.md) — 2023-04-09
+- [Google Translate](./ai-office-tools/google-translate.md) — 2023-04-09
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
