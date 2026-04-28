@@ -547,6 +547,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Segment Anything (SAM)](./ai-models/segment-anything-sam.md) — 2023-04-08
 - [OpenBMB](./ai-models/openbmb.md) — 2023-04-01
 - [WuDao](./ai-models/wudao-ai-model.md) — 2023-03-29
+- [Alibaba M6](./ai-models/alibaba-m6.md) — 2023-03-29
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
