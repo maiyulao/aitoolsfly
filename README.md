@@ -518,6 +518,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Sequence Monkey](./ai-models/sequence-monkey.md) — 2023-04-24
 - [StableLM](./ai-models/stablelm.md) — 2023-04-22
 - [AutoGPT](./ai-models/autogpt.md) — 2023-04-14
+- [AgentGPT](./ai-models/agentgpt.md) — 2023-04-14
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
