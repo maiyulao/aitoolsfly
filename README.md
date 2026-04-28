@@ -617,6 +617,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Maire Meeting AI](./ai-office-tools/maire-meeting-ai.md) — 2023-05-18
 - [Evermind AI](./ai-office-tools/evermind-ai-mind-mapping.md) — 2023-05-08
 - [Zhitu Resume](./ai-office-tools/zhitu-resume.md) — 2023-04-26
+- [Xmind AI](./ai-office-tools/xmind-ai.md) — 2023-04-23
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
