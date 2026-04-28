@@ -392,6 +392,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Playform](./ai-image-generators/playform-ai-art-generator.md) — 2023-05-07
 - [Wepik AI](./ai-image-generators/wepik-ai-image-generator.md) — 2023-04-28
 - [Dream by WOMBO](./ai-image-generators/dream-by-wombo.md) — 2023-04-22
+- [Chuangkit AI Art](./ai-image-generators/chuangkit-ai-art.md) — 2023-04-20
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
