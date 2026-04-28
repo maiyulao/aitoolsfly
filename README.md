@@ -805,6 +805,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Weta AI](./ai-tools/weta-ai.md) — 2023-04-24
 - [EbSynth](./ai-tools/ebsynth.md) — 2023-04-20
 - [Kaiber](./ai-tools/kaiber-ai-video-generator.md) — 2023-04-15
+- [Laihua AI](./ai-tools/laihua-ai-video-generator.md) — 2023-04-13
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
