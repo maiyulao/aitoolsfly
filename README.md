@@ -989,6 +989,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Qimiao Wen](./ai-writing-tools/qimiao-wen.md) — 2023-04-24
 - [iFlytek Smart Check](./ai-writing-tools/iflytek-smart-check.md) — 2023-04-12
 - [WordFury](./ai-writing-tools/wordfury.md) — 2023-04-12
+- [Creation King](./ai-writing-tools/creation-king-ai-marketing-writer.md) — 2023-04-07
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
