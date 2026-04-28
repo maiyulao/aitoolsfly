@@ -630,6 +630,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [WPS Kuaiyi](./ai-office-tools/wps-kuaiyi-ai-translator.md) — 2023-04-21
 - [Alibaba Translate](./ai-office-tools/alibaba-translate.md) — 2023-04-21
 - [Airgram](./ai-office-tools/airgram.md) — 2023-04-20
+- [DingTalk AI Assistant](./ai-office-tools/dingtalk-ai-assistant.md) — 2023-04-18
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
