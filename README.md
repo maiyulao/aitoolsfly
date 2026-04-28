@@ -910,6 +910,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Jenni AI](./ai-writing-tools/jenni-ai-writing-assistant.md) — 2023-05-12
 - [Cohesive](./ai-writing-tools/cohesive-ai-writing-assistant.md) — 2023-05-08
 - [Youdao Write](./ai-writing-tools/youdao-write.md) — 2023-05-03
+- [MoZuan AI Writing](./ai-writing-tools/mozuan-ai-writing.md) — 2023-04-28
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
