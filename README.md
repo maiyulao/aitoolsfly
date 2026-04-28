@@ -656,6 +656,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Boxy](./ai-programming-tools/boxy-codesandbox-ai.md) — 2023-05-27
 - [Imgcook](./ai-programming-tools/imgcook-design-to-code.md) — 2023-05-14
 - [JamGPT](./ai-programming-tools/jamgpt-ai-debug-assistant.md) — 2023-05-08
+- [Hocoos](./ai-programming-tools/hocoos-ai-website-builder.md) — 2023-05-05
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
