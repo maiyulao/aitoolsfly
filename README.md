@@ -680,6 +680,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Hocoos](./ai-programming-tools/hocoos-ai-website-builder.md) — 2023-05-05
 - [Deco](./ai-programming-tools/deco-jd-design-to-code.md) — 2023-04-30
 - [aiXcoder](./ai-programming-tools/aixcoder.md) — 2023-04-26
+- [Blackbox AI](./ai-programming-tools/blackbox-ai.md) — 2023-04-24
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
