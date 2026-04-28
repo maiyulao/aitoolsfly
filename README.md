@@ -543,6 +543,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [DeepSpeed](./ai-models/deepspeed.md) — 2023-04-12
 - [ModelScope](./ai-models/modelscope.md) — 2023-04-11
 - [Segment Anything (SAM)](./ai-models/segment-anything-sam.md) — 2023-04-08
+- [OpenBMB](./ai-models/openbmb.md) — 2023-04-01
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
