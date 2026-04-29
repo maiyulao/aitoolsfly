@@ -1067,4 +1067,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [AI Daxue](./websites-to-learn-ai/ai-daxue.md) — 2023-04-10
 - [ShowMeAI Knowledge Community](./websites-to-learn-ai/showmeai-knowledge-community.md) — 2023-04-10
 - [fast.ai](./websites-to-learn-ai/fast-ai.md) — 2023-04-08
+- [Alibaba Cloud AI Learning Path](./websites-to-learn-ai/alibaba-cloud-ai-learning-path.md) — 2023-03-29
 <!-- LE_AUTOPOST_INDEX_END -->
