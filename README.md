@@ -586,6 +586,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Wenxin Large Model](./ai-models/wenxin-large-model.md) — 2023-03-29
 - [Runway Gen-2](./ai-models/runway-gen-2.md) — 2023-03-29
 - [Evidently AI](./ai-models/evidently-ai.md) — 2023-03-22
+- [Scale AI](./ai-models/scale-ai.md) — 2023-03-13
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
