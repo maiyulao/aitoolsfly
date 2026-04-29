@@ -807,6 +807,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Generrated](./ai-prompt-tools/generrated-ai-prompt-library.md) — 2023-04-05
 - [PublicPrompts](./ai-prompt-tools/publicprompts.md) — 2023-03-22
 - [OpenArt Stable Diffusion Prompt Book](./ai-prompt-tools/openart-stable-diffusion-prompt-book.md) — 2023-03-22
+- [PromptFolder](./ai-prompt-tools/promptfolder.md) — 2023-03-22
 
 ### Ai Search Engines
 - [Pagentia](./ai-search-engines/pagentia-ai-patent-platform.md) — 2025-08-28
