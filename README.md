@@ -268,6 +268,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Magic Design](./ai-design-tools/magic-design.md) — 2023-03-29
 - [JiShi AI](./ai-design-tools/jishi-ai.md) — 2023-03-29
 - [Microsoft Designer](./ai-design-tools/microsoft-designer.md) — 2023-03-27
+- [Luma AI](./ai-design-tools/luma-ai.md) — 2023-03-26
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
