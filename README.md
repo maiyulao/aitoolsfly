@@ -565,6 +565,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Cleanup.pictures](./ai-image-tools/cleanup-pictures.md) — 2023-03-20
 - [Cutout.Pro Photo Colorizer](./ai-image-tools/cutout-pro-photo-colorizer.md) — 2023-03-11
 - [Cutout.Pro Retouch](./ai-image-tools/cutout-pro-retouch.md) — 2023-03-11
+- [Relight by ClipDrop](./ai-image-tools/relight-clipdrop.md) — 2023-03-11
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
