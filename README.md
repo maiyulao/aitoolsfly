@@ -442,6 +442,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Waifu Labs](./ai-image-generators/waifu-labs.md) — 2023-03-21
 - [Niji・journey](./ai-image-generators/niji-journey.md) — 2023-03-21
 - [DreamUp](./ai-image-generators/dreamup-deviantart.md) — 2023-03-20
+- [Artbreeder](./ai-image-generators/artbreeder.md) — 2023-03-20
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
