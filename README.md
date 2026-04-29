@@ -184,6 +184,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Google Gemini](./ai-chatbots/google-gemini.md) — 2023-03-22
 - [ERNIE Bot](./ai-chatbots/ernie-bot.md) — 2023-03-20
 - [Claude](./ai-chatbots/claude-ai.md) — 2023-03-12
+- [Poe](./ai-chatbots/poe-ai-chatbot-aggregator.md) — 2023-03-12
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
