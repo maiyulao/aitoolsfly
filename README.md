@@ -1113,6 +1113,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [QuillBot](./ai-writing-tools/quillbot-ai-writing-paraphraser.md) — 2023-03-15
 - [AiGaiXie](./ai-writing-tools/aigaixie-ai-rewriting-tool.md) — 2023-03-15
 - [Typeface AI](./ai-writing-tools/typeface-ai.md) — 2023-03-14
+- [HyperWrite](./ai-writing-tools/hyperwrite-ai-writing-assistant.md) — 2023-03-14
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
