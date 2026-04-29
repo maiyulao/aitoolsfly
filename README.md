@@ -813,6 +813,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [AI Prompt Genius](./ai-prompt-tools/ai-prompt-genius.md) — 2023-03-22
 - [Moxby AI Prompt Library](./ai-prompt-tools/moxby-ai-prompt-library.md) — 2023-03-22
 - [Awesome ChatGPT Prompts](./ai-prompt-tools/awesome-chatgpt-prompts.md) — 2023-03-22
+- [Learning Prompt](./ai-prompt-tools/learning-prompt.md) — 2023-03-22
 
 ### Ai Search Engines
 - [Pagentia](./ai-search-engines/pagentia-ai-patent-platform.md) — 2025-08-28
