@@ -715,6 +715,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Auxi – AI-Powered PowerPoint Plugin](./ai-presentation-tools/auxi-ai-powerpoint-plugin.md) — 2023-04-03
 - [SlidesAI](./ai-presentation-tools/slidesai.md) — 2023-04-03
 - [Chronicle](./ai-presentation-tools/chronicle-ai-presentation-tool.md) — 2023-04-01
+- [Decktopus AI](./ai-presentation-tools/decktopus-ai.md) — 2023-03-22
 
 ### Ai Productivity Tools
 - [XiaoYi AI](./ai-productivity-tools/xiaoyi-ai.md) — 2024-10-22
