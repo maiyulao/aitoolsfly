@@ -182,6 +182,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [SenseChat](./ai-chatbots/sensechat.md) — 2023-04-12
 - [ColossalChat](./ai-chatbots/colossalchat.md) — 2023-04-03
 - [Google Gemini](./ai-chatbots/google-gemini.md) — 2023-03-22
+- [ERNIE Bot](./ai-chatbots/ernie-bot.md) — 2023-03-20
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
