@@ -711,6 +711,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [iFlyrec Meeting](./ai-office-tools/iflyrec-meeting.md) — 2023-03-21
 - [Otter.ai](./ai-office-tools/otter-ai.md) — 2023-03-21
 - [Fireflies.ai](./ai-office-tools/fireflies-ai.md) — 2023-03-21
+- [Taskade](./ai-office-tools/taskade-ai-productivity-workspace.md) — 2023-03-21
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
