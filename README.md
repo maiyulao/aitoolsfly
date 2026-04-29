@@ -962,6 +962,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Baidu Dujia AI](./ai-video-tools/baidu-dujia-ai.md) — 2023-05-31
 - [Miao Chuang](./ai-video-tools/miao-chuang-ai-video-generator.md) — 2023-04-23
 - [Virbo](./ai-video-tools/virbo-ai-video-marketing-tool.md) — 2023-04-04
+- [D-ID](./ai-video-tools/d-id-ai-video-generator.md) — 2023-03-28
 
 ### Ai Writing Tools
 - [Danqing Miaobi](./ai-writing-tools/danqing-miaobi.md) — 2026-04-16
