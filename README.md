@@ -1166,4 +1166,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Udacity School of AI](./websites-to-learn-ai/udacity-school-of-ai.md) — 2023-03-29
 - [Machine Learning Mastery](./websites-to-learn-ai/machine-learning-mastery.md) — 2023-03-12
 - [Brilliant: Introduction to Neural Networks](./websites-to-learn-ai/brilliant-introduction-to-neural-networks.md) — 2023-03-12
+- [Dive into Deep Learning (D2L)](./websites-to-learn-ai/dive-into-deep-learning.md) — 2023-03-12
 <!-- LE_AUTOPOST_INDEX_END -->
