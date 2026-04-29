@@ -206,6 +206,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [CheckforAi](./ai-content-detection-and-optimization-tools/checkforai.md) — 2023-03-15
 - [StudyCorgi ChatGPT Detector](./ai-content-detection-and-optimization-tools/studycorgi-chatgpt-detector.md) — 2023-03-12
 - [AISEO AI Content Detector](./ai-content-detection-and-optimization-tools/aiseo-ai-content-detector.md) — 2023-03-12
+- [Writecream AI Content Detector](./ai-content-detection-and-optimization-tools/writecream-ai-content-detector.md) — 2023-03-12
 
 ### Ai Design Tools
 - [Miora](./ai-design-tools/miora-ai-design-collaboration.md) — 2026-03-30
