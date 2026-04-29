@@ -448,6 +448,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Lexica](./ai-image-generators/lexica-ai-art-generator.md) — 2023-03-20
 - [NightCafe](./ai-image-generators/nightcafe-ai-art-generator.md) — 2023-03-20
 - [Dreamlike Art](./ai-image-generators/dreamlike-art.md) — 2023-03-20
+- [Wenxin Yige](./ai-image-generators/wenxin-yige.md) — 2023-03-15
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
