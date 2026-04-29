@@ -1164,4 +1164,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [fast.ai](./websites-to-learn-ai/fast-ai.md) — 2023-04-08
 - [Alibaba Cloud AI Learning Path](./websites-to-learn-ai/alibaba-cloud-ai-learning-path.md) — 2023-03-29
 - [Udacity School of AI](./websites-to-learn-ai/udacity-school-of-ai.md) — 2023-03-29
+- [Machine Learning Mastery](./websites-to-learn-ai/machine-learning-mastery.md) — 2023-03-12
 <!-- LE_AUTOPOST_INDEX_END -->
