@@ -304,6 +304,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Evernote AI](./ai-document-tools/evernote-ai.md) — 2023-04-18
 - [Super AI](./ai-document-tools/super-ai-document-processing.md) — 2023-04-06
 - [ChatDOC](./ai-document-tools/chatdoc-ai-document-analysis.md) — 2023-04-01
+- [PandaGPT](./ai-document-tools/pandagpt.md) — 2023-03-21
 
 ### Ai Frameworks
 - [Meoo](./ai-frameworks/ai-tool-75263.md) — 2026-04-15
