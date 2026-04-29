@@ -826,6 +826,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Qodo](./ai-programming-tools/qodo-ai-programming-tool.md) — 2023-03-22
 - [AirOps](./ai-programming-tools/airops.md) — 2023-03-22
 - [HTTPie AI](./ai-programming-tools/httpie-ai.md) — 2023-03-12
+- [AI Code Reviewer](./ai-programming-tools/ai-code-reviewer.md) — 2023-03-12
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
