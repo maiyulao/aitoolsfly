@@ -445,6 +445,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Artbreeder](./ai-image-generators/artbreeder.md) — 2023-03-20
 - [Scribble Diffusion](./ai-image-generators/scribble-diffusion.md) — 2023-03-20
 - [Lexica](./ai-image-generators/lexica-ai-art-generator.md) — 2023-03-20
+- [NightCafe](./ai-image-generators/nightcafe-ai-art-generator.md) — 2023-03-20
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
