@@ -521,6 +521,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [AI Image Editor](./ai-image-tools/ai-image-editor.md) — 2023-04-10
 - [Facet](./ai-image-tools/facet-ai-photo-editor.md) — 2023-03-27
 - [Ribbet.ai](./ai-image-tools/ribbet-ai.md) — 2023-03-20
+- [Bg Eraser](./ai-image-tools/bg-eraser.md) — 2023-03-20
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
