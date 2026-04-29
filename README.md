@@ -707,6 +707,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Rows](./ai-office-tools/rows-ai-spreadsheet.md) — 2023-04-01
 - [Gamma](./ai-office-tools/gamma-ai-presentation-tool.md) — 2023-03-28
 - [AmyMind](./ai-office-tools/amymind-ai-mind-mapping.md) — 2023-03-27
+- [Feishu Minutes](./ai-office-tools/feishu-minutes.md) — 2023-03-21
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
