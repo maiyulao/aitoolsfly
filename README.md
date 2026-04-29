@@ -217,6 +217,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Smodin AI Content Detector](./ai-content-detection-and-optimization-tools/smodin-ai-content-detector.md) — 2023-03-12
 - [Sapling AI Content Detector](./ai-content-detection-and-optimization-tools/sapling-ai-content-detector.md) — 2023-03-12
 - [GPTZero](./ai-content-detection-and-optimization-tools/gptzero-ai-content-detector.md) — 2023-03-12
+- [Writer AI Content Detector](./ai-content-detection-and-optimization-tools/writer-ai-content-detector.md) — 2023-03-12
 
 ### Ai Design Tools
 - [Miora](./ai-design-tools/miora-ai-design-collaboration.md) — 2026-03-30
