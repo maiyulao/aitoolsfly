@@ -693,6 +693,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Noty.ai](./ai-office-tools/noty-ai.md) — 2023-04-01
 - [Excelly-AI](./ai-office-tools/excelly-ai.md) — 2023-04-01
 - [Rows](./ai-office-tools/rows-ai-spreadsheet.md) — 2023-04-01
+- [Gamma](./ai-office-tools/gamma-ai-presentation-tool.md) — 2023-03-28
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
