@@ -736,6 +736,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Fireflies.ai](./ai-office-tools/fireflies-ai.md) — 2023-03-21
 - [Taskade](./ai-office-tools/taskade-ai-productivity-workspace.md) — 2023-03-21
 - [TinyWow](./ai-office-tools/tinywow.md) — 2023-03-15
+- [Tome](./ai-office-tools/tome-ai-storytelling.md) — 2023-03-12
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
