@@ -810,6 +810,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [PromptFolder](./ai-prompt-tools/promptfolder.md) — 2023-03-22
 - [ClickPrompt](./ai-prompt-tools/clickprompt.md) — 2023-03-22
 - [AIPRM](./ai-prompt-tools/aiprm-prompt-management-tool.md) — 2023-03-22
+- [AI Prompt Genius](./ai-prompt-tools/ai-prompt-genius.md) — 2023-03-22
 
 ### Ai Search Engines
 - [Pagentia](./ai-search-engines/pagentia-ai-patent-platform.md) — 2025-08-28
