@@ -956,6 +956,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [LongShot AI](./ai-tools/longshot-ai.md) — 2023-03-22
 - [DeepBrain AI](./ai-tools/deepbrain-ai.md) — 2023-03-22
 - [Hypotenuse AI](./ai-tools/hypotenuse-ai.md) — 2023-03-15
+- [AISEO](./ai-tools/aiseo-ai-writing-optimization.md) — 2023-03-12
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
