@@ -384,6 +384,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [GoProd](./ai-image-background-removers/goprod-ai-image-upscaler-background-remover.md) — 2023-05-23
 - [Meitu AI Cutout](./ai-image-background-removers/meitu-ai-cutout.md) — 2023-04-26
 - [Tukeli](./ai-image-background-removers/tukeli-ai-background-remover.md) — 2023-04-19
+- [Pixelcut](./ai-image-background-removers/pixelcut-ai-background-remover.md) — 2023-03-20
 
 ### Ai Image Generators
 - [MakeManga](./ai-image-generators/makemanga-ai-comic-generator.md) — 2025-11-25
