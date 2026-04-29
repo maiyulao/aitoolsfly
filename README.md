@@ -710,6 +710,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Feishu Minutes](./ai-office-tools/feishu-minutes.md) — 2023-03-21
 - [iFlyrec Meeting](./ai-office-tools/iflyrec-meeting.md) — 2023-03-21
 - [Otter.ai](./ai-office-tools/otter-ai.md) — 2023-03-21
+- [Fireflies.ai](./ai-office-tools/fireflies-ai.md) — 2023-03-21
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
