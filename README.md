@@ -121,6 +121,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Notta](./ai-audio-tools/notta-ai-transcription.md) — 2023-04-06
 - [NetEase Tianyin](./ai-audio-tools/netease-tianyin.md) — 2023-03-21
 - [MetaVoice](./ai-audio-tools/metavoice.md) — 2023-03-12
+- [Voicemaker](./ai-audio-tools/voicemaker.md) — 2023-03-12
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
