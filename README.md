@@ -1104,6 +1104,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Caiyun Xiaomeng](./ai-writing-tools/caiyun-xiaomeng.md) — 2023-03-26
 - [ContentBot](./ai-writing-tools/contentbot-ai-writing-assistant.md) — 2023-03-22
 - [HeyFriday](./ai-writing-tools/heyfriday-ai-writing-assistant.md) — 2023-03-21
+- [DeepL Write](./ai-writing-tools/deepl-write.md) — 2023-03-15
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
