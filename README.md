@@ -1049,6 +1049,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Creation King](./ai-writing-tools/creation-king-ai-marketing-writer.md) — 2023-04-07
 - [Moonbeam](./ai-writing-tools/moonbeam-ai-writer.md) — 2023-04-07
 - [NovelAI](./ai-writing-tools/novelai.md) — 2023-03-29
+- [Caiyun Xiaomeng](./ai-writing-tools/caiyun-xiaomeng.md) — 2023-03-26
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
