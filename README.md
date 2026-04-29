@@ -777,6 +777,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Decktopus AI](./ai-presentation-tools/decktopus-ai.md) — 2023-03-22
 - [ChatBA](./ai-presentation-tools/chatba-ai-presentation-generator.md) — 2023-03-12
 - [Presentations.AI](./ai-presentation-tools/presentations-ai.md) — 2023-03-12
+- [Beautiful.ai](./ai-presentation-tools/beautiful-ai.md) — 2023-03-12
 
 ### Ai Productivity Tools
 - [XiaoYi AI](./ai-productivity-tools/xiaoyi-ai.md) — 2024-10-22
