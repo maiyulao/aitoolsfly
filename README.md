@@ -549,6 +549,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [WuDao](./ai-models/wudao-ai-model.md) — 2023-03-29
 - [Alibaba M6](./ai-models/alibaba-m6.md) — 2023-03-29
 - [Wenxin Large Model](./ai-models/wenxin-large-model.md) — 2023-03-29
+- [Runway Gen-2](./ai-models/runway-gen-2.md) — 2023-03-29
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
