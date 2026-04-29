@@ -200,6 +200,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Wacuowang](./ai-content-detection-and-optimization-tools/wacuowang-ai-content-proofreading.md) — 2025-04-07
 - [Tuanxiang AI](./ai-content-detection-and-optimization-tools/tuanxiang-ai-content-detection.md) — 2024-08-20
 - [Proofig](./ai-content-detection-and-optimization-tools/proofig-ai-image-integrity-checker.md) — 2024-01-05
+- [CheckforAi](./ai-content-detection-and-optimization-tools/checkforai.md) — 2023-03-15
 
 ### Ai Design Tools
 - [Miora](./ai-design-tools/miora-ai-design-collaboration.md) — 2026-03-30
