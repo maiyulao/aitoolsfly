@@ -900,6 +900,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [ClosersCopy](./ai-tools/closerscopy-ai-copywriting.md) — 2023-03-27
 - [Sudowrite](./ai-tools/sudowrite-ai-story-writing-assistant.md) — 2023-03-27
 - [Lumen5](./ai-tools/lumen5-ai-video-creator.md) — 2023-03-22
+- [LongShot AI](./ai-tools/longshot-ai.md) — 2023-03-22
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
