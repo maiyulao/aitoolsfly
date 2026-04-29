@@ -760,6 +760,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Whimsical AI](./ai-office-tools/whimsical-ai-mind-maps.md) — 2023-03-12
 - [FormX.ai](./ai-office-tools/formx-ai.md) — 2023-03-12
 - [Sheet+](./ai-office-tools/sheet-plus.md) — 2023-03-12
+- [Formula Bot](./ai-office-tools/formula-bot.md) — 2023-03-12
 
 ### Ai Presentation Tools
 - [GAIPPT](./ai-presentation-tools/gaippt-ai-presentation-enhancer.md) — 2024-11-12
