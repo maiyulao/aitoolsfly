@@ -786,6 +786,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Fronty](./ai-programming-tools/fronty-ai-image-to-code.md) — 2023-03-26
 - [Cursor](./ai-programming-tools/cursor-ai-code-editor.md) — 2023-03-25
 - [Replit Ghostwriter](./ai-programming-tools/replit-ghostwriter.md) — 2023-03-23
+- [Codiga](./ai-programming-tools/codiga-ai-code-analysis.md) — 2023-03-22
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
