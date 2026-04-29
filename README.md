@@ -1116,6 +1116,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Mita DrawDraw](./best-ai-image-tools/mita-drawdraw.md) — 2023-04-14
 - [PhotoSir AI Image Editor](./best-ai-image-tools/photosir-ai-image-editor.md) — 2023-04-10
 - [Tencent ARC AI Demos](./best-ai-image-tools/tencent-arc-ai-demos.md) — 2023-03-20
+- [Booltool](./best-ai-image-tools/booltool-ai-image-toolbox.md) — 2023-03-20
 
 ### Websites To Learn Ai
 - [Duiyou AI Design Academy](./websites-to-learn-ai/duiyou-ai-design-academy.md) — 2025-07-31
