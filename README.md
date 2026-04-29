@@ -408,6 +408,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Tukeli](./ai-image-background-removers/tukeli-ai-background-remover.md) — 2023-04-19
 - [Pixelcut](./ai-image-background-removers/pixelcut-ai-background-remover.md) — 2023-03-20
 - [Adobe Express Background Remover](./ai-image-background-removers/adobe-express-background-remover.md) — 2023-03-11
+- [Picsart Quicktools Background Remover](./ai-image-background-removers/picsart-quicktools-background-remover.md) — 2023-03-11
 
 ### Ai Image Generators
 - [MakeManga](./ai-image-generators/makemanga-ai-comic-generator.md) — 2025-11-25
