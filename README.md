@@ -434,6 +434,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Prodia](./ai-image-generators/prodia-ai-image-generator.md) — 2023-03-23
 - [Astria](./ai-image-generators/astria-ai-image-generator.md) — 2023-03-23
 - [Zcool DreamPen](./ai-image-generators/zcool-dreampen.md) — 2023-03-22
+- [Adobe Firefly](./ai-image-generators/adobe-firefly.md) — 2023-03-21
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
