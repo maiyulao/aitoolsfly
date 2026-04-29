@@ -427,6 +427,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [AIGC by Wondershare](./ai-image-generators/aigc-by-wondershare.md) — 2023-04-04
 - [FlagStudio](./ai-image-generators/flagstudio.md) — 2023-03-29
 - [Deep Dream Generator](./ai-image-generators/deep-dream-generator.md) — 2023-03-28
+- [Bing Image Creator](./ai-image-generators/bing-image-creator.md) — 2023-03-26
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
