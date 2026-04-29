@@ -791,6 +791,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Replit Ghostwriter](./ai-programming-tools/replit-ghostwriter.md) — 2023-03-23
 - [Codiga](./ai-programming-tools/codiga-ai-code-analysis.md) — 2023-03-22
 - [Qodo](./ai-programming-tools/qodo-ai-programming-tool.md) — 2023-03-22
+- [AirOps](./ai-programming-tools/airops.md) — 2023-03-22
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
