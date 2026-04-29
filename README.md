@@ -777,6 +777,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [AskCodi](./ai-programming-tools/askcodi.md) — 2023-03-27
 - [Sketch2Code](./ai-programming-tools/sketch2code.md) — 2023-03-26
 - [Locofy](./ai-programming-tools/locofy-ai-design-to-code.md) — 2023-03-26
+- [Fronty](./ai-programming-tools/fronty-ai-image-to-code.md) — 2023-03-26
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
