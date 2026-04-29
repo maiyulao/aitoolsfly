@@ -429,6 +429,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Deep Dream Generator](./ai-image-generators/deep-dream-generator.md) — 2023-03-28
 - [Bing Image Creator](./ai-image-generators/bing-image-creator.md) — 2023-03-26
 - [BlueWillow](./ai-image-generators/bluewillow-ai-image-generator.md) — 2023-03-25
+- [Prodia](./ai-image-generators/prodia-ai-image-generator.md) — 2023-03-23
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
