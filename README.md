@@ -549,6 +549,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Stockimg AI](./ai-image-generators/stockimg-ai.md) — 2023-03-09
 - [Stable Diffusion](./ai-image-generators/stable-diffusion.md) — 2023-03-04
 - [Canva AI Image Generator](./ai-image-generators/canva-ai-image-generator.md) — 2023-03-03
+- [Fotor AI Image Generator](./ai-image-generators/fotor-ai-image-generator.md) — 2023-03-03
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
