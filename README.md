@@ -131,6 +131,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [NaturalReader](./ai-audio-tools/naturalreader.md) — 2023-03-10
 - [Play.ht](./ai-audio-tools/play-ht.md) — 2023-03-10
 - [Murf AI](./ai-audio-tools/murf-ai.md) — 2023-03-10
+- [Typecast](./ai-audio-tools/typecast-ai-text-to-speech.md) — 2023-03-10
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
