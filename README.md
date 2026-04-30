@@ -127,6 +127,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Voicemod](./ai-audio-tools/voicemod-ai-voice-changer.md) — 2023-03-12
 - [WellSaid Labs](./ai-audio-tools/wellsaid-labs.md) — 2023-03-12
 - [Mubert](./ai-audio-tools/mubert-ai-music-generator.md) — 2023-03-12
+- [FakeYou](./ai-audio-tools/fakeyou-ai-voice-generator.md) — 2023-03-10
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
