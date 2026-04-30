@@ -1188,6 +1188,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Tencent ARC AI Demos](./best-ai-image-tools/tencent-arc-ai-demos.md) — 2023-03-20
 - [Booltool](./best-ai-image-tools/booltool-ai-image-toolbox.md) — 2023-03-20
 - [Cutout.Pro](./best-ai-image-tools/cutout-pro-305.md) — 2023-03-11
+- [Magic Studio](./best-ai-image-tools/magic-studio-ai-image-editor.md) — 2023-03-11
 
 ### Websites To Learn Ai
 - [Duiyou AI Design Academy](./websites-to-learn-ai/duiyou-ai-design-academy.md) — 2025-07-31
