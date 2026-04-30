@@ -433,6 +433,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Caffe](./ai-frameworks/caffe-deep-learning-framework.md) — 2023-03-03
 - [PaddlePaddle](./ai-frameworks/paddlepaddle.md) — 2023-03-03
 - [Apache MXNet](./ai-frameworks/apache-mxnet.md) — 2023-03-03
+- [PyTorch](./ai-frameworks/pytorch.md) — 2023-03-03
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
