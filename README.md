@@ -310,6 +310,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Eva Design System](./ai-design-tools/eva-design-system.md) — 2023-03-09
 - [Brandmark Color Wheel](./ai-design-tools/brandmark-color-wheel.md) — 2023-03-09
 - [Huemint](./ai-design-tools/huemint-ai-color-palette-generator.md) — 2023-03-09
+- [ColorMagic](./ai-design-tools/colormagic-ai-palette-generator.md) — 2023-03-09
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
