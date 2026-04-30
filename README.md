@@ -1044,6 +1044,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [ProWritingAid](./ai-tools/prowritingaid.md) — 2023-03-10
 - [WordTune](./ai-tools/wordtune.md) — 2023-03-10
 - [NeuralText](./ai-tools/neuraltext-ai-seo-writer.md) — 2023-03-10
+- [SurferSEO](./ai-tools/surferseo.md) — 2023-03-10
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
