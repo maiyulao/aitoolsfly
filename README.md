@@ -603,6 +603,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Nero AI Image Upscaler](./ai-image-tools/nero-ai-image-upscaler.md) — 2023-03-10
 - [VanceAI Image Resizer](./ai-image-tools/vanceai-image-resizer.md) — 2023-03-10
 - [PhotoAid Image Upscaler](./ai-image-tools/photoaid-image-upscaler.md) — 2023-03-10
+- [BigJPG](./ai-image-tools/bigjpg-ai-image-upscaler.md) — 2023-03-10
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
