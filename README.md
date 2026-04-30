@@ -1024,6 +1024,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Hour One](./ai-tools/hour-one-ai-video-generator.md) — 2023-03-10
 - [Colossyan](./ai-tools/colossyan-ai-video-generator.md) — 2023-03-10
 - [Elai.io](./ai-tools/elai-io-ai-video-generator.md) — 2023-03-10
+- [Pictory](./ai-tools/pictory-ai-video-creation.md) — 2023-03-10
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
