@@ -1014,6 +1014,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Texta](./ai-tools/texta-ai-writing-assistant.md) — 2023-03-10
 - [Fliki](./ai-tools/fliki-ai-text-to-video.md) — 2023-03-10
 - [BgRem](./ai-tools/bgrem-ai-video-background-remover.md) — 2023-03-10
+- [AVCLabs](./ai-tools/avclabs-ai-video-editor.md) — 2023-03-10
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
