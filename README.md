@@ -949,6 +949,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Fig](./ai-programming-tools/fig-ai-terminal.md) — 2023-03-04
 - [CodeSnippets AI](./ai-programming-tools/codesnippets-ai.md) — 2023-03-04
 - [Visual Studio IntelliCode](./ai-programming-tools/visual-studio-intellicode.md) — 2023-03-04
+- [Tabnine](./ai-programming-tools/tabnine.md) — 2023-03-04
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
