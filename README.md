@@ -609,6 +609,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [VanceAI Image Resizer](./ai-image-tools/vanceai-image-resizer.md) — 2023-03-10
 - [PhotoAid Image Upscaler](./ai-image-tools/photoaid-image-upscaler.md) — 2023-03-10
 - [BigJPG](./ai-image-tools/bigjpg-ai-image-upscaler.md) — 2023-03-10
+- [Pebblely](./ai-image-tools/pebblely-ai-product-photography.md) — 2023-03-09
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
