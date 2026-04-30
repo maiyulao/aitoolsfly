@@ -130,6 +130,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [FakeYou](./ai-audio-tools/fakeyou-ai-voice-generator.md) — 2023-03-10
 - [NaturalReader](./ai-audio-tools/naturalreader.md) — 2023-03-10
 - [Play.ht](./ai-audio-tools/play-ht.md) — 2023-03-10
+- [Murf AI](./ai-audio-tools/murf-ai.md) — 2023-03-10
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
