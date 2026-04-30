@@ -301,6 +301,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Luma AI](./ai-design-tools/luma-ai.md) — 2023-03-26
 - [Poly](./ai-design-tools/poly-ai-3d-texture-generator.md) — 2023-03-21
 - [Looka](./ai-design-tools/looka-ai-logo-maker.md) — 2023-03-15
+- [Designs.ai](./ai-design-tools/designs-ai.md) — 2023-03-10
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
