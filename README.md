@@ -430,6 +430,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [DeepLearning4J](./ai-frameworks/deeplearning4j.md) — 2023-04-05
 - [NumPy](./ai-frameworks/numpy.md) — 2023-03-22
 - [Keras](./ai-frameworks/keras.md) — 2023-03-12
+- [Caffe](./ai-frameworks/caffe-deep-learning-framework.md) — 2023-03-03
 
 ### Ai Image Background Removers
 - [KouKouTu](./ai-image-background-removers/koukoutu-ai-background-remover.md) — 2026-01-12
