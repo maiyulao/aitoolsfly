@@ -1086,6 +1086,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [TextCortex](./ai-tools/textcortex.md) — 2023-03-09
 - [Jounce](./ai-tools/jounce-ai-writing-assistant.md) — 2023-03-09
 - [Rephrase.ai](./ai-tools/rephrase-ai.md) — 2023-03-06
+- [Reword](./ai-tools/reword-ai-writing-assistant.md) — 2023-03-05
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
