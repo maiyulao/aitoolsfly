@@ -143,6 +143,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [LALAL.AI](./ai-audio-tools/lalal-ai.md) — 2023-03-04
 - [Lemonaid](./ai-audio-tools/lemonaid-ai-music-generator.md) — 2023-03-04
 - [Boomy](./ai-audio-tools/boomy-ai-music-generator.md) — 2023-03-04
+- [Soundraw](./ai-audio-tools/soundraw.md) — 2023-03-04
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
