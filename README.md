@@ -600,6 +600,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Zyro AI Image Upscaler](./ai-image-tools/zyro-ai-image-upscaler.md) — 2023-03-10
 - [Upscale.media](./ai-image-tools/upscale-media.md) — 2023-03-10
 - [Pixelhunter](./ai-image-tools/pixelhunter.md) — 2023-03-10
+- [Nero AI Image Upscaler](./ai-image-tools/nero-ai-image-upscaler.md) — 2023-03-10
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
