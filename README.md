@@ -713,6 +713,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Replicate](./ai-models/replicate.md) — 2023-03-09
 - [Imagen](./ai-models/imagen-google-ai.md) — 2023-03-03
 - [LLaMA](./ai-models/llama-meta-ai.md) — 2023-03-03
+- [OpenAI Codex](./ai-models/openai-codex.md) — 2023-03-03
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
