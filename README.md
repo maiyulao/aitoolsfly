@@ -675,6 +675,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Evidently AI](./ai-models/evidently-ai.md) — 2023-03-22
 - [Scale AI](./ai-models/scale-ai.md) — 2023-03-13
 - [Lobe](./ai-models/lobe-ai-machine-learning.md) — 2023-03-12
+- [Replicate](./ai-models/replicate.md) — 2023-03-09
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
