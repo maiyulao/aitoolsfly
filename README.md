@@ -594,6 +594,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Upscalepics](./ai-image-tools/upscalepics-ai-image-upscaler.md) — 2023-03-10
 - [Media.io AI Image Upscaler](./ai-image-tools/media-io-ai-image-upscaler.md) — 2023-03-10
 - [ClipDrop Image Upscaler](./ai-image-tools/clipdrop-image-upscaler.md) — 2023-03-10
+- [Img.Upscaler](./ai-image-tools/img-upscaler.md) — 2023-03-10
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
