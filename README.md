@@ -134,6 +134,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Typecast](./ai-audio-tools/typecast-ai-text-to-speech.md) — 2023-03-10
 - [VEED AI Voice Generator](./ai-audio-tools/veed-ai-voice-generator.md) — 2023-03-10
 - [Speechify](./ai-audio-tools/speechify-text-to-speech.md) — 2023-03-10
+- [Clipchamp AI Voice Over Generator](./ai-audio-tools/clipchamp-ai-voice-over-generator.md) — 2023-03-10
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
