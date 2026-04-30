@@ -717,6 +717,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Hugging Face](./ai-models/hugging-face.md) — 2023-03-03
 - [BLOOM](./ai-models/bloom-huggingface.md) — 2023-03-03
 - [DALL·E 3](./ai-models/dall-e-3.md) — 2023-03-03
+- [GPT-4](./ai-models/gpt-4.md) — 2023-03-03
 
 ### Ai Office Tools
 - [AiPPT Plugin](./ai-office-tools/aippt-plugin.md) — 2026-04-14
