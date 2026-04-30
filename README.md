@@ -484,6 +484,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Wenxin Yige](./ai-image-generators/wenxin-yige.md) — 2023-03-15
 - [Craiyon](./ai-image-generators/craiyon-ai-image-generator.md) — 2023-03-15
 - [Picsart AI](./ai-image-generators/picsart-ai.md) — 2023-03-13
+- [Imagine by Magic Studio](./ai-image-generators/imagine-by-magic-studio.md) — 2023-03-11
 
 ### Ai Image Tools
 - [Miguo AI](./ai-image-tools/miguo-ai.md) — 2026-04-08
