@@ -633,6 +633,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Pebblely](./ai-image-tools/pebblely-ai-product-photography.md) — 2023-03-09
 - [Mokker AI](./ai-image-tools/mokker-ai.md) — 2023-03-09
 - [restorePhotos.io](./ai-image-tools/restorephotos-ai-photo-restoration.md) — 2023-03-09
+- [Playground AI](./ai-image-tools/playground-ai.md) — 2023-03-05
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
