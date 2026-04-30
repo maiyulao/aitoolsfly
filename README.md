@@ -321,6 +321,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Logomaster.ai](./ai-design-tools/logomaster-ai.md) — 2023-03-09
 - [Galileo AI](./ai-design-tools/galileo-ai.md) — 2023-03-09
 - [Magician](./ai-design-tools/magician-figma-ai.md) — 2023-03-09
+- [Uizard](./ai-design-tools/uizard-ai-ui-design.md) — 2023-03-04
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
