@@ -1071,6 +1071,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Content at Scale](./ai-tools/content-at-scale.md) — 2023-03-09
 - [Writer](./ai-tools/writer-ai-enterprise-content-platform.md) — 2023-03-09
 - [Colourlab.ai](./ai-tools/colourlab-ai.md) — 2023-03-09
+- [TextCortex](./ai-tools/textcortex.md) — 2023-03-09
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
