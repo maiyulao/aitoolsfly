@@ -1001,6 +1001,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [AISEO](./ai-tools/aiseo-ai-writing-optimization.md) — 2023-03-12
 - [Synthesys](./ai-tools/synthesys-ai-video-generator.md) — 2023-03-12
 - [DreamFace](./ai-tools/dreamface-ai-video-generator.md) — 2023-03-12
+- [Texta](./ai-tools/texta-ai-writing-assistant.md) — 2023-03-10
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
