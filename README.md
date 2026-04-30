@@ -429,6 +429,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [PicWish](./ai-image-background-removers/picwish.md) — 2023-03-11
 - [Magic Studio Background Eraser](./ai-image-background-removers/magic-studio-background-eraser.md) — 2023-03-11
 - [BgSub](./ai-image-background-removers/bgsub-ai-background-remover.md) — 2023-03-10
+- [Yijian Koutu](./ai-image-background-removers/yijian-koutu.md) — 2023-03-10
 
 ### Ai Image Generators
 - [MakeManga](./ai-image-generators/makemanga-ai-comic-generator.md) — 2025-11-25
