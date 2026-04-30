@@ -417,6 +417,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Zyro AI Background Remover](./ai-image-background-removers/zyro-ai-background-remover.md) — 2023-03-11
 - [Erase.bg](./ai-image-background-removers/erase-bg.md) — 2023-03-11
 - [PhotoScissors](./ai-image-background-removers/photoscissors.md) — 2023-03-11
+- [PicWish](./ai-image-background-removers/picwish.md) — 2023-03-11
 
 ### Ai Image Generators
 - [MakeManga](./ai-image-generators/makemanga-ai-comic-generator.md) — 2025-11-25
