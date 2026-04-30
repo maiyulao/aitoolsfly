@@ -307,6 +307,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [illostrationAI](./ai-design-tools/illostration-ai.md) — 2023-03-09
 - [Illustroke](./ai-design-tools/illustroke-ai-svg-generator.md) — 2023-03-09
 - [Eva Design System](./ai-design-tools/eva-design-system.md) — 2023-03-09
+- [Brandmark Color Wheel](./ai-design-tools/brandmark-color-wheel.md) — 2023-03-09
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
