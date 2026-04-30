@@ -138,6 +138,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [iFlytek AI Voice](./ai-audio-tools/iflytek-ai-voice.md) — 2023-03-10
 - [Resemble AI](./ai-audio-tools/resemble-ai.md) — 2023-03-04
 - [IBM Watson Text to Speech](./ai-audio-tools/ibm-watson-text-to-speech.md) — 2023-03-04
+- [AssemblyAI](./ai-audio-tools/assemblyai.md) — 2023-03-04
 
 ### Ai Chatbots
 - [Ling-1T](./ai-chatbots/ling-1t-ai-chatbot.md) — 2025-10-14
