@@ -1111,6 +1111,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Rephrase.ai](./ai-tools/rephrase-ai.md) — 2023-03-06
 - [Reword](./ai-tools/reword-ai-writing-assistant.md) — 2023-03-05
 - [Synthesia](./ai-tools/synthesia-ai-video-generator.md) — 2023-03-04
+- [Copysmith](./ai-tools/copysmith-ai-copywriting.md) — 2023-03-03
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
