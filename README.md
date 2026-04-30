@@ -202,6 +202,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Claude](./ai-chatbots/claude-ai.md) — 2023-03-12
 - [Poe](./ai-chatbots/poe-ai-chatbot-aggregator.md) — 2023-03-12
 - [Microsoft Bing AI](./ai-chatbots/microsoft-bing-ai.md) — 2023-03-12
+- [Whispr](./ai-chatbots/whispr-ai-chatbot.md) — 2023-03-09
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
