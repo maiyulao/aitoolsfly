@@ -328,6 +328,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Uizard](./ai-design-tools/uizard-ai-ui-design.md) — 2023-03-04
 - [Appicons AI](./ai-design-tools/appicons-ai.md) — 2023-03-04
 - [IconifyAI](./ai-design-tools/iconifyai.md) — 2023-03-04
+- [Khroma](./ai-design-tools/khroma-ai-color-palette-generator.md) — 2023-03-04
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
