@@ -461,6 +461,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [ClipDrop Remove Background](./ai-image-background-removers/clipdrop-remove-background.md) — 2023-03-10
 - [Booth.ai](./ai-image-background-removers/booth-ai.md) — 2023-03-09
 - [Stylized AI](./ai-image-background-removers/stylized-ai.md) — 2023-03-09
+- [Icons8 Background Remover](./ai-image-background-removers/icons8-background-remover.md) — 2023-03-04
 
 ### Ai Image Generators
 - [MakeManga](./ai-image-generators/makemanga-ai-comic-generator.md) — 2025-11-25
