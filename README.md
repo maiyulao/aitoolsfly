@@ -571,6 +571,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Cutout.Pro Retouch](./ai-image-tools/cutout-pro-retouch.md) — 2023-03-11
 - [Relight by ClipDrop](./ai-image-tools/relight-clipdrop.md) — 2023-03-11
 - [Magic Studio Image Enlarger](./ai-image-tools/magic-studio-image-enlarger.md) — 2023-03-11
+- [Magic Eraser](./ai-image-tools/magic-eraser.md) — 2023-03-11
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
