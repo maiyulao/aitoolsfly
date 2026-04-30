@@ -1016,6 +1016,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [BgRem](./ai-tools/bgrem-ai-video-background-remover.md) — 2023-03-10
 - [AVCLabs](./ai-tools/avclabs-ai-video-editor.md) — 2023-03-10
 - [Cutout.pro](./ai-tools/cutout-pro.md) — 2023-03-10
+- [VEED Video Background Remover](./ai-tools/veed-video-background-remover.md) — 2023-03-10
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
