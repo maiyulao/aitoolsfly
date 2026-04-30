@@ -644,6 +644,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Mokker AI](./ai-image-tools/mokker-ai.md) — 2023-03-09
 - [restorePhotos.io](./ai-image-tools/restorephotos-ai-photo-restoration.md) — 2023-03-09
 - [Playground AI](./ai-image-tools/playground-ai.md) — 2023-03-05
+- [Palette.fm](./ai-image-tools/palette-fm.md) — 2023-03-04
 
 ### Ai Model Benchmarks
 - [MagicArena](./ai-model-benchmarks/magicarena.md) — 2025-11-03
