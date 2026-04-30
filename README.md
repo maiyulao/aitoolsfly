@@ -946,6 +946,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [MarsX](./ai-programming-tools/marsx-ai-nocode-development.md) — 2023-03-09
 - [Warp](./ai-programming-tools/warp-terminal.md) — 2023-03-04
 - [HeyCLI](./ai-programming-tools/heycli-natural-language-to-cli.md) — 2023-03-04
+- [Fig](./ai-programming-tools/fig-ai-terminal.md) — 2023-03-04
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
