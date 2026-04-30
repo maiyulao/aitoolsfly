@@ -1048,6 +1048,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Frase](./ai-tools/frase-ai-seo-content-optimization.md) — 2023-03-10
 - [Yaara](./ai-tools/yaara-ai-writing-assistant.md) — 2023-03-10
 - [Copymatic](./ai-tools/copymatic.md) — 2023-03-10
+- [Anyword](./ai-tools/anyword-ai-copywriting.md) — 2023-03-09
 
 ### Ai Video Tools
 - [TagoMovie](./ai-video-tools/tagomovie-ai-video-creator.md) — 2026-04-17
