@@ -944,6 +944,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [HTTPie AI](./ai-programming-tools/httpie-ai.md) — 2023-03-12
 - [AI Code Reviewer](./ai-programming-tools/ai-code-reviewer.md) — 2023-03-12
 - [MarsX](./ai-programming-tools/marsx-ai-nocode-development.md) — 2023-03-09
+- [Warp](./ai-programming-tools/warp-terminal.md) — 2023-03-04
 
 ### Ai Prompt Tools
 - [LocalBanana](./ai-prompt-tools/localbanana.md) — 2025-12-23
