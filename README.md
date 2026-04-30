@@ -304,6 +304,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Looka](./ai-design-tools/looka-ai-logo-maker.md) — 2023-03-15
 - [Designs.ai](./ai-design-tools/designs-ai.md) — 2023-03-10
 - [illostrationAI](./ai-design-tools/illostration-ai.md) — 2023-03-09
+- [Illustroke](./ai-design-tools/illustroke-ai-svg-generator.md) — 2023-03-09
 
 ### Ai Document Tools
 - [Lantay](./ai-document-tools/ai-tool-75337.md) — 2026-04-15
