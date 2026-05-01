@@ -1364,4 +1364,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Coursera](./websites-to-learn-ai/coursera.md) — 2023-03-03
 - [Kaggle](./websites-to-learn-ai/kaggle.md) — 2023-03-03
 - [Google AI](./websites-to-learn-ai/google-ai.md) — 2023-03-03
+- [Elements of AI](./websites-to-learn-ai/elements-of-ai.md) — 2023-03-03
 <!-- LE_AUTOPOST_INDEX_END -->
