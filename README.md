@@ -1317,6 +1317,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Writesonic](./ai-writing-tools/writesonic.md) — 2023-03-03
 - [Copy.ai](./ai-writing-tools/copy-ai.md) — 2023-03-03
 - [Jasper](./ai-writing-tools/jasper-ai-writing-assistant.md) — 2023-03-03
+- [Metacat AI](./ai-writing-tools/metacat-ai.md) — 2023-03-03
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
