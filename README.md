@@ -217,6 +217,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [ChatSonic](./ai-chatbots/chatsonic-ai-chatbot.md) — 2023-03-06
 - [Replika](./ai-chatbots/replika-ai-companion.md) — 2023-03-06
 - [Character.AI](./ai-chatbots/character-ai.md) — 2023-03-06
+- [ChatGPT](./ai-chatbots/chatgpt.md) — 2023-03-03
 
 ### Ai Content Detection And Optimization Tools
 - [XYZ Science](./ai-content-detection-and-optimization-tools/xyz-science-ai-detection-optimization.md) — 2026-03-16
