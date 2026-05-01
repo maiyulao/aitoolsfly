@@ -1361,4 +1361,5 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Brilliant: Introduction to Neural Networks](./websites-to-learn-ai/brilliant-introduction-to-neural-networks.md) — 2023-03-12
 - [Dive into Deep Learning (D2L)](./websites-to-learn-ai/dive-into-deep-learning.md) — 2023-03-12
 - [PaddlePaddle AI Studio](./websites-to-learn-ai/paddlepaddle-ai-studio.md) — 2023-03-03
+- [Coursera](./websites-to-learn-ai/coursera.md) — 2023-03-03
 <!-- LE_AUTOPOST_INDEX_END -->
