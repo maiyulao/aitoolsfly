@@ -1310,6 +1310,7 @@ Discover the best AI tools in one place. AIToolsFly offers a curated directory o
 - [Rytr](./ai-writing-tools/rytr-ai-writing-assistant.md) — 2023-03-03
 - [Xiyu AI](./ai-writing-tools/xiyu-ai-alibaba-copywriting.md) — 2023-03-03
 - [Effidit](./ai-writing-tools/effidit-ai-writing-assistant.md) — 2023-03-03
+- [Yizhuan](./ai-writing-tools/yizhuan-ai-content-creator.md) — 2023-03-03
 
 ### Best Ai Image Tools
 - [Baidu Yinian](./best-ai-image-tools/baidu-yinian.md) — 2024-10-14
